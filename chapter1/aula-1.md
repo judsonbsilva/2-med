@@ -1,6 +1,4 @@
-## 24/04/17 - Bioeletrogêse
-
-### 
+### 24/04/17 - Aula 1
 
 ### Meio Interno e Homeoestase
 
@@ -28,8 +26,6 @@ Os transportes passivos são basicamente três:
 ### 
 
 ### Bioeletrogênese
-
-
 
 Origem da carga elétrica nos mescanismos da vida. O **SN** \(sistema nervoso\) é quem coordena os organismos vivos multicelulares. Esses organismos dividem-se em diferentes níveis de complexidade, células, tecidos, órgãos, sistemas, etc. A coordenação das ações dessas células é feita através de "informações" enviadas pelo SN. Essas informações são chamadas de **estímulos nervosos** e ocorrem através de cargas elétricas. Essas cargas elétricas são geradas por diferenças de potencial decorrente da diferença iônica dos meios.
 
@@ -67,8 +63,6 @@ Nos neurônios devido a presença da bainha de mielina \( produzida pelos Oligod
 
 ### Sinapses
 
-
-
 Sinapse é a junção de duas ou mais membranas entre neurônios, fibras musculares ou entre neurônio e fibra muscular. A função primordial básica é transmissão. Há dois tipos de sinapses:
 
 * **Elétrica**
@@ -82,9 +76,16 @@ Sinapse é a junção de duas ou mais membranas entre neurônios, fibras muscula
 
 Num estímulo há abertura de canais de Na+ despolarizando e polarizando o neurônio. Na chegada do estímulo na membrana pré-sinaptica há uma liberação de acetilcolina \(neurotransmissor\) pelas vesículas sinapticas e uma saída para a fenda sináptica. A acetilcolina é ligada ao receptor num sistema chave-fechadura causando uma cascata que aumenta o fluxo de cálcio pra dentro da célula contraindo a célula. Logo após a liberação há uma reação da acetilcolina com a enzima acetilcolinesterase que irá desliga-la do receptor deixando a fenda sináptica livre para o próximo estímulo.
 
-**CC**: Miastenia Grave - Produção de anticorpos anti receptor colinérgico. Destruição de cerca de 70% dos receptores colinérgicos. Pode-se tratar com anti-colinesterase que age inibindo a acetilcolinesterase
+**CC**:
+
+* Miastenia Grave - Produção de anticorpos anti receptor colinérgico. Destruição de cerca de 70% dos receptores colinérgicos. Pode-se tratar com anti-colinesterase que age inibindo a acetilcolinesterase
+* Mecanismo de ação da sinelafril \(viagra\) inibe a fosfodiesterase dos vasos periféricos fazendo-os dilatar, causando ereção
 
 **PS**: GABA \(neurotransmissor\) abre canais de Cl- induzindo uma hiperpolarização
+
+
+
+
 
 
 
