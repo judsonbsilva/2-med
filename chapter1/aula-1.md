@@ -51,11 +51,11 @@ Num processo de despolarização Na+ entra, desencadeando a despolarização K+ 
 
 Existe um transporte de membrana chamado **trocador Na+/Ca++**. Nele há uma troca entre Na+ e Ca++ para manter os níveis de Ca++ baixos no LIC. Enviando Na+ para dentro e Ca++ para fora.
 
-**CC:**
-
-* Na **Hipocalemia** ou Hipopotacemia há uma baixa concentração de K+ no LEC causando a abertura de canais de NA+ e um aumento do fluxo de Na+ para dentro da célula causando uma despolarização. Essa é a principal causa da caimbra, pois a despolarização na fibra muscular causa um aumento de contração.
-* Na **Hipercalemia** ou Hiperpotacemia há uma alta concentração de K+ no LEC causando uma diminuição no fluxo de Na+ para dentro da célula causando polarização.
-* Numa **Hipertrofia cardíaca devido a PA** **elevada** há necessidade de um aumento da força muscular cardíaca, nesse caso, usa-se digoccina, que bloqueia a bomba Na+/K+ aumentando o Na+ no LIC e diminuindo localmente no LEC. Interferindo no trocador de Na+/Ca++ pois há menos Na+ no LEC logo irá se acumular CA++ internamente aumentando a força de contração.
+> **CC:**
+>
+> * Na **Hipocalemia** ou Hipopotacemia há uma baixa concentração de K+ no LEC causando a abertura de canais de NA+ e um aumento do fluxo de Na+ para dentro da célula causando uma despolarização. Essa é a principal causa da caimbra, pois a despolarização na fibra muscular causa um aumento de contração.
+> * Na **Hipercalemia** ou Hiperpotacemia há uma alta concentração de K+ no LEC causando uma diminuição no fluxo de Na+ para dentro da célula causando polarização.
+> * Numa **Hipertrofia cardíaca devido a PA** **elevada** há necessidade de um aumento da força muscular cardíaca, nesse caso, usa-se digoccina, que bloqueia a bomba Na+/K+ aumentando o Na+ no LIC e diminuindo localmente no LEC. Interferindo no trocador de Na+/Ca++ pois há menos Na+ no LEC logo irá se acumular CA++ internamente aumentando a força de contração.
 
 Nos neurônios devido a presença da bainha de mielina \( produzida pelos Oligodendróticos no SNC e Células de Schwan no SNP \) há uma isolamento elétrico fazendo com que o as trocas iônicas e elétricas ocorram somente nos nódulos de ranvier \(entre as bainhas de mielina\). Essa** transmissão é propagada por etapas** causando um aumento de sua velocidade.
 
@@ -76,10 +76,10 @@ Sinapse é a junção de duas ou mais membranas entre neurônios, fibras muscula
 
 Num estímulo há abertura de canais de Na+ despolarizando e polarizando o neurônio. Na chegada do estímulo na membrana pré-sinaptica há uma liberação de acetilcolina \(neurotransmissor\) pelas vesículas sinapticas e uma saída para a fenda sináptica. A acetilcolina é ligada ao receptor num sistema chave-fechadura causando uma cascata que aumenta o fluxo de cálcio pra dentro da célula contraindo a célula. Logo após a liberação há uma reação da acetilcolina com a enzima acetilcolinesterase que irá desliga-la do receptor deixando a fenda sináptica livre para o próximo estímulo.
 
-**CC**:
-
-* Miastenia Grave - Produção de anticorpos anti receptor colinérgico. Destruição de cerca de 70% dos receptores colinérgicos. Pode-se tratar com anti-colinesterase que age inibindo a acetilcolinesterase
-* Mecanismo de ação da sinelafril \(viagra\) inibe a fosfodiesterase dos vasos periféricos fazendo-os dilatar, causando ereção
+> **CC**:
+>
+> * Miastenia Grave - Produção de anticorpos anti receptor colinérgico. Destruição de cerca de 70% dos receptores colinérgicos. Pode-se tratar com anti-colinesterase que age inibindo a acetilcolinesterase
+> * Mecanismo de ação da sinelafril \(viagra\) inibe a fosfodiesterase dos vasos periféricos fazendo-os dilatar, causando ereção
 
 **PS**: GABA \(neurotransmissor\) abre canais de Cl- induzindo uma hiperpolarização
 
@@ -107,6 +107,4 @@ Convulsões podem ter origem neurológica ou muscular, um exemplo de neurológic
 * Na depressão há medicação de um inibidor das enzimas que dregadam a adrenalina. \( I-MAO \)
 
 No caso da **serotonina não há uma enzima para a inibição** do neurotransmissor há uma bomba de recapitação de neurotransmissor. Existem medicamentos que inibem essa bomba aumentando a ação da serotonina.
-
-
 
