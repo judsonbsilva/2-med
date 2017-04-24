@@ -29,7 +29,11 @@ Os transportes passivos são basicamente três:
 
 ### Bioeletrogênese
 
+
+
 Origem da carga elétrica nos mescanismos da vida. O **SN** \(sistema nervoso\) é quem coordena os organismos vivos multicelulares. Esses organismos dividem-se em diferentes níveis de complexidade, células, tecidos, órgãos, sistemas, etc. A coordenação das ações dessas células é feita através de "informações" enviadas pelo SN. Essas informações são chamadas de **estímulos nervosos** e ocorrem através de cargas elétricas. Essas cargas elétricas são geradas por diferenças de potencial decorrente da diferença iônica dos meios.
+
+
 
 * O Na+ \(sódio\) é o íon de maior concentração no LEC.
 * O K+ \(potássio\), o íon que faz contrapartida com o Na+, está em maior concentração no LIC, sendo o mais importante na geração de carga elétrica da célula.
@@ -49,6 +53,8 @@ Existem **apenas dois tipos de células** que possuem membranas capazes de gerar
 * Nos músculos a despolarização causa a contração
 * Nos neurônios a despolarização está gerando potencial de ação
 
+
+
 **Geralmente polarização está associada a repouso, despolarização a ação. **Logo **hiperpolarização **é um forte repouso \(ausência de estímulo mais forte ainda\). A hiperpolarização é causada pela entrada de Cl- do LEC para o LIC tornando a polarização mais forte ainda \(**LEC++ / LIC--**\).
 
 Num processo de despolarização Na+ entra, desencadeando a despolarização K+ sai, quando os canais de Na+ forem abertos novamente o Na+ que havia entrado anteriormente na polarização irá sair gerando uma hiperpolarização \( LEC++ / LIC -- \). Nessa etapa percebe-se a** importância da bomba Na+/K+**. Pois numa recepção de estímulo \(despolarização\) a célula precisa estar polarizada \( maior quantidade de Na+ fora \). Daí o nome da bomba de Na+/K+  de** bomba bioeletrogênica**. pois **envia 3Na+ pra fora e 2K+ pra dentro**.
@@ -63,7 +69,11 @@ Existe um transporte de membrana chamado **trocador Na+/Ca++**. Nele há uma tro
 
 Nos neurônios devido a presença da bainha de mielina \( produzida pelos Oligodendróticos no SNC e Células de Schwan no SNP \) há uma isolamento elétrico fazendo com que o as trocas iônicas e elétricas ocorram somente nos nódulos de ranvier \(entre as bainhas de mielina\). Essa** transmissão é propagada por etapas** causando um aumento de sua velocidade.
 
+### 
+
 ### Sinapses
+
+
 
 Sinapse é a junção de duas ou mais membranas entre neurônios, fibras musculares ou entre neurônio e fibra muscular. A função primordial básica é transmissão. Há dois tipos de sinapses:
 
