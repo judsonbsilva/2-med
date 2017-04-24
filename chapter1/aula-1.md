@@ -85,27 +85,30 @@ Num estímulo há abertura de canais de Na+ despolarizando e polarizando o neur�
 
 Convulsões podem ter origem neurológica ou muscular, um exemplo de neurológica é a epilepsia, um exemplo de convulsão muscular é a ingestão de anti-colinesterase. Nesse caso media-se um fármaco antagonística competitivo colinérgico como, por exemplo, atropina. A Atropina age se ligando aos receptores colinérgicos sem causar contração muscular.
 
-
-
 **Neurotransmissores**
 
-
-
 * Estímulo
-  * Serotonina
+
+  * Serotonina \(Principal estimulador\)
   * Adrenalina
   * Noradrenalina
   * Acetilcolina
 
 * Inibição
+
   * GABA
   * Dopamina
   * Glicina
   * Adenosina
 
+**Ex:**
+
+* A cafeína age diminuindo a atividade inibitória competindo com a adenosina
+* Na depressão há medicação de um inibidor das enzimas que dregadam a adrenalina. \( I-MAO \)
 
 
-Ex: A cafeína age diminuindo a atividade inibitória competindo com a adenosina
+
+No caso da serotonina não há uma enzima para a inibição do neurotransmissor há uma bomba de recapitação de neurotransmissor. Existem medicamentos que inibem essa bomba aumentando a ação da serotonina.
 
 
 
