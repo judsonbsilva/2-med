@@ -107,7 +107,7 @@ Convulsões podem ter origem neurológica ou muscular, um exemplo de neurológic
 * Na depressão há medicação de um inibidor das enzimas que dregadam a adrenalina. \( I-MAO \)
 * Álcool é sempre inibidor, entretanto a inibição começa nos neurotransmissores inibidores causando euforia
 
-
-
 No caso da **serotonina não há uma enzima para a inibição** do neurotransmissor há uma bomba de recapitação de neurotransmissor. Existem medicamentos que inibem essa bomba aumentando a ação da serotonina.
+
+
 
