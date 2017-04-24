@@ -1,3 +1,5 @@
-# My Awesome Book
+# Transcrições do 2ª Período
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Esse livro é um compilado de transcrições de aulas de diferentes disciplinas do 2ª período do curso de medicina da UESPI feito com o objetivo de testar a eficácia do Gitbook  
+
+
