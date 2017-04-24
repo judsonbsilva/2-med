@@ -83,9 +83,29 @@ Num estímulo há abertura de canais de Na+ despolarizando e polarizando o neur�
 
 **PS**: GABA \(neurotransmissor\) abre canais de Cl- induzindo uma hiperpolarização
 
+Convulsões podem ter origem neurológica ou muscular, um exemplo de neurológica é a epilepsia, um exemplo de convulsão muscular é a ingestão de anti-colinesterase. Nesse caso media-se um fármaco antagonística competitivo colinérgico como, por exemplo, atropina. A Atropina age se ligando aos receptores colinérgicos sem causar contração muscular.
 
 
 
+**Neurotransmissores**
+
+
+
+* Estímulo
+  * Serotonina
+  * Adrenalina
+  * Noradrenalina
+  * Acetilcolina
+
+* Inibição
+  * GABA
+  * Dopamina
+  * Glicina
+  * Adenosina
+
+
+
+Ex: A cafeína age diminuindo a atividade inibitória competindo com a adenosina
 
 
 
