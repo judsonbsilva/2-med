@@ -36,6 +36,8 @@ Origem da carga elétrica nos mescanismos da vida. O **SN** \(sistema nervoso\) 
 * O Ca++ \(Cálcio\) no LIC está armazenado no retículo endoplasmático, porém está presente no LEC também. 
 * O Cl- \(Cloro\) em grande quantidade no LEC
 
+
+
 Existem **apenas dois tipos de células** que possuem membranas capazes de gerar estímulo: neurônios e fibras musculares. Quando os canais de passagem iônica na membrana estiverem todos fechados por um momento diz-se que essa membrana está **polarizada **\(em repouso\)**. **O **potencial de repouso** numa membrana é a DDP entre o LIC e o LEC**. Na polarização o LEC está positivamente carregado e LIC está negativamente carregado. Todo estímulo recebido pelo corpo é um potencial de ação. **Os estímulos tem diversas origens: físicos, químicos e etc. Entretanto todo estímulo "processado" pelo corpo é elétrico. O **potencial de ação** é gerado em duas fases:
 
 1. A recepção do estímulo abre um canal de Na+, fazendo-o entrar na célula por difusão simples devido o gradiente osmótico, a carga do Na+ é positiva fazendo a carga do LIC ficar positivamente carregada e o LEC fica localmente negativamente carregada. Nesse caso a membrana está momentaneamente **despolarizada. \(LEC - / LIC +\)**
@@ -61,11 +63,7 @@ Existe um transporte de membrana chamado **trocador Na+/Ca++**. Nele há uma tro
 
 Nos neurônios devido a presença da bainha de mielina \( produzida pelos Oligodendróticos no SNC e Células de Schwan no SNP \) há uma isolamento elétrico fazendo com que o as trocas iônicas e elétricas ocorram somente nos nódulos de ranvier \(entre as bainhas de mielina\). Essa** transmissão é propagada por etapas** causando um aumento de sua velocidade.
 
-
-
 ### Sinapses
-
-
 
 Sinapse é a junção de duas ou mais membranas entre neurônios, fibras musculares ou entre neurônio e fibra muscular. A função primordial básica é transmissão. Há dois tipos de sinapses:
 
@@ -78,31 +76,9 @@ Sinapse é a junção de duas ou mais membranas entre neurônios, fibras muscula
 
 **Sinapse química - Contração de músculo esquelético**
 
-
-
 Num estímulo há abertura de canais de Na+ despolarizando e polarizando o neurônio. Na chegada do estímulo na membrana pré-sinaptica há uma liberação de acetilcolina \(neurotransmissor\) pelas vesículas sinapticas e uma saída para a fenda sináptica. A acetilcolina é ligada ao receptor num sistema chave-fechadura causando uma cascata que aumenta o fluxo de cálcio pra dentro da célula contraindo a célula. Logo após a liberação há uma reação da acetilcolina com a enzima acetilcolinesterase que irá desliga-la do receptor deixando a fenda sináptica livre para o próximo estímulo.
-
-
 
 **CC**: Miastenia Grave - Produção de anticorpos anti receptor colinérgico. Destruição de cerca de 70% dos receptores colinérgicos.
 
 **PS**: GABA \(neurotransmissor\) abre canais de Cl- induzindo uma hiperpolarização
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
