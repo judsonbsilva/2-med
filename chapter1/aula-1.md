@@ -2,8 +2,6 @@
 
 ### Meio Interno e Homeoestase
 
-
-
 Claude Bernet \( fisiologista francês \) definiu **Homeoestase** como as condições quase constantes no estado de normalidade da manutenção da vida, ou seja, o equilibrio do meio interno. O **meio interno** é o líquido extracelular onde estão os nutrientes, íons, e etc.
 
 A célula possui a membrana para dividir o LIC \( líquido intracelular \) e o LEC \( líquido extracelular \). Tudo o que ingerimos, oxigênia, comida, água chega no LEC primordialmente para abastecer as células. As membranas plasmáticas das células são **semipermeáveis** \( selecionam alguns solutos \) e possui** permeabilidade seletiva **selecionando os nutrientes**. **Esse fluxo de nutrientes nos dois sentidos chama-se transporte de membrana.
@@ -28,10 +26,6 @@ Os transportes passivos são basicamente três:
 ### 
 
 ### Bioeletrogênese
-
-
-
-
 
 Origem da carga elétrica nos mescanismos da vida. O **SN** \(sistema nervoso\) é quem coordena os organismos vivos multicelulares. Esses organismos dividem-se em diferentes níveis de complexidade, células, tecidos, órgãos, sistemas, etc. A coordenação das ações dessas células é feita através de "informações" enviadas pelo SN. Essas informações são chamadas de **estímulos nervosos** e ocorrem através de cargas elétricas. Essas cargas elétricas são geradas por diferenças de potencial decorrente da diferença iônica dos meios.
 
@@ -112,6 +106,8 @@ Convulsões podem ter origem neurológica ou muscular, um exemplo de neurológic
 * A cafeína age diminuindo a atividade inibitória competindo com a adenosina
 * Na depressão há medicação de um inibidor das enzimas que dregadam a adrenalina. \( I-MAO \)
 * Álcool é sempre inibidor, entretanto a inibição começa nos neurotransmissores inibidores causando euforia
+
+
 
 No caso da **serotonina não há uma enzima para a inibição** do neurotransmissor há uma bomba de recapitação de neurotransmissor. Existem medicamentos que inibem essa bomba aumentando a ação da serotonina.
 
