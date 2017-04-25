@@ -1,4 +1,4 @@
-fasdf**enética Médica**
+25/04/17 - Aula 1 - **Genética Médica**
 
 ---
 
@@ -67,8 +67,6 @@ PF: 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb
 | :--- | :--- |
 | RR, Rr | + |
 | rr | - |
-
-
 
 **Tabela de transfusão sanguínea**
 
