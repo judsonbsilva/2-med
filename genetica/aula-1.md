@@ -36,3 +36,7 @@ Quando não há dominância entre os alelos. Os alenos interagem dando origem a 
 
 Na codominância os dois fenótipos se expressam ao mesmo tempo
 
+
+
+
+
