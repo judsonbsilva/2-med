@@ -8,15 +8,13 @@ Há duas formas básicas de psicopatologia a descritiva e a explicativa. Na expl
 
 Funções psiquicas: atitude e aparência. Aparência seria como o indivíduo se apresenta a qual poderia ser adequada, extravagante, bizarra, exibicionista, etc. Atitude seria um padrão comportamental que o indivíduo apresenta.
 
-
-
-Ex de aparências:
+**Ex de aparências:**
 
 * Adequado: vestimenta comum
 * Exibicionista: Roupa apertada, vestido de festa
 * Extravagante: Coroa na cabeça, arrastar vassouras
 
-Ex de atitudes:
+**Ex de atitudes:**
 
 * Sedutora: querendo agradar
 * Expansiva:
@@ -25,6 +23,8 @@ Ex de atitudes:
 * Negativa: pessimista
 * Suspicaz \(em suspeita, receiosa\): mania de perseguição
 * Delirante: percepção de realidade deturbada
+
+
 
 
 
