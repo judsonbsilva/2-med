@@ -10,27 +10,25 @@ Revisar: Genética mendeliana, herança mendeliana, leis de mendel, herança int
 
 PS: Nem tudo que é genético é hereditário.
 
+**1ª Lei de Mendel**
 
+Supondo que estamos observando uma sequência de cruzamento de ervilhas amarelas e verdes em que a cor verde é recessiva e as ervilhas cruzadas são puras. Podemos representar a geração parental \(P\) como AA \(amarela\) e aa\(verde\). A geração F1 será inteiramente Aa. Entretanto a geração F2 sera um cruzamento de Aa x Aa origidando em uma série de possibilidades: AA, Aa  e aa.
 
-Supondo 
-
-
+Tendo em vista que a cor verde é uma herança recessiva, ela só será expressa num homozigoto aa.
 
 **Proporção Fenotípica** _\(PF\) = _É a proporção em que será expressa ou suprimida determinada característica numa data geração
 
 **Proporção Genotipica** _\(PG\) _= É a proporção que aparecerá cada genótico possível numa geração
 
+A PG de F2 é 1AA:2Aa:1aa. 
 
+A PF de F2 é 3A\_:1aa
 
-### **Revisão**
+Analisando-se o caso percebe-se que existem padrões para as propragações de características no decorrer das gerações.
 
-**1ª Lei de Mendel**
+**Codominância**
 
-| P \(Geração Parental\) | Aa | aa |
-| :--- | :--- | :--- |
-| F1 | 1Aa:1aa |  |
-|  |  |  |
-|  |  |  |
+Quando duas heranças se expressam juntas. Supondo que cruzaremos duas flores puras de cores diferentes. Brancas \(AA\) e Vermelhas \(BB\). A geração F1 terá genótico AB e cor \(fenótipo\) vermelha + branca.
 
 
 
