@@ -38,7 +38,7 @@ Na codominância os dois fenótipos se expressam ao mesmo tempo.
 
 **Alelos letais**
 
-Quando alguma das combinações genotípicas é incompatível com a vida. Suponha que iremos cruzar dois ratos de laboratório um cinza e um branco onde a cor cinza é uma herança dominante e ambos são puros. Nesse caso observa-se que os indivíduos de genótipo AA não sobreviveram. Logo a geração F1 terá PG: 0AA:2Aa:1aa e PF: 2Aa \(Cinza\): 1aa \(Branco\). 
+Quando alguma das combinações genotípicas é incompatível com a vida. Suponha que iremos cruzar dois ratos de laboratório um cinza e um branco onde a cor cinza é uma herança dominante e ambos são puros. Nesse caso observa-se que os indivíduos de genótipo AA não sobreviveram. Logo a geração F1 terá PG: 0AA:2Aa:1aa e PF: 2Aa \(Cinza\): 1aa \(Branco\).
 
 **Polialelia**
 
@@ -46,9 +46,17 @@ Quando um fenótipo é definido por um gene que possuei vários alelos.
 
 ### 2ª Lei de Mendel
 
-PG: 1:2:1
+PG: 1:2:1 x 1:2:1 =  1:2:1:2:4:2:1:2:1 = 1 AABB: 2AABb: 1AAbb: 2AaBB: 4AaBb: 2Aabb: 1aaBB: 2aaBb: 1aabb
 
+PF: 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb
 
+### Sistema ABO Rh
+
+| Genótipo | Fenótipo |
+| :--- | :--- |
+|  |  |
+|  |  |
+|  |  |
 
 
 
