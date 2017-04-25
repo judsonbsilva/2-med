@@ -10,5 +10,27 @@ Revisar: Genética mendeliana, herança mendeliana, leis de mendel, herança int
 
 PS: Nem tudo que é genético é hereditário.
 
-Hipercolesterolemia familiar
+
+
+Supondo 
+
+
+
+**Proporção Fenotípica** _\(PF\) = _É a proporção em que será expressa ou suprimida determinada característica numa data geração
+
+**Proporção Genotipica** _\(PG\) _= É a proporção que aparecerá cada genótico possível numa geração
+
+
+
+### **Revisão**
+
+**1ª Lei de Mendel**
+
+| P \(Geração Parental\) | Aa | aa |
+| :--- | :--- | :--- |
+| F1 | 1Aa:1aa |  |
+|  |  |  |
+|  |  |  |
+
+
 
