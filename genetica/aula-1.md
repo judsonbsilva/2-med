@@ -20,7 +20,7 @@ Tendo em vista que a cor verde é uma herança recessiva, ela só será expressa
 
 **Proporção Genotipica** _\(PG\) _= É a proporção que aparecerá cada genótico possível numa geração
 
-A PG de F2 é 1AA:2Aa:1aa. 
+A PG de F2 é 1AA:2Aa:1aa.
 
 A PF de F2 é 3A\_:1aa
 
@@ -28,7 +28,5 @@ Analisando-se o caso percebe-se que existem padrões para as propragações de c
 
 **Codominância**
 
-Quando duas heranças se expressam juntas. Supondo que cruzaremos duas flores puras de cores diferentes. Brancas \(AA\) e Vermelhas \(BB\). A geração F1 terá genótico AB e cor \(fenótipo\) vermelha + branca.
-
-
+Quando duas heranças se expressam juntas. Supondo que cruzaremos duas flores puras de cores diferentes. Brancas \(AA\) e Vermelhas \(BB\). A geração F1 terá genótico AB e duas cores ao mesmo tempo vermelho e brancb.
 
