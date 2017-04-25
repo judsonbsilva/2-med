@@ -7,6 +7,7 @@
 * [Anatomia 2](anatomia-2.md)
 * [Genética](genetica.md)
 * [Psicologia Médica](psicologia-medica.md)
+  * [Aula 1](psicologia-medica/aula-1.md)
 * [Epidemiologia](epidemiologia.md)
 * [Embriologia](embriologia.md)
 
