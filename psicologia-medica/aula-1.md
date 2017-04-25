@@ -26,5 +26,33 @@ Funções psiquicas: atitude e aparência. Aparência seria como o indivíduo se
 
 
 
+Consciência seria todas as funções psiquicas ocorrendo simultaneamente. Conforme o nível da atividade dessas funções pode-se dividir a consciência em níveis: lucidez, obnubilação, torpor, pré-coma, coma. O estado de alerta e bom funcionamento dessas funções psiquicas seria a lucidez, uma leve deturpação desta seria a obnubilação \(enevoamento\). No torpor o indivíduo já não responde por si mesmo. Pré-coma seria uma intersecção entre torpor e coma. Coma seria um estado de baixíssimo funcionamento das funções psiquicas.
 
+As alterações nos níveis de consciência podem ser quantitativas ou qualitativas. O sono, por exemplo, seria uma alteração quantitativa fisiológica pois o indivíduo poderia ter muito ou pouco sono. Uma alteração qualitativa poderia ser o sonho.
+
+
+
+O rebaixamento patológico quantitativo dos níveis de consciência se divide em dois estados: confusional simples \(uma diminuição de alguma função psiquica\), confuso oniroide \(estado confusional simples com alterações psicóticas, delírios, alucinação\). 
+
+
+
+O rebaixamento qualitativo seria um estreitamento de campo da consciência, exemplo uma amnésia pós-traumática, as funções psiquicas estão funcionando entretanto há uma perca de parte da memória.
+
+
+
+
+
+Imagina-se 
+
+
+
+
+
+Consciência de Morbidade
+
+Consciência do eu
+
+
+
+ Mecanismos de memória, aspecto da vontade,  orientação.
 
