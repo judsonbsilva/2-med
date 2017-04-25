@@ -68,7 +68,7 @@ PF: 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb
 | A | A, AB | A, O |
 | B | B, AB | B, O |
 | AB | AB | A, B, O |
-| O |  |  |
+| O | A, B, AB, O | O |
 
 
 
