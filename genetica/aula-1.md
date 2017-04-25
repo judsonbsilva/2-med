@@ -28,5 +28,5 @@ Analisando-se o caso percebe-se que existem padrões para as propragações de c
 
 **Codominância**
 
-Quando duas heranças se expressam juntas. Supondo que cruzaremos duas flores puras de cores diferentes. Brancas \(AA\) e Vermelhas \(BB\). A geração F1 terá genótico AB e duas cores ao mesmo tempo vermelho e branco.
+Quando duas heranças se expressam juntas. Supondo que cruzaremos duas flores puras de cores diferentes. Brancas \(AA\) e Vermelhas \(BB\). A geração F1 terá genótico AB e um híbrido das duas cores \(vermelho + branco\) rosado. Na geração F2 haverá PG: 1AA:2AB:BB, PF: 1 A \(Branca\): 2 AB \(Rosa\): 1 BB \(Vermelha\)  
 
