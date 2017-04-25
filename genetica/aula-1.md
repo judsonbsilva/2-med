@@ -1,4 +1,4 @@
-25/04/17 - Aula 1 - **Genética Médica**
+fasdf**enética Médica**
 
 ---
 
@@ -52,11 +52,12 @@ PF: 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb
 
 ### Sistema ABO Rh
 
-| Genótipo | Fenótipo |
+| Genótipo | Fenótipo \(Tipo sanguíneo\) |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
+| I\(a\)I\(a\)  ou  I\(a\)i | A |
+| I\(b\)I\(b\)  ou I\(b\)i | B |
+| I\(a\)I\(b\) | AB |
+| ii | O |
 
 
 
