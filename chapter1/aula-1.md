@@ -1,5 +1,7 @@
 ### 24/04/17 - Aula 1
 
+---
+
 ### Meio Interno e Homeoestase
 
 Claude Bernet \( fisiologista francês \) definiu **Homeoestase** como as condições quase constantes no estado de normalidade da manutenção da vida, ou seja, o equilibrio do meio interno. O **meio interno** é o líquido extracelular onde estão os nutrientes, íons, e etc.
@@ -23,7 +25,7 @@ Os transportes passivos são basicamente três:
 * **Osmose**: pressão osmótica é a diferença tônica do meio \( presença de maior soluto atrai maior quantidade de água \) hipertônico ou hipotônico
 * **Difusão simples: **gradiente de concentração \( de onde tem mais para onde tem menos \)
 
-### 
+---
 
 ### Bioeletrogênese
 
@@ -59,7 +61,7 @@ Existe um transporte de membrana chamado **trocador Na+/Ca++**. Nele há uma tro
 
 Nos neurônios devido a presença da bainha de mielina \( produzida pelos Oligodendróticos no SNC e Células de Schwan no SNP \) há uma isolamento elétrico fazendo com que o as trocas iônicas e elétricas ocorram somente nos nódulos de ranvier \(entre as bainhas de mielina\). Essa** transmissão é propagada por etapas** causando um aumento de sua velocidade.
 
-### 
+---
 
 ### Sinapses
 
@@ -108,6 +110,4 @@ Convulsões podem ter origem neurológica ou muscular, um exemplo de neurológic
 * Álcool é sempre inibidor, entretanto a inibição começa nos neurotransmissores inibidores causando euforia
 
 No caso da **serotonina não há uma enzima para a inibição** do neurotransmissor há uma bomba de recapitação de neurotransmissor. Existem medicamentos que inibem essa bomba aumentando a ação da serotonina.
-
-
 
