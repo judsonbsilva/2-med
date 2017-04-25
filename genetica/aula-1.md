@@ -52,12 +52,23 @@ PF: 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb
 
 ### Sistema ABO Rh
 
+**Manifestação do Antígeno nas Hemácias**
+
 | Genótipo | Fenótipo \(Tipo sanguíneo\) |
 | :--- | :--- |
 | I\(a\)I\(a\)  ou  I\(a\)i | A |
 | I\(b\)I\(b\)  ou I\(b\)i | B |
 | I\(a\)I\(b\) | AB |
 | ii | O |
+
+**Tabela de transfusão sanguínea**
+
+| Tipo | Doa para | Recebe de |
+| :--- | :--- | :--- |
+| A | A, AB | A, O |
+| B | B, AB | B, O |
+| AB | AB | A, B, O |
+| O |  |  |
 
 
 
