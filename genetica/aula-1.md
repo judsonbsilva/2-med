@@ -26,7 +26,15 @@ A PF de F2 é 3A\_:1aa
 
 Analisando-se o caso percebe-se que existem padrões para as propragações de características no decorrer das gerações.
 
+### **Modificações nas proporções mendelianas**
+
+**Ausência de Dominância / Herança Intermediária / Dominância Incompleta**
+
+Quando não há dominância entre os alelos. Os alenos interagem dando origem a um novo fenótipo. Supondo que cruzaremos duas flores puras de cores diferentes. Brancas \(AA\) e Vermelhas \(BB\). A geração F1 terá genótico AB e um híbrido das duas cores \(vermelho + branco\) rosado. Na geração F2 haverá PG: 1AA:2AB:BB, PF: 1 A \(Branca\): 2 AB \(Rosa\): 1 BB \(Vermelha\)
+
 **Codominância**
 
-Quando duas heranças se expressam juntas. Supondo que cruzaremos duas flores puras de cores diferentes. Brancas \(AA\) e Vermelhas \(BB\). A geração F1 terá genótico AB e um híbrido das duas cores \(vermelho + branco\) rosado. Na geração F2 haverá PG: 1AA:2AB:BB, PF: 1 A \(Branca\): 2 AB \(Rosa\): 1 BB \(Vermelha\)  
+Na codominância os os dois fenótipos se expressam ao mesmo tempo
+
+
 
