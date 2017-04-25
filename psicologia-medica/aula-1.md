@@ -30,8 +30,6 @@ Funções psiquicas: atitude e aparência. Aparência seria como o indivíduo se
 
 ### Consciência
 
-
-
 Consciência seria todas as funções psiquicas ocorrendo simultaneamente. Conforme o nível da atividade dessas funções pode-se dividir a consciência em níveis: lucidez, obnubilação, torpor, pré-coma, coma. O estado de alerta e bom funcionamento dessas funções psiquicas seria a lucidez, uma leve deturpação desta seria a obnubilação \(enevoamento\). No torpor o indivíduo já não responde por si mesmo. Pré-coma seria uma intersecção entre torpor e coma. Coma seria um estado de baixíssimo funcionamento das funções psiquicas.
 
 #### Níveis de consciência
@@ -44,11 +42,27 @@ O rebaixamento qualitativo seria um estreitamento de campo da consciência, exem
 
 #### Consciência de Morbidade
 
-Essa consciência seria a percepção própria de patologia. Quando o indivíduo tem percepção de que há um problemo consigo mesmo seja ele psiquico, fisiológico, social, diz-se que tem consciência de morbidade. Maníacos \(Eufóricos\) são pessoas sem consciência de morbidade. Essa consciência tem relação com as gradações de humor que vão desde a depressão profunda até a mania \(euforia\) passando por depressão leve, tristeza normal intensa, tristeza moderada, tristeza leve, normal, alegria leve, alegria moderada, alegria eufórica, hipomania, mania. 
+Essa consciência seria a percepção própria de patologia. Quando o indivíduo tem percepção de que há um problemo consigo mesmo seja ele psiquico, fisiológico, social, diz-se que tem consciência de morbidade. Maníacos \(Eufóricos\) são pessoas sem consciência de morbidade. Essa consciência tem relação com as gradações de humor que vão desde a depressão profunda até a mania \(euforia\) passando por depressão leve, tristeza normal intensa, tristeza moderada, tristeza leve, normal, alegria leve, alegria moderada, alegria eufórica, hipomania, mania.
 
 PS: Um transtorno bipolar seria uma mudança brusca nessa gradação.
 
 #### Consciência do eu
+
+Segundo Jaspers a consciência do eu seria dividida em diversos aspectos: atividade do eu, unidade, identidade, limites.
+
+A** atividade do eu** seria autônomia da vontade \(percepção, pensamento\) do indivíduo, numa alteração patológica desse aspecto o indivíduo não acredita que seja o senhor de sua própria vontade se vendo como uma marionete.
+
+A **unidade do eu** seria a percepção única de si e de realidade, fisicamente ou psicologicamente, num dado momento. Alterações patológicas nesse aspecto fazem com que o indivíduo sinta ao mesmo tempo amor e ódio, calor e frio, duas ou mais coisas ao mesmo tempo de forma contraditória e etc.
+
+Ex: Uma pessoa que diz ser Pedro 1ª e Nabucodonosor simultaneamento e ao mesmo tempo com contradições entre esses dois
+
+Ex2: Duas caras do batman
+
+A **identidade do eu** seria o reconhecimento de si mesmo como uma única pessoa o tempo inteiro. Numa alteração desse aspecto a pessoa teria uma identidade diferentes em momentos diferentes, seria uma espécia de troca de consciência.
+
+Ex: Hulk, uma hora um cientista calmo outra hora um monstro violento.
+
+O **limite do eu** seria o reconhecimento dos limites do seu corpo e mente. Saber que eu sou um organismo que não se confunde com outros objetos. Numa alteração uma mesa seria uma extensão de si.
 
 
 
