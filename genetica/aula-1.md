@@ -10,7 +10,7 @@ Revisar: Genética mendeliana, herança mendeliana, leis de mendel, herança int
 
 PS: Nem tudo que é genético é hereditário.
 
-**1ª Lei de Mendel**
+### **1ª Lei de Mendel**
 
 Supondo que estamos observando uma sequência de cruzamento de ervilhas amarelas e verdes em que a cor verde é recessiva e as ervilhas cruzadas são puras. Podemos representar a geração parental \(P\) como AA \(amarela\) e aa\(verde\). A geração F1 será inteiramente Aa. Entretanto a geração F2 sera um cruzamento de Aa x Aa origidando em uma série de possibilidades: AA, Aa  e aa.
 
@@ -38,7 +38,17 @@ Na codominância os dois fenótipos se expressam ao mesmo tempo.
 
 **Alelos letais**
 
-Quando alguma das combinações genotípicas é incompatível com a vida.
+Quando alguma das combinações genotípicas é incompatível com a vida. Suponha que iremos cruzar dois ratos de laboratório um cinza e um branco onde a cor cinza é uma herança dominante e ambos são puros. Nesse caso observa-se que os indivíduos de genótipo AA não sobreviveram. Logo a geração F1 terá PG: 0AA:2Aa:1aa e PF: 2Aa \(Cinza\): 1aa \(Branco\). 
+
+**Polialelia**
+
+Quando um fenótipo é definido por um gene que possuei vários alelos.
+
+### 2ª Lei de Mendel
+
+PG: 1:2:1
+
+
 
 
 
