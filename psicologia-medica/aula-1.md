@@ -2,6 +2,8 @@
 
 ---
 
+### Funções psíquicas
+
 A normalidade psíquica geralmente é vista de três aspectos: subjetivo, idealístico e estatístico. Subjetivo é a visão de normalidade de si mesmo. Idealístico é o que é visto socialmente como normal. Estatístico é a média inferida a partir de análise estatística.
 
 Há duas formas básicas de psicopatologia a descritiva e a explicativa. Na explicativa há uma busca das causas de anormalidades. Na descritiva há uma descrição pura dos fenômenos e como eles se apresentam.
@@ -24,7 +26,15 @@ Funções psiquicas: atitude e aparência. Aparência seria como o indivíduo se
 * Suspicaz \(em suspeita, receiosa\): mania de perseguição
 * Delirante: percepção de realidade deturbada
 
+---
+
+### Consciência
+
+
+
 Consciência seria todas as funções psiquicas ocorrendo simultaneamente. Conforme o nível da atividade dessas funções pode-se dividir a consciência em níveis: lucidez, obnubilação, torpor, pré-coma, coma. O estado de alerta e bom funcionamento dessas funções psiquicas seria a lucidez, uma leve deturpação desta seria a obnubilação \(enevoamento\). No torpor o indivíduo já não responde por si mesmo. Pré-coma seria uma intersecção entre torpor e coma. Coma seria um estado de baixíssimo funcionamento das funções psiquicas.
+
+#### Níveis de consciência
 
 As alterações nos níveis de consciência podem ser quantitativas ou qualitativas. O sono, por exemplo, seria uma alteração quantitativa fisiológica pois o indivíduo poderia ter muito ou pouco sono. Uma alteração qualitativa poderia ser o sonho.
 
@@ -32,9 +42,13 @@ O rebaixamento patológico quantitativo dos níveis de consciência se divide em
 
 O rebaixamento qualitativo seria um estreitamento de campo da consciência, exemplo uma amnésia pós-traumática, as funções psiquicas estão funcionando entretanto há uma perca de parte da memória.
 
-Consciência de Morbidade
+#### Consciência de Morbidade
 
-Consciência do eu
+Essa consciência seria a percepção própria de patologia. Quando o indivíduo tem percepção de que há um problemo consigo mesmo seja ele psiquico, fisiológico, social, diz-se que tem consciência de morbidade. Maníacos \(Eufóricos\) são pessoas sem consciência de morbidade. Essa consciência tem relação com as gradações de humor que vão desde a depressão profunda até a mania \(euforia\) passando por depressão leve, tristeza normal intensa, tristeza moderada, tristeza leve, normal, alegria leve, alegria moderada, alegria eufórica, hipomania, mania. 
 
-Mecanismos de memória, aspecto da vontade,  orientação.
+PS: Um transtorno bipolar seria uma mudança brusca nessa gradação.
+
+#### Consciência do eu
+
+
 
