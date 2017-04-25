@@ -50,9 +50,9 @@ PG: 1:2:1 x 1:2:1 =  1:2:1:2:4:2:1:2:1 = 1 AABB: 2AABb: 1AAbb: 2AaBB: 4AaBb: 2Aa
 
 PF: 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb
 
-### Sistema ABO Rh
+### Sistema ABO e Rh
 
-**Manifestação do Antígeno nas Hemácias**
+**Manifestação dos antígenos nas Hemácias**
 
 | Genótipo | Fenótipo \(Tipo sanguíneo\) |
 | :--- | :--- |
@@ -60,6 +60,15 @@ PF: 9 A-B- : 3 A-bb : 3 aaB- : 1 aabb
 | I\(b\)I\(b\)  ou I\(b\)i | B |
 | I\(a\)I\(b\) | AB |
 | ii | O |
+
+**Manifestação do Rh**
+
+| Genótipo | Fenótipo |
+| :--- | :--- |
+| RR, Rr | + |
+| rr | - |
+
+
 
 **Tabela de transfusão sanguínea**
 
