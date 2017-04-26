@@ -58,7 +58,7 @@ Existe um transporte de membrana chamado **trocador Na+/Ca++**. Nele há uma tro
 >
 > * Na **Hipocalemia** ou Hipopotacemia há uma baixa concentração de K+ no LEC causando a abertura de canais de NA+ e um aumento do fluxo de Na+ para dentro da célula causando uma despolarização. Essa é a principal causa da caimbra, pois a despolarização na fibra muscular causa um aumento de contração.
 > * Na **Hipercalemia** ou Hiperpotacemia há uma alta concentração de K+ no LEC causando uma diminuição no fluxo de Na+ para dentro da célula causando polarização.
-> * Numa **Hipertrofia cardíaca devido a PA** **elevada** há necessidade de um aumento da força muscular cardíaca, nesse caso, usa-se digoccina, que bloqueia a bomba Na+/K+ aumentando o Na+ no LIC e diminuindo localmente no LEC. Interferindo no trocador de Na+/Ca++ pois há menos Na+ no LEC logo irá se acumular CA++ internamente aumentando a força de contração.
+> * Numa **Hipertrofia cardíaca devido a PA** **elevada** há necessidade de um aumento da força muscular cardíaca, nesse caso, usa-se digoccina, que bloqueia a bomba Na+/K+ aumentando o Na+ no LIC e diminuindo localmente no LEC. Interferindo no trocador de Na+/Ca++ pois há menos Na+ no LEC logo irá se acumular Ca++ internamente aumentando a força de contração.
 
 Nos neurônios devido a presença da bainha de mielina \( produzida pelos Oligodendróticos no SNC e Células de Schwan no SNP \) há uma isolamento elétrico fazendo com que o as trocas iônicas e elétricas ocorram somente nos nódulos de ranvier \(entre as bainhas de mielina\). Essa** transmissão é propagada por etapas** causando um aumento de sua velocidade.
 
