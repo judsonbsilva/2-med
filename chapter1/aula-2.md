@@ -59,9 +59,13 @@ No músculo contraído:
   * Sistema Nervoso Somático \(para o músculo esquelético\)
   * Sistema Nervoso Autônomo \(para o músculo cardíaco e liso\)
     * Simpático
+      * O corpo celular faz sinapse num gânglio \(paravertebral\) próximo de sua origem e parte para as visceras
+      * **Neurônios pós-ganglionares adrenérgicos e noradrenérgicos**
     * Parassimpático
+      * O corpo celular faz sinapse num gânglio de localização variável e parte para as vísceras
+      * **Neurônios pós-gânglionares colinérgicos**
 
 **Sistema Nervoso Autônomo**
 
-Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2.
+Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2 \(toracolombar\). O corpo celular de todo neurônio parassimpático encontra-se no tronco encefálico e vértebras sacrais. Sabe-se que os gânglios são compostos por axônios de neurônios pré-ganglionares e corpos de neurônios pós-gânglionares. No caso do SNA todos os neurônios fazem sinapse em gânglios e todo neurônio pré-gânglionares são colinérgicos.
 
