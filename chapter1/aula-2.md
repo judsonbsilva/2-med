@@ -1,4 +1,4 @@
-acia
+ O corpor celular de todo neurônio parassimpátia
 
 /04/17 - Aula 2 -** Fisiologia**
 
@@ -63,11 +63,5 @@ No músculo contraído:
 
 **Sistema Nervoso Autônomo**
 
-Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2. 
-
-
-
-
-
-
+Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2.
 
