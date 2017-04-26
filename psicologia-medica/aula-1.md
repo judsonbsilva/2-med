@@ -64,5 +64,3 @@ Ex: Hulk, uma hora um cientista calmo outra hora um monstro violento.
 
 O **limite do eu** seria o reconhecimento dos limites do seu corpo e mente. Saber que eu sou um organismo que não se confunde com outros objetos. Numa alteração uma mesa seria uma extensão de si.
 
-
-
