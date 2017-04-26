@@ -67,5 +67,11 @@ No músculo contraído:
 
 **Sistema Nervoso Autônomo**
 
-Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2 \(toracolombar\). O corpo celular de todo neurônio parassimpático encontra-se no tronco encefálico e vértebras sacrais. Sabe-se que os gânglios são compostos por axônios de neurônios pré-ganglionares e corpos de neurônios pós-gânglionares. No caso do SNA todos os neurônios fazem sinapse em gânglios e todo neurônio pré-gânglionares são colinérgicos.
+Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2 \(toracolombar\). O corpo celular de todo neurônio parassimpático encontra-se no tronco encefálico e vértebras sacrais. Sabe-se que os gânglios são compostos por axônios de neurônios pré-ganglionares e corpos de neurônios pós-gânglionares. No caso do SNA todos os neurônios fazem sinapse em gânglios e todo neurônio pré-gânglionares são colinérgicos. Os receptores dos neurônios do SNS, dos neurônios pré-ganglionares do SNA e os receptores suprarrenais são nicotínicos. 
+
+> CC: Em fumantes os níveis altos de nicotina estimulam a produção de adrenalina na suprarrenal dando sensação eufórica. Na abstinência devido a falta de nicotina os níveis de adrenalina baixam diminuindo a atividade do parassimpático na digestão. Na atividade do simpático constante há um aumento na atividade digestório e um consequente aumento de peso.
+
+PS: Durante atividade física na liberação de adrenalina há uma inibição do peristaltismo no intestino.
+
+**PS: epinefrina = adrenalina**
 
