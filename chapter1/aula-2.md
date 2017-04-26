@@ -79,5 +79,5 @@ PS: PANCREATÍTE AGUDA PEGAR INFORMAÇÕES
 
 Os receptores pós-ganglionares simpáticos são noradrenégicos e divididos em alpha e beta. \(_a1, a2, b1, b2, b3_\)
 
-Os receptores pós-ganglionares parassimpáticos são muscarínicos \(m1, m2, m3\)
+Os receptores pós-ganglionares parassimpáticos são muscarínicos _\(m1, m2, m3\)_
 
