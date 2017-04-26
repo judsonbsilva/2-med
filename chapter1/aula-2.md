@@ -35,7 +35,7 @@ No músculo contraído:
 * Abertura dos canais de Na+ na fibra muscular
 * Na+ no citosol se liga em vesículas liberando Ca++ no citosol
 * O Ca++ no citosol se liga na subunidade C da Troponina
-* A troponina ligada ao Ca++ altera a conformação     da tropomiosina expondo os filamentos de actina a molécula de miosina
+* A troponina ligada ao Ca++ altera a conformação espacial da tropomiosina expondo os filamentos de actina a molécula de miosina
 * Nesse momento uma molécula de ATP é hidrolisada fornecendo energia para a ponte cruzada
 * A cabeça da miosina move-se e liga-se a actina
 * Há uma aproximação entre as respectivas placas Z 
@@ -46,8 +46,8 @@ No músculo contraído:
 
 * Ativação da bomba de Ca++ utilizando de ATP para retirar Ca++ do citosol para o sarcolema
 * Com a liberação do Ca++ da Troponina há perca de afinidade do ADP \(ATP hidrolisado\) com a miosina
-* A cabeça da miosina fica livre e liga-se a um ATP livre no citosol
-* Há um desligamento da miosina e actina
+* A cabeça da miosina desliga-se do ADP e fica livre e ligando-se a um ATP livre no citosol
+* Há uma linalização para desligamento da miosina e actina
 * Distanciamento entre as respectivas placas Z
 
 
