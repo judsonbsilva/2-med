@@ -6,11 +6,11 @@
 
 Claude Bernet \( fisiologista francês \) definiu **Homeoestase** como as condições quase constantes no estado de normalidade da manutenção da vida, ou seja, o equilibrio do meio interno. O **meio interno** é o líquido extracelular onde estão os nutrientes, íons, e etc.
 
-A célula possui a membrana para dividir o LIC \( líquido intracelular \) e o LEC \( líquido extracelular \). Tudo o que ingerimos, oxigênia, comida, água chega no LEC primordialmente para abastecer as células. As membranas plasmáticas das células são **semipermeáveis** \( selecionam alguns solutos \) e possui** permeabilidade seletiva **selecionando os nutrientes**. **Esse fluxo de nutrientes nos dois sentidos chama-se transporte de membrana.
+A célula possui a membrana para dividir o LIC \( líquido intracelular \) e o LEC \( líquido extracelular \). Tudo o que ingerimos, oxigênia, comida, água chega no LEC primordialmente para abastecer as células. As membranas plasmáticas das células possuem** permeabilidade seletiva **selecionando os nutrientes**. **Esse fluxo de nutrientes nos dois sentidos chama-se transporte de membrana.
 
 Ex: O sangue é um exemplo de LEC.
 
-O LEC varia mais frequentemente que o LIC. Um desequilíbrio desse líquido pode causar patologias. A Homeoestase é o mantimento quase constante desse líquido. Essa homeoestase é mantida através de **mecanismos de feedback**. Existem basicamente dois tipos de feedback: positivo e negativo. A maioria dos mecanismos de feedback do corpo é negativo funcionando de forma inversa ao desequilíbrio. Porém, existem mecanismo de feedback positivo também.
+O LEC varia mais frequentemente que o LIC. Um desequilíbrio desse meio pode causar patologias. A Homeoestase é o mantimento quase constante desse líquido. Essa homeoestase é mantida através de **mecanismos de feedback**. Existem basicamente dois tipos de feedback: positivo e negativo. A maioria dos mecanismos de feedback do corpo é negativo funcionando de forma inversa ao desequilíbrio. Porém, existem mecanismo de feedback positivo também.
 
 **Ex**
 
@@ -24,6 +24,7 @@ Os transportes passivos são basicamente três:
 
 * **Osmose**: pressão osmótica é a diferença tônica do meio \( presença de maior soluto atrai maior quantidade de água \) hipertônico ou hipotônico
 * **Difusão simples: **gradiente de concentração \( de onde tem mais para onde tem menos \)
+* **Difusão facilitada: **Transporte mediado por uma proteína transmembrana
 
 ---
 
