@@ -71,7 +71,7 @@ Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de form
 
 > CC: Em fumantes os níveis altos de nicotina estimulam a produção de adrenalina na suprarrenal dando sensação eufórica. Na abstinência devido a falta de nicotina os níveis de adrenalina baixam diminuindo a atividade do parassimpático na digestão. Na atividade do simpático constante há um aumento na atividade digestório e um consequente aumento de peso.
 
-PS: Durante atividade física na liberação de adrenalina há uma inibição do peristaltismo no intestino.
+PS: Durante atividade física na liberação de adrenalina há uma inibição do peristaltismo no intestino. Vaso constricção visceral e vaso dilatação nos músculos esqueléticos
 
 PS: PANCREATÍTE AGUDA PEGAR INFORMAÇÕES
 
@@ -80,4 +80,19 @@ PS: PANCREATÍTE AGUDA PEGAR INFORMAÇÕES
 Os receptores pós-ganglionares simpáticos são noradrenégicos e divididos em alpha e beta. \(_a1, a2, b1, b2, b3_\)
 
 Os receptores pós-ganglionares parassimpáticos são muscarínicos _\(m1, m2, m3\)_
+
+
+
+| Receptores | Local de maior predominância |
+| :--- | :--- |
+| _a1_ | Musculatura visceral, pupila, esfincteris do aparelho digestório, |
+| _a2_ | Musculatura lisa digestório |
+| _b1_ |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
 
