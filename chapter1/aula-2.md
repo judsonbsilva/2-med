@@ -50,5 +50,9 @@ No músculo contraído:
 * Há uma linalização para desligamento da miosina e actina
 * Distanciamento entre as respectivas placas Z
 
+---
+
+### Sistema Nervoso
+
 
 
