@@ -54,5 +54,16 @@ No músculo contraído:
 
 ### Sistema Nervoso
 
+* Sistema Nervoso Central
+* Sistema Nervoso Periférico
+  * Sistema Nervoso Somático \(para o músculo esquelético\)
+  * Sistema Nervoso Autônomo \(para o músculo cardíaco e liso\)
+    * Simpático
+    * Parassimpático
+
+**Sistema Nervoso Autônomo**
+
+Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2.
+
 
 
