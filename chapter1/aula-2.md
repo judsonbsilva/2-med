@@ -2,9 +2,11 @@
 
 ---
 
+### Anestésicos Locais
+
+A maioria dos anestésicos locais funcionam bloqueando canais de Na+ tornando a polarização das células constate, isso é, deixando-as insensível a estímulos.
+
 ### Contração Muscular
-
-
 
 
 
