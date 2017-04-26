@@ -61,6 +61,7 @@ No músculo contraído:
     * Simpático
       * O corpo celular faz sinapse num gânglio \(paravertebral\) próximo de sua origem e parte para as visceras
       * **Neurônios pós-ganglionares adrenérgicos e noradrenérgicos**
+      * A única fibra pós-ganglionar colinérgica que chega num receptor nicotínico em músculo esquelético vai para as **glândulas sudoriparas**
     * Parassimpático
       * O corpo celular faz sinapse num gânglio de localização variável e parte para as vísceras
       * **Neurônios pós-gânglionares colinérgicos**
@@ -81,18 +82,16 @@ Os receptores pós-ganglionares simpáticos são noradrenégicos e divididos em 
 
 Os receptores pós-ganglionares parassimpáticos são muscarínicos _\(m1, m2, m3\)_
 
-
-
 | Receptores | Local de maior predominância |
 | :--- | :--- |
-| _a1_ | Musculatura visceral, pupila, esfincteris do aparelho digestório, |
+| _a1_ | Musculatura visceral, pupila, esfincteris do aparelho digestório |
 | _a2_ | Musculatura lisa digestório |
-| _b1_ |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| _b1_ | Coração, Rins |
+| _b2_ | Pulmão, Artérias da musculatura esquelética  |
+| _b3_ | Tecido adiposo |
+| _m1_ | Pulmão |
+| _m2_ | Coração |
+| _m3_ | Demais órgãos |
 
 
 
