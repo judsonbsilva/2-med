@@ -56,9 +56,9 @@ A **unidade do eu** seria a percepção única de si e de realidade, fisicamente
 
 Ex: Uma pessoa que diz ser Dom Pedro Primeiro e Nabucodonosor simultaneamente.
 
-A **identidade do eu** seria o reconhecimento de si mesmo como uma única pessoa o tempo inteiro. Numa alteração desse aspecto a pessoa teria uma identidade diferentes em momentos diferentes, seria uma espécia de troca de consciência.
+A **identidade do eu** seria o reconhecimento de si mesmo como uma única pessoa o tempo inteiro. Numa alteração desse aspecto a pessoa teria identidades diferentes em momentos diferentes, seria uma espécia de troca de consciência.
 
 Ex: Hulk, uma hora um cientista calmo outra hora um monstro violento.
 
-O **limite do eu** seria o reconhecimento dos limites do seu corpo e mente. Saber que eu sou um organismo que não se confunde com outros objetos. Numa alteração uma mesa seria uma extensão de si.
+O **limite do eu** seria o reconhecimento dos limites do seu corpo e mente. Saber que eu sou um organismo que não se confunde com outros objetos. Numa alteração desse aspecto pode-se confundir um objeto como sendo parte do próprio meu corpo.
 
