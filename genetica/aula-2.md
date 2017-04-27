@@ -2,11 +2,7 @@
 
 ---
 
-**Pesquisar**
-
-* **Heterogeneidade alélila**
-* **Heterogeneidade locus**
-* **Heterogeneidade fenotípica**
+**Pesquisar:** Heterogeneidade alélila, Heterogeneidade locus, Heterogeneidade fenotípica
 
 #### Critérios de uma herança autossômica dominante
 
