@@ -54,9 +54,7 @@ A** atividade do eu** seria autonomia da vontade \(percepção, pensamento\) do 
 
 A **unidade do eu** seria a percepção única de si e de realidade, fisicamente ou psicologicamente, num dado momento. Alterações patológicas nesse aspecto fazem com que o indivíduo sinta ao mesmo tempo amor e ódio, calor e frio, duas ou mais coisas ao mesmo tempo de forma contraditória.
 
-Ex: Uma pessoa que diz ser Dom Pedro Primeiro e Nabucodonosor simultaneamento e ao mesmo tempo com contradições entre esses dois
-
-Ex2: Duas caras do Batman
+Ex: Uma pessoa que diz ser Dom Pedro Primeiro e Nabucodonosor simultaneamente.
 
 A **identidade do eu** seria o reconhecimento de si mesmo como uma única pessoa o tempo inteiro. Numa alteração desse aspecto a pessoa teria uma identidade diferentes em momentos diferentes, seria uma espécia de troca de consciência.
 
