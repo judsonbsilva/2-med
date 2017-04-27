@@ -4,7 +4,7 @@
 
 ### Orientação
 
-Função Psíquica responsável pela capacidade do indivíduos de situar-se. A orientação tem dois aspectos principais: **autopsíquica e alopsíquica**.  Autopsíquica seria a consciência de identidade e unidade do eu. Alopsíquica seria a consciência de limite do eu com relação aos outros e ao ambiente.
+Função Psíquica responsável pela capacidade do indivíduos de situar-se. A orientação tem dois aspectos principais: **autopsíquica e alopsíquica**.  Autopsíquica seria a consciência de identidade, unidade, existência do eu. Alopsíquica seria a consciência de limite do eu com relação aos outros e ao ambiente.
 
 A orientação alopsíquica pode ser dividida em 4 categorias
 

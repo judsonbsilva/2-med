@@ -60,7 +60,7 @@ Ex2: Duas caras do batman
 
 A **identidade do eu** seria o reconhecimento de si mesmo como uma única pessoa o tempo inteiro. Numa alteração desse aspecto a pessoa teria uma identidade diferentes em momentos diferentes, seria uma espécia de troca de consciência.
 
-Ex: Hulk, uma hora um cientista calmo outra hora um monstro violento.
+Ex: Hulk, uma hora Bruce Bener um cientista calmo outra hora um monstro violento.
 
 O **limite do eu** seria o reconhecimento dos limites do seu corpo e mente. Saber que eu sou um organismo que não se confunde com outros objetos. Numa alteração uma mesa seria uma extensão de si.
 
