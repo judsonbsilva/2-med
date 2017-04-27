@@ -2,5 +2,13 @@
 
 ---
 
+**Pesquisar**
+
+* **Heterogeneidade alélila**
+* **Heterogeneidade locus**
+* **Heterogeneidade fenotípica**
+
+
+
 
 
