@@ -7,7 +7,7 @@
 * [Anatomia 2](anatomia-2.md)
 * [Genética Médica](genetica.md)
   * [Aula 1](genetica/aula-1.md)
-  * Aula 2
+  * [Aula 2](genetica/aula-2.md)
 * [Psicologia Médica](psicologia-medica.md)
   * [Aula 1](psicologia-medica/aula-1.md)
   * [Aula 2](psicologia-medica/aula-2.md)
