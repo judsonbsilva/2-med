@@ -38,5 +38,13 @@
 
 **Ex \(mulher portadora\)**: daltonismo, hemofilia A, hemofilia B, distrofia muscular duchene.
 
+#### Herança ligada ao Y \(holândrica\)
+
+* Restrito ao sexo masculino
+
+#### Gene parcialmente ligado ao sexo
+
+**PS:** cuidado com o crossing-over
+
 
 
