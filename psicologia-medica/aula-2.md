@@ -24,3 +24,27 @@ As alterações nos aspectos da orientação podem ser** totais e parciais** e n
 
 Essas alterações podem ser causadas por causas diversas: de memória \(amnésias\), de humor \(apatia\), senso e percepção \(um quadro delirante\) e etc. **A classificação entre desorientação ou falsa orientação será dada baseado na causa primária. Se a causa primária for qualitativa ou quantitativa.**
 
+---
+
+### Vontade
+
+Processo que se completa pela passagem de 4 etapas:
+
+* **Intenção / Desejo**
+* **Deliberação / Análise**
+* **Decisão**
+* **Ação / Execução**
+
+Impulso seria uma necessidade geralmente fisiológica passando apenas por duas etapas: intenção e ação. Instintos seriam comportamentos inatos compartilhados por membros de uma mesma espécia com o intuito da preservação da mesma. As alterações: 
+
+* **Quantitativas**
+  * **Aumento \(hiperbulia\)**
+  * **Diminuição \(hipobulia\)**
+  * **Abolição \(abulia\)**
+
+**PS:** Quanto aos impulsos específicos usa-se o termo intensificação, enfraquecimento.
+
+
+
+
+
