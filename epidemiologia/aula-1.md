@@ -12,5 +12,7 @@
 
 **PS: **Hipócratis pai da epidemiologia. Pierre Louis introduziu a estatístia, pai da epidemiologia moderna.
 
+**Agente etiológico**: organismo responsável pela patologia.
+
 
 
