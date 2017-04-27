@@ -20,11 +20,7 @@ A orientação alopsíquica pode ser dividida em 4 categorias
 As alterações nos aspectos da orientação podem ser** totais e parciais** e nem sempre ocorrem de forma **homogênea**. Pode-se perder parte de apenas um, vários ou até todos os aspectos da orientação. Uma alteração alopsíquica é secundário a outra alteração. A alteração alopsíquica poderia ser:
 
 * **Quantitativa**: Desorientação
-  * Problema nos níveis de orientação em algum dos aspectos. No caso de alguém que saberia o mês e o ano mas não o dia em que está.
 * **Qualitativa**: Falsa orientação
-  * Problema de falsa orientação em algum desses aspectos. Alguém que acha que está em 1850 e se chama Abraham Lincol
 
 Essas alterações podem ser causadas por causas diversas: de memória \(amnésias\), de humor \(apatia\), senso e percepção \(um quadro delirante\) e etc. **A classificação entre desorientação ou falsa orientação será dada baseado na causa primária. Se a causa primária for qualitativa ou quantitativa.**
-
-
 
