@@ -18,5 +18,14 @@
 * A característica pode pular gerações
 * Genitores são heterozigotos ou afetados
 
-**PS**: consanguinidade, endogamia, DMH
+**PS**: consanguinidade, endogamia, DMH.
+
+#### Heranças dominantes ligada ao X
+
+* Ausência de transmissão de homem pra homem
+* Filhas de homens sempre afetadas
+* Herança entre mulheres é semelhante ao autossômico
+* Expressão mais branda nas mulheres devido a inativação de um alelo X \(mosaicismo\) 
+
+
 
