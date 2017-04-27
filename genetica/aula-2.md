@@ -29,12 +29,14 @@
 
 **PS:** alelos letais ligados ao sexo podem ter exceptions
 
-#### Herança recessiva ligada ao X 
+#### Herança recessiva ligada ao X
 
 * Característica pula geração
 * Incidência maior em homens
 * Filhos de mães portadoras podem ser afetadas
 * Mulheres geralmente não são afetadas \(mosaicismo\)
+
+**Ex \(mulher portadora\)**: daltonismo, hemofilia A, hemofilia B, distrofia muscular duchene 
 
 
 
