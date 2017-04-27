@@ -6,7 +6,7 @@
 
 A maioria dos anestésicos locais funcionam bloqueando canais de Na+ tornando a polarização das células constate, isto é, deixando-as insensível a estímulos temporariamente. Em anestésicos gerais há uma abertura de canais de cloro hiperpolarizando as células tornando-as mais fortemente inativas.
 
-**Período Refratário**: Tempo que a membrana leva para se repolarizar apos despolarizada.
+**Período Refratário**: Tempo que a membrana leva para se repolarizar após despolarizada.
 
 ---
 
@@ -43,7 +43,7 @@ No músculo contraído:
 * Ativação da bomba de Ca++ utilizando de ATP para retirar Ca++ do citosol para o sarcolema
 * Com a liberação do Ca++ da Troponina há perca de afinidade do ADP \(ATP hidrolisado\) com a miosina
 * A cabeça da miosina desliga-se do ADP e fica livre e ligando-se a um ATP livre no citosol
-* Há uma linalização para desligamento da miosina e actina
+* Há uma sinalização para desligamento da miosina e actina
 * Distanciamento entre as respectivas placas Z
 
 ---
