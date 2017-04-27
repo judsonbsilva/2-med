@@ -22,5 +22,5 @@
 * A característica pode pular gerações
 * Genitores são heterozigotos ou afetados
 
-
+**PS**: consanguinidade, endogamia, DMH
 
