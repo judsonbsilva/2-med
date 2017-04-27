@@ -12,7 +12,7 @@ Funções psiquicas: atitude e aparência. Aparência seria como o indivíduo se
 
 **Ex de aparências:**
 
-* Adequado: vestimenta comum
+* Adequado: Vestimenta comum
 * Exibicionista: Roupa apertada, vestido de festa
 * Extravagante: Coroa na cabeça, arrastar vassouras
 
