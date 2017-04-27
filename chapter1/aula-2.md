@@ -1,6 +1,4 @@
-fsdadfsdpor celular de todo neurônio parassimpátia
-
-/04/17 - Aula 2 -** Fisiologia**
+26/04/17 - Aula 2 -** Fisiologia**
 
 ---
 
@@ -9,8 +7,6 @@ fsdadfsdpor celular de todo neurônio parassimpátia
 A maioria dos anestésicos locais funcionam bloqueando canais de Na+ tornando a polarização das células constate, isto é, deixando-as insensível a estímulos temporariamente. Em anestésicos gerais há uma abertura de canais de cloro hiperpolarizando as células tornando-as mais fortemente inativas.
 
 **Período Refratário**: Tempo que a membrana leva para se repolarizar apos despolarizada.
-
-**PS:** Número de Raynald.
 
 ---
 
@@ -61,24 +57,24 @@ No músculo contraído:
     * Simpático
       * O corpo celular faz sinapse num gânglio \(paravertebral\) próximo de sua origem e parte para as visceras
       * **Neurônios pós-ganglionares adrenérgicos e noradrenérgicos**
-      * A única fibra pós-ganglionar colinérgica que chega num receptor nicotínico em músculo esquelético vai para as **glândulas sudoriparas**
+      * A única fibra pós-ganglionar colinérgica que chega num receptor nicotínico em músculo esquelético vai para as **glândulas sudoríparas**
     * Parassimpático
       * O corpo celular faz sinapse num gânglio de localização variável e parte para as vísceras
-      * **Neurônios pós-gânglionares colinérgicos**
+      * **Neurônios pós-ganglionares colinérgicos**
 
 **Sistema Nervoso Autônomo**
 
-Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2 \(toracolombar\). O corpo celular de todo neurônio parassimpático encontra-se no tronco encefálico e vértebras sacrais. Sabe-se que os gânglios são compostos por axônios de neurônios pré-ganglionares e corpos de neurônios pós-gânglionares. No caso do SNA todos os neurônios fazem sinapse em gânglios e todo neurônio pré-gânglionares são colinérgicos. Os receptores dos neurônios do SNS, dos neurônios pré-ganglionares do SNA e os receptores suprarrenais são nicotínicos.
+Na grande maioria das vezes o SNA Simpático e Parassimpático trabalham de forma antagônica. O corpo celular de todo neurônio simpático encontra-se entre T1 e L2 \(toracolombar\). O corpo celular de todo neurônio parassimpático encontra-se no tronco encefálico e vértebras sacrais. Sabe-se que os gânglios são compostos por axônios de neurônios pré-ganglionares e corpos de neurônios pós-ganglionares. No caso do SNA todos os neurônios fazem sinapse em gânglios e todo neurônio pré-ganglionares são colinérgicos. Os receptores dos neurônios do SNS, dos neurônios pré-ganglionares do SNA e os receptores suprarrenais são nicotínicos.
 
 > CC: Em fumantes os níveis altos de nicotina estimulam a produção de adrenalina na suprarrenal dando sensação eufórica. Na abstinência devido a falta de nicotina os níveis de adrenalina baixam diminuindo a atividade do parassimpático na digestão. Na atividade do simpático constante há um aumento na atividade digestório e um consequente aumento de peso.
 
-PS: Durante atividade física na liberação de adrenalina há uma inibição do peristaltismo no intestino. Vaso constricção visceral e vaso dilatação nos músculos esqueléticos
+PS: Durante atividade física na liberação de adrenalina há uma inibição do peristaltismo no intestino. Vaso constrição visceral e vaso dilatação nos músculos esqueléticos
 
-PS: PANCREATÍTE AGUDA PEGAR INFORMAÇÕES
+PS: PANCREATITE AGUDA PEGAR INFORMAÇÕES
 
 **PS: epinefrina = adrenalina**
 
-Os receptores pós-ganglionares simpáticos são noradrenégicos e divididos em alpha e beta. \(_a1, a2, b1, b2, b3_\)
+Os receptores pós-ganglionares simpáticos são noradrenérgicos e divididos em alpha e beta. \(_a1, a2, b1, b2, b3_\)
 
 Os receptores pós-ganglionares parassimpáticos são muscarínicos _\(m1, m2, m3\)_
 
@@ -87,7 +83,7 @@ Os receptores pós-ganglionares parassimpáticos são muscarínicos _\(m1, m2, m
 | _a1_ | Musculatura visceral, pupila, esfincteris do aparelho digestório |
 | _a2_ | Musculatura lisa digestório |
 | _b1_ | Coração, Rins |
-| _b2_ | Pulmão, Artérias da musculatura esquelética  |
+| _b2_ | Pulmão, Artérias da musculatura esquelética |
 | _b3_ | Tecido adiposo |
 | _m1_ | Pulmão |
 | _m2_ | Coração |
