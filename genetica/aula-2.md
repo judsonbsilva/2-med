@@ -8,7 +8,12 @@
 * **Heterogeneidade locus**
 * **Heterogeneidade fenotípica**
 
+#### Critérios de uma herança autossômica dominante
 
+* Homens e mulheres afetados
+* Homens e mulheres transmitem
+* Gerações sucessivas são afetadas
+* Transmissão para de surgir uma geração na qual ninguém é afetado
 
 
 
