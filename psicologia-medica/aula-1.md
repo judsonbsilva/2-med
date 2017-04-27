@@ -50,9 +50,9 @@ PS: Um transtorno bipolar seria uma mudança brusca nessa gradação.
 
 Segundo Jaspers a consciência do eu seria dividida em diversos aspectos: atividade do eu, unidade, identidade, limites.
 
-A** atividade do eu** seria autonomia da vontade \(percepção, pensamento\) do indivíduo, numa alteração patológica desse aspecto o indivíduo não acredita que seja o senhor de sua própria vontade se vendo como uma marionete.
+A** atividade do eu** seria autonomia da vontade \(percepção, pensamento\) do indivíduo. Numa alteração patológica desse aspecto o indivíduo não acredita que seja o senhor de sua própria vontade se vendo como uma marionete.
 
-A **unidade do eu** seria a percepção única de si e de realidade, fisicamente ou psicologicamente, num dado momento. Alterações patológicas nesse aspecto fazem com que o indivíduo sinta ao mesmo tempo amor e ódio, calor e frio, duas ou mais coisas ao mesmo tempo de forma contraditória e etc.
+A **unidade do eu** seria a percepção única de si e de realidade, fisicamente ou psicologicamente, num dado momento. Alterações patológicas nesse aspecto fazem com que o indivíduo sinta ao mesmo tempo amor e ódio, calor e frio, duas ou mais coisas ao mesmo tempo de forma contraditória.
 
 Ex: Uma pessoa que diz ser Pedro 1ª e Nabucodonosor simultaneamento e ao mesmo tempo com contradições entre esses dois
 
