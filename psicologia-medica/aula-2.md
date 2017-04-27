@@ -46,13 +46,21 @@ Impulso seria uma necessidade geralmente fisiológica passando apenas por duas e
 
 * **Qualitativa**
   * **Atos impulsivos**
+    * Só passa pela intenção e execução. Exemplo: dipsomania, agressão, frangofilia \(deixar tudo em frangalhos\), comportamento suicida \(pode ser\).
   * **Atos compulsivos**
+    * Quando há certa deliberação entre impulso e execução. 
   * **Ambivalência / Ambitendência**
+    * Dificuldade de decidir entre polos opostos
   * **Negativismo**
-  * **Sugestionabilidade Patológica**
+    * Negação da realização de algo ativamente ou passivamente sem intenção.
+  * **Sugestionabilidade patológica**
+    * Indivíduos altamente sugestionáveis
   * **Obediência automática**
+    * Obediência imediata
   * **Comportamentos desviantes relacionados a impulsos**
-  * **Relaação ao último momento**
+    * Perversão do apetite \(alotriofagia\)
+  * **Reação ao último momento**
+    * Efeito retardado na execução da vontade
 
 
 
