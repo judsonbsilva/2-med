@@ -25,7 +25,9 @@
 * Ausência de transmissão de homem pra homem
 * Filhas de homens sempre afetadas
 * Herança entre mulheres é semelhante ao autossômico
-* Expressão mais branda nas mulheres devido a inativação de um alelo X \(mosaicismo\) 
+* Expressão mais branda nas mulheres devido ao mosaicismo
+
+**PS:** alelos letais ligados ao sexo podem ter exceptions
 
 
 
