@@ -54,7 +54,7 @@ A** atividade do eu** seria autonomia da vontade \(percepção, pensamento\) do 
 
 A **unidade do eu** seria a percepção única de si e de realidade, fisicamente ou psicologicamente, num dado momento. Alterações patológicas nesse aspecto fazem com que o indivíduo sinta ao mesmo tempo amor e ódio, calor e frio, duas ou mais coisas ao mesmo tempo de forma contraditória.
 
-Ex: Uma pessoa que diz ser Pedro 1ª e Nabucodonosor simultaneamento e ao mesmo tempo com contradições entre esses dois
+Ex: Uma pessoa que diz ser Dom Pedro Primeiro e Nabucodonosor simultaneamento e ao mesmo tempo com contradições entre esses dois
 
 Ex2: Duas caras do Batman
 
