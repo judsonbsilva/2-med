@@ -20,7 +20,7 @@
 
 **PS**: consanguinidade, endogamia, DMH.
 
-#### Heranças dominantes ligada ao X
+#### Herança dominante ligada ao X
 
 * Ausência de transmissão de homem pra homem
 * Filhas de homens sempre afetadas
@@ -28,6 +28,13 @@
 * Expressão mais branda nas mulheres devido ao mosaicismo
 
 **PS:** alelos letais ligados ao sexo podem ter exceptions
+
+#### Herança recessiva ligada ao X 
+
+* Característica pula geração
+* Incidência maior em homens
+* Filhos de mães portadoras podem ser afetadas
+* Mulheres geralmente não são afetadas \(mosaicismo\)
 
 
 
