@@ -8,9 +8,9 @@
 
 **Conceito atual: **Abrange todos os eventos relacionados com a saúde das populações.
 
-**Objetivo de estudo: **Doenças transmissíveis, não transmissíveis e agravos à saúde. Busca do melhor conhecimento da interação de fatores biológicos, fatores sociais  e doença. Multicausalidade das doenças. 
+**Objetivo de estudo: **Doenças transmissíveis, não transmissíveis e agravos à saúde. Busca do melhor conhecimento da interação de fatores biológicos, fatores sociais  e doença. Multicausalidade das doenças.
 
-**PS: **Hipócratis pai da epidemiologia.
+**PS: **Hipócratis pai da epidemiologia. Pierre Louis introduziu a estatístia, pai da epidemiologia moderna.
 
 
 
