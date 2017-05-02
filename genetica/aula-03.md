@@ -30,15 +30,17 @@ q² = f\(aa\) = 1/10000
 
 f\(a\) = q = sqrt\( 1/10000 \)
 
+---
+
 p + q = 1
 
 f\(AA\) = p²
-
-f\(A\) = p
 
 f\(Aa\) = 2pq
 
 f\(aa\) = q²
 
 f\(a\) = q
+
+**Pesquisar técnica PCR** 
 
