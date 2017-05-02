@@ -57,7 +57,44 @@ São questões a ser respondidas pela epidemiologia descritiva.
   * Renda familiar_ per capita_
   * Nível de instrução
   * Tipo de moradia
-  * Outr
+* Grupos vulneráveis
+* Idade
+* Classe social
+* Sexo
+* Grupos étnicos
+* Ocupação
+
+**Fatores relativos ao espaço \(ONDE?\)**
+
+* Fatores populacionais
+* Fatores ambientais
+* Onde é mais frequente?
+  * urbano/rural
+  * proximidade a rio, posto de saúde
+  * barreiras geográficas
+  * clima
+  * vegetação
+  * poluição ambiental
+  * país, região
+  * existe aglomeração de casos?
+
+
+
+**PS:** O descobridor da Cólera o fez através de estudos epidemiológicos analisando a origem da água ingerida por dadas populações.
+
+**QUANDO? **
+
+* Distribuição cronológica
+* Variação Sazonal/Cíclica/Atípica
+* Endemia/Epidemia
+* Avaliação de medidas de controle
+* Detecção de epidemias e de novas doenças
+
+**Endemia**: doença usualmente prevalente em uma população com incidência constante, permitidas as flutuações de valores, tais como as variações sazonais. Não ultrapassando os valores esperados.
+
+**Epidemia**: Elevação da incidência de uma doença de forma inesperada e temporária \(incidência acima do limite endêmico\)
+
+
 
 
 
