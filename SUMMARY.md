@@ -14,6 +14,7 @@
   * [Aula 02](psicologia-medica/aula-2.md)
   * [Aula 03](psicologia-medica/aula-03.md)
 * [Epidemiologia](epidemiologia.md)
-  * [Aula 1](epidemiologia/aula-1.md)
+  * [Aula 01](epidemiologia/aula-1.md)
+  * [Aula 02](epidemiologia/aula-02.md)
 * [Embriologia](embriologia.md)
 
