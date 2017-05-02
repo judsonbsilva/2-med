@@ -28,6 +28,8 @@ Quando o superego não consegue mediar e conter as investidas do Id para o Ego s
 
 A **ansiedade** não vem necessáriamente do equilíbrio entre as estruturas psíquicas podendo sinalizar um perigo.
 
+---
+
 ### Mecanismo de defesa
 
 É um instrumento do ego para lidar com a angústia e ansiedade. Processo psíquico que alivia o estado de tensão entre id e superego sendo visto como uma operação do ego para manter sua própria segurança. São frequentes em indivíduos saudáveis. O excesso de uso desses mecanismo pode ocasionar em psicóticoses.
@@ -55,4 +57,8 @@ Exemplos de mecanismos de defesa básicos:.
 **Sublimação: **Redirecionamente de um sentimento a outro espaço diferente do espaço de sua origem.
 
 **Regressão: **Tentativa de voltar a uma fase anterior do ciclo de desenvolvimento.
+
+---
+
+
 
