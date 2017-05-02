@@ -48,7 +48,7 @@ Exemplos de mecanismos de defesa básicos:.
 
 **Projeção: **Tentativa de imputar a outro um valor que seria inaceitável por mim mesmo afim de aliviar a consciência moral.
 
-**Identificação: ** Espelhar a atitude de outra total ou parcialmente.
+**Identificação: ** Assimilação da atitude de outra total ou parcialmente.
 
 **Deslocamento: **Ação  de transferir o sentimento a algo menos ameaçador ou neutro.
 
