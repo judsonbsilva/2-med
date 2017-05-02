@@ -30,5 +30,3 @@ A divisão entre as semanas na Embriologia é morfológica e não cronológica. 
 
 **PS: **Fecundação ocorre na ampola da tuba uterina. Ocorre a clivagem no zigoto \(ovócito fecundada\) que são sucessões de mitoses tornando-se uma mórula chegando ao útero como um blastocisto em cerca de 5 dias iniciando a implantação no útero. Essa implantação é a entrada do blastocisto no endométrio.
 
-
-
