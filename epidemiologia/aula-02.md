@@ -87,12 +87,18 @@ São questões a ser respondidas pela epidemiologia descritiva.
 * Endemia/Epidemia
 * Avaliação de medidas de controle
 * Detecção de epidemias e de novas doenças
+* Variações ocasionais
+* Variações periódicas
+* Tendência secular
 
 **Endemia**: doença usualmente prevalente em uma população com incidência constante, permitidas as flutuações de valores, tais como as variações sazonais. Não ultrapassando os valores esperados.
 
 **Epidemia**: Elevação da incidência de uma doença de forma inesperada e temporária \(incidência acima do limite endêmico\).
 
-
+* Epidemias
+  * Instantâneas
+  * Progressivas
+* Pandemias
 
 
 
