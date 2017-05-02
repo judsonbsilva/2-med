@@ -35,7 +35,7 @@ Processo que se completa pela passagem de 4 etapas:
 * **Decisão**
 * **Ação / Execução**
 
-Impulso seria uma necessidade geralmente fisiológica passando apenas por duas etapas: intenção e ação. Instintos seriam comportamentos inatos compartilhados por membros de uma mesma espécia com o intuito da preservação da mesma. As alterações:
+**Impulso** seria uma necessidade geralmente fisiológica passando apenas por duas etapas: intenção e ação.** Instintos** seriam comportamentos inatos compartilhados por membros de uma mesma espécia com o intuito da preservação da mesma. As alterações:
 
 * **Quantitativas**
   * **Aumento \(hiperbulia\)**
