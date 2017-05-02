@@ -30,7 +30,7 @@ A **ansiedade** não vem necessáriamente do equilíbrio entre as estruturas ps�
 
 ### Mecanismo de defesa
 
-É um instrumento do ego para ligar com a angústia e ansiedade. Processo psíquico que alivia o estado de tensão entre id e superego sendo visto como uma operação do ego para manter sua própria segurança. São frequentes em indivíduos saudáveis. O excesso de uso desses mecanismo pode ocasionar em psicóticoses.
+É um instrumento do ego para lidar com a angústia e ansiedade. Processo psíquico que alivia o estado de tensão entre id e superego sendo visto como uma operação do ego para manter sua própria segurança. São frequentes em indivíduos saudáveis. O excesso de uso desses mecanismo pode ocasionar em psicóticoses.
 
 O **equilíbrio psíquico** depende da existência de um ego fortalecido, de um superego moderado e de um conhecimento da natureza dos impulsos do Id.
 
