@@ -2,5 +2,5 @@
 
 ---
 
-Etimologicamente: ciência do que ocorre sobre o povo
+**Etimologicamente**: ciência do que ocorre sobre o povo
 
