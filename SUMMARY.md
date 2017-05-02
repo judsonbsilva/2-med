@@ -17,4 +17,5 @@
   * [Aula 01](epidemiologia/aula-1.md)
   * [Aula 02](epidemiologia/aula-02.md)
 * [Embriologia](embriologia.md)
+  * [Aula 01](embriologia/aula-01.md)
 
