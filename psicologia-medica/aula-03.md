@@ -2,5 +2,7 @@
 
 ---
 
+**PS**: Não faltar nas aulas da Arlete pois cada aula equivale a um GD correspondendo a uma nota.
+
 
 
