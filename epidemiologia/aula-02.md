@@ -1,7 +1,3 @@
-
-
-
-
 /05/17 - Aula 2 - **Epidemiologia**
 
 ---
@@ -61,7 +57,7 @@ São questões a ser respondidas pela epidemiologia descritiva.
   * Renda familiar_ per capita_
   * Nível de instrução
   * Tipo de moradia
-  * Outros
+  * Outr
 
 
 
