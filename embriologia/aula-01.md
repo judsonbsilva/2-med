@@ -24,9 +24,11 @@ Ciência que estuda a origem e o desenvolvimento de um ser humano a partir de um
   * **Idade adulta:**
     * Alcançada entre 18 a 21 anos
 
-**PERIGO!** Vida útil de gametas de até cerca de 72h.
+**PERIGO!** Vida útil de gametas de até cerca de 72h. \( _20% de chance de fecundação em situações normais de coito _\)
 
-**PS:** A divisão entre as semanas na Embriologia é morfológica e não cronológica. Há uma diferença entre as classificações obstetricia e embriológica quanto as datações. A 1ª semana embriológica é o período correspondente a fecundação do ovócito, clivagem e início da implantação no útero.
+A divisão entre as semanas na Embriologia é morfológica e não cronológica. Há uma diferença entre as classificações obstetricia e embriológica quanto as datações. A 1ª semana embriológica é o período correspondente a fecundação do ovócito, clivagem e início da implantação no útero. Para a obstetrícia considera a 1ª semana o período correspondente ao primeiro dia da última menstruação regular. Ambas diferem cerca de 15 dias, 2 semanas.
 
-**PS: **Fecundação ocorre na ampola da tuba uterina. Ocorre a clivagem no zigoto \(ovócito fecundada\) que são sucessões de mitoses chegando ao útero em cerca de 5 dias. 
+**PS: **Fecundação ocorre na ampola da tuba uterina. Ocorre a clivagem no zigoto \(ovócito fecundada\) que são sucessões de mitoses tornando-se uma mórula chegando ao útero como um blastocisto em cerca de 5 dias iniciando a implantação no útero. Essa implantação é a entrada do blastocisto no endométrio.
+
+
 
