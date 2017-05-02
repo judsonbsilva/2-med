@@ -1,4 +1,8 @@
-02/05/17 - Aula 2 - **Epidemiologia**
+
+
+
+
+/05/17 - Aula 2 - **Epidemiologia**
 
 ---
 
@@ -58,8 +62,6 @@ São questões a ser respondidas pela epidemiologia descritiva.
   * Nível de instrução
   * Tipo de moradia
   * Outros
-
-
 
 
 
