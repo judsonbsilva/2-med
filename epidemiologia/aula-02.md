@@ -64,9 +64,9 @@ São questões a ser respondidas pela epidemiologia descritiva.
 * Grupos étnicos
 * Ocupação
 
-**Fatores relativos ao espaço \(ONDE?\)**
+**Fatores relativos ao espaço \(ONDE?\)**
 
-* Fatores populacionais
+* Fatores populacionais
 * Fatores ambientais
 * Onde é mais frequente?
   * urbano/rural
@@ -78,11 +78,9 @@ São questões a ser respondidas pela epidemiologia descritiva.
   * país, região
   * existe aglomeração de casos?
 
-
-
 **PS:** O descobridor da Cólera o fez através de estudos epidemiológicos analisando a origem da água ingerida por dadas populações.
 
-**QUANDO? **
+**Fatores cronológicos \(QUANDO\)? **
 
 * Distribuição cronológica
 * Variação Sazonal/Cíclica/Atípica
@@ -92,7 +90,7 @@ São questões a ser respondidas pela epidemiologia descritiva.
 
 **Endemia**: doença usualmente prevalente em uma população com incidência constante, permitidas as flutuações de valores, tais como as variações sazonais. Não ultrapassando os valores esperados.
 
-**Epidemia**: Elevação da incidência de uma doença de forma inesperada e temporária \(incidência acima do limite endêmico\)
+**Epidemia**: Elevação da incidência de uma doença de forma inesperada e temporária \(incidência acima do limite endêmico\).
 
 
 
