@@ -26,7 +26,7 @@ Funciona impedindo a realização dos instintos e desejos do Id. Atua por influ�
 
 Quando o superego não consegue mediar e conter as investidas do Id para o Ego surgem distúrbios de comportamentos, sentimentos e ideias. **Essa tentativa de equilibrar as estruturas gera ansiedade**. Possíveis perdas podem gerar desequilíbrio: do objeto de desejo, do amor, da identidade, da auto-estima.
 
-A **ansiedade** não vem necessáriamente do equilíbrio entre as estruturas psíquicas podendo sinalizar um perigo. 
+A **ansiedade** não vem necessáriamente do equilíbrio entre as estruturas psíquicas podendo sinalizar um perigo.
 
 ### Mecanismo de defesa
 
@@ -40,19 +40,21 @@ Tentativa de destruir um agente externo
 
 **Projeção**
 
-Pah
+Projeção de imputar a outro um valor que seria inaceitável por mim mesmo 
 
 **Deslocamento**
 
-Ação, com intuito de aliviar, de deslocação do sentimento a algo que não irá reagir. 
+Ação, com intuito de aliviar, de deslocação do sentimento a algo que não irá reagir.
 
 **Introjeção**
 
-Justificar ações próprias baseado nos outros
+Justificar ações próprias baseado nas atitudes de outros
 
 **Sublimação**
 
-
+Redirecionamente de um sentimento a outro espaço
 
 **Regressão**
+
+Tentativa de voltar a uma fase do ciclo de desenvolvimento
 
