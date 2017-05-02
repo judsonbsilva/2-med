@@ -34,6 +34,12 @@ A **ansiedade** não vem necessáriamente do equilíbrio entre as estruturas ps�
 
 Exemplos de mecanismos de defesa básicos: repressão, negação, racionalização, formação reativa, projeção, deslocamento, identificação, introjeção, sublimação, regressão.
 
+**Repressão**
+
+**Negação**
+
+**Racionalização**
+
 **Formação Reativa:** Tentativa de destruir um agente externo o qual é objeto do meu desejo.
 
 **Projeção: **Tentativa de imputar a outro um valor que seria inaceitável por mim mesmo afim de aliviar a consciência moral.
@@ -44,5 +50,5 @@ Exemplos de mecanismos de defesa básicos: repressão, negação, racionalizaç�
 
 **Sublimação: **Redirecionamente de um sentimento a outro espaço diferente do espaço de sua origem.
 
-**Regressão: **Tentativa de voltar a uma fase do ciclo de desenvolvimento
+**Regressão: **Tentativa de voltar a uma fase do ciclo de desenvolvimento.
 
