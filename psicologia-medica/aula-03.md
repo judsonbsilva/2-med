@@ -42,7 +42,7 @@ Exemplos de mecanismos de defesa básicos:.
 
 **Racionalização: **Processo de achar motivações lógicas para justificar dado comportamento inaceitável
 
-**Formação Reativa:** Ato de externar sentimentos opostos aos verdadeiros devido a inaceitação dos mesmos.
+**Formação Reativa:** Ato de externar sentimento oposto ao verdadeiro devido a inaceitação própria do mesmo.
 
 **Projeção: **Tentativa de imputar a outro um valor que seria inaceitável por mim mesmo afim de aliviar a consciência moral.
 
@@ -55,4 +55,8 @@ Exemplos de mecanismos de defesa básicos:.
 **Sublimação: **Redirecionamente de um sentimento a outro espaço diferente do espaço de sua origem.
 
 **Regressão: **Tentativa de voltar a uma fase anterior do ciclo de desenvolvimento.
+
+
+
+
 
