@@ -2,7 +2,7 @@
 
 ---
 
-**Etimologicamente**: ciência do que ocorre sobre o povo
+**Etimologicamente**: Ciência do que ocorre sobre o povo
 
 > "_Ramo das ciências da saúde que esta, na população, a ocorrência, a distribuição e os fatores determinantes dos eventos relacionados a saúde._" - PEREIRA, 1995.
 
