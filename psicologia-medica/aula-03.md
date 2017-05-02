@@ -48,15 +48,11 @@ Exemplos de mecanismos de defesa básicos:.
 
 **Identificação: **
 
-**Deslocamento: **Ação, com intuito de aliviar, transferir o sentimento a algo menos ameaçador ou neutro.
+**Deslocamento: **Ação  de transferir o sentimento a algo menos ameaçador ou neutro.
 
 **Introjeção: **Justificar ações próprias baseado nas atitudes de outros.
 
 **Sublimação: **Redirecionamente de um sentimento a outro espaço diferente do espaço de sua origem.
 
 **Regressão: **Tentativa de voltar a uma fase anterior do ciclo de desenvolvimento.
-
-
-
-
 
