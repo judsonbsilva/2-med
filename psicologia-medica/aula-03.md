@@ -32,6 +32,8 @@ A **ansiedade** não vem necessáriamente do equilíbrio entre as estruturas ps�
 
 É um instrumento do ego para ligar com a angústia e ansiedade. Processo psíquico que alivia o estado de tensão entre id e superego sendo visto como uma operação do ego para manter sua própria segurança. São frequentes em indivíduos saudáveis. O excesso de uso desses mecanismo pode ocasionar em psicóticoses.
 
+O **equilíbrio psíquico** depende da existência de um ego fortalecido, de um superego moderado e de um conhecimento da natureza dos impulsos do Id. 
+
 Exemplos de mecanismos de defesa básicos: repressão, negação, racionalização, formação reativa, projeção, deslocamento, identificação, introjeção, sublimação, regressão.
 
 **Repressão: **Retirar ideias, afetos ou desejos perturbadores da consciência, pressionando-os para a inconsciência.
@@ -44,7 +46,7 @@ Exemplos de mecanismos de defesa básicos: repressão, negação, racionalizaç�
 
 **Projeção: **Tentativa de imputar a outro um valor que seria inaceitável por mim mesmo afim de aliviar a consciência moral.
 
-**Identificação: ** 
+**Identificação: **
 
 **Deslocamento: **Ação, com intuito de aliviar, transferir o sentimento a algo menos ameaçador ou neutro.
 
@@ -52,9 +54,7 @@ Exemplos de mecanismos de defesa básicos: repressão, negação, racionalizaç�
 
 **Sublimação: **Redirecionamente de um sentimento a outro espaço diferente do espaço de sua origem.
 
-**Regressão: **Tentativa de voltar a uma fase do ciclo de desenvolvimento.
-
-
+**Regressão: **Tentativa de voltar a uma fase anterior do ciclo de desenvolvimento.
 
 
 
