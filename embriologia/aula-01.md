@@ -4,7 +4,7 @@
 
 Ciência que estuda a origem e o desenvolvimento de um ser humano a partir de uma única célula indiferenciada. Estudo do desenvolvimento de um zigoto até o ser humano multicelular.
 
-**Períodos de desenvolvimento:**
+#### **Períodos de desenvolvimento**
 
 * Pré-natal
   * **Embrionário: **Da fertilização ao fim da 8ª semana
@@ -24,5 +24,7 @@ Ciência que estuda a origem e o desenvolvimento de um ser humano a partir de um
   * **Idade adulta:**
     * Alcançada entre 18 a 21 anos
 
-**PS:** A divisão entre as semanas na Embriologia é morfológica e não cronológica.
+**PS:** A divisão entre as semanas na Embriologia é morfológica e não cronológica. Há uma diferença entre as classificações obstetricia e embriológica quanto as datações.
+
+**PERIGO!** Vida útil de gametas de até cerca de 72h
 
