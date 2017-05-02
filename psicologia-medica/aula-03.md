@@ -36,7 +36,7 @@ Exemplos de mecanismos de defesa básicos: repressão, negação, racionalizaç�
 
 **Formação Reativa:** Tentativa de destruir um agente externo o qual é objeto do meu desejo
 
-**Projeção: **Projeção de imputar a outro um valor que seria inaceitável por mim mesmo
+**Projeção: **Tentativa de imputar a outro um valor que seria inaceitável por mim mesmo afim de aliviar a consciência moral
 
 **Deslocamento: **Ação, com intuito de aliviar, de deslocação do sentimento a algo que não irá reagir.
 
