@@ -2,7 +2,5 @@
 
 ---
 
-Ta ai e pah
-
 
 
