@@ -42,5 +42,5 @@ f\(aa\) = q²
 
 f\(a\) = q
 
-**Pesquisar técnica PCR \(**desnaturação, anelamento, extensão**\)**
+**Pesquisar técnica PCR \(**desnaturação, anelamento, extensão**\). Eletroforese, nitrato de prata, brometo de etídio**
 
