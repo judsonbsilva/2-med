@@ -42,5 +42,5 @@ f\(aa\) = q²
 
 f\(a\) = q
 
-**Pesquisar técnica PCR** 
+**Pesquisar técnica PCR \(**desnaturação, anelamento, extensão**\)**
 
