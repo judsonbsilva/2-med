@@ -24,13 +24,11 @@ Só o sexo feminino passa a característica
 
 Ocorre esporadicamente e se torna hereditária
 
-
+---
 
 q² = f\(aa\) = 1/10000
 
 f\(a\) = q = sqrt\( 1/10000 \)
-
-
 
 p + q = 1
 
