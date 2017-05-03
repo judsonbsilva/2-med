@@ -60,16 +60,14 @@ G1 é análogo a G4 assim como G2 a G3. Em farmacologia geralmente usa-se um dos
 
 **Ionotrópicos: **São receptores em que a ligação com a molécula sinal ativa proteínas cinase que abrem canais de Na+/K+ instantaneamente.
 
-Todos os receptores nicotínicos são Ionotrópicos. Musculatura esquelética, suprarrenal.
+_Todos os receptores nicotínicos são Ionotrópicos. Musculatura esquelética, suprarrenal._
 
 **Metabrotópicos: **São receptores dependente de proteína G. A ligação da molécula sinal ao receptor causa uma cascata de reações que pode ter 2 vias:
 
 * Ativação da **Fosfolipase C **que irá sinalizar para o 2ª mensageiro, podendo ele ser: **IP³, DAG**: Diacilglicerol ou **Ca++**. O 2ª mensageiro irá ativar proteínas cinase que irão abrir canais de Na++
 * Ativação da **AdenililCiclase **que irá sinalizar para o **AMPc** que irá ativar proteínas cinase abrindo canais de Na++
 
-Todos os receptores viscerais, noradrenérgicos e muscarínicos.
-
-
+_Todos os receptores viscerais, noradrenérgicos e muscarínicos._
 
 
 
