@@ -72,9 +72,9 @@ _Todos os receptores viscerais, noradrenérgicos e muscarínicos._
 | Receptores | Proteína G | Ativa | 2ª Mensageiro | PK | Efeito | \(Des\)polariza |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | _**a1, m1**_ | PGq | +  F.C | +  Ip³ | +  PKa | + Na+ | Des |
-| _**a2, m2**_ | PG | -  A.C | -  AMPc | -  PKa | -  Na+ | Pol |
+| _**a2, m2**_ | PGi | -  A.C | -  AMPc | -  PKa | -  Na+ | Pol |
 | _**b1, b3**_ | PGs | + A.C | + AMPc | -  PKa | + Na++ | Des |
-| _**b2**_ | PG | +  A.C | + AMPc | +  PKa | +  K+ | Pol |
+| _**b2**_ | PGs | +  A.C | + AMPc | +  PKa | +  K+ | Pol |
 
 
 
