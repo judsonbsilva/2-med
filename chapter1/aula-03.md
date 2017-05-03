@@ -46,9 +46,9 @@ G1 é análogo a G4 assim como G2 a G3. Em farmacologia geralmente usa-se um dos
 
 **Afinidade: **Capacidade que o fármaco tem de se ligar ao receptor. Agonistas e antagonistas possuem.
 
-**Eficácia: **Capacidade do fármaco de produzir efeito já ligado ao receptor. Apenas agonistas possuem, no caso dos antagonistas eles agem inibindo o efeito do sistema em que está ligado e deixando o sistema antagônico agir. 
+**Eficácia: **Capacidade do fármaco de produzir efeito já ligado ao receptor. Apenas agonistas possuem, no caso dos antagonistas eles agem inibindo o efeito do sistema em que está ligado e deixando o sistema antagônico agir.
 
+**Alergia: **Reação imunológica
 
-
-
+**Sensibilidade:** Quantidade de receptores relacionados a determinado fármaco
 
