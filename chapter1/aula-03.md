@@ -29,5 +29,18 @@ O SNA **simpático** sempre irá agir instintivamente na **fuga ou luta**, na **
 
 Dado que a ereção peniana é obtida através de uma vaso dilatação local, o responsável é o parassimpático \(acetilcolina\). Efetivamente quem é o responsável por iniciar as ações enviadas por estímulo nervoso são os receptores celulares.
 
+Existindo tipos de receptores, do simpático e do parassimpático, pode-se dizer que há basicamente 4 tipos de fármacos para atuar no SNA. Os agonistas simpáticos, agonistas adrenérgicos, simpatomiméticos, G1, são fármacos que simulam os neurotransmissores do simpático \(no caso adrenalina\). Existem também agonistas colinérgicos.
 
+**Principais grupos de fármacos**
+
+* **G1** - Agonista simpático, agonista colinérgico
+* **G2** - Antagonista simpático
+* **G3** - Agonista parassimpático, agonista colinérgico
+* **G4** - Antagonista parassimpático
+
+**Agonistas: Simulam os efeitos do neurotransmissor estimulando seus efeitos**
+
+**Antagonistas: Dificultam a ação do neurotransmissor inibindo seus efeitos**
+
+**Bloqueadores: Bloqueam os receptores dos neurotransmissores inibindo totalmente seus efeitos**
 
