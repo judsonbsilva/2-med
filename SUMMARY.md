@@ -1,17 +1,21 @@
 # Summary
 
-* [Introdução](README.md)
+* [Introduction](README.md)
 * [Fisiologia](chapter1.md)
   * [Aula 1](chapter1/aula-1.md)
   * [Aula 2](chapter1/aula-2.md)
 * [Anatomia 2](anatomia-2.md)
-  * Aula 1
 * [Genética Médica](genetica.md)
-  * [Aula 1](genetica/aula-1.md)
-  * [Aula 2](genetica/aula-2.md)
+  * [Aula 01](genetica/aula-1.md)
+  * [Aula 02](genetica/aula-2.md)
+  * [Aula 03](genetica/aula-03.md)
 * [Psicologia Médica](psicologia-medica.md)
-  * [Aula 1](psicologia-medica/aula-1.md)
-  * [Aula 2](psicologia-medica/aula-2.md)
+  * [Aula 01](psicologia-medica/aula-1.md)
+  * [Aula 02](psicologia-medica/aula-2.md)
+  * [Aula 03](psicologia-medica/aula-03.md)
 * [Epidemiologia](epidemiologia.md)
+  * [Aula 01](epidemiologia/aula-1.md)
+  * [Aula 02](epidemiologia/aula-02.md)
 * [Embriologia](embriologia.md)
+  * [Aula 01](embriologia/aula-01.md)
 
