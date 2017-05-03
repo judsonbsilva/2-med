@@ -42,7 +42,5 @@ Existindo tipos de receptores, do simpático e do parassimpático, pode-se dizer
 
 **Antagonistas: **Dificultam a ação do neurotransmissor inibindo seus efeitos.
 
-**Bloqueadores: **Bloqueam os receptores dos neurotransmissores inibindo totalmente seus efeitos.
-
 G1 é análogo a G4 assim como G2 a G3. Em farmacologia geralmente usa-se um dos grupos análogos, de preferência o mais eficaz ou o que possui menos efeitos colaterais em cada sistema, exceto no sistema respiratório em que há bons efeitos terapêuticos para ambos \(G1 e G4\).
 
