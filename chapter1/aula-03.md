@@ -44,3 +44,11 @@ Existindo tipos de receptores, do simpático e do parassimpático, pode-se dizer
 
 G1 é análogo a G4 assim como G2 a G3. Em farmacologia geralmente usa-se um dos grupos análogos, de preferência o mais eficaz ou o que possui menos efeitos colaterais em cada sistema, exceto no sistema respiratório em que há bons efeitos terapêuticos para ambos \(G1 e G4\).
 
+**Afinidade: **Capacidade que o fármaco tem de se ligar ao receptor. Agonistas e antagonistas possuem.
+
+**Eficácia: **Capacidade do fármaco de produzir efeito já ligado ao receptor. Apenas agonistas possuem, no caso dos antagonistas eles agem inibindo o efeito do sistema em que está ligado e deixando o sistema antagônico agir. 
+
+
+
+
+
