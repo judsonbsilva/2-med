@@ -64,10 +64,17 @@ _Todos os receptores nicotínicos são Ionotrópicos. Musculatura esquelética, 
 
 **Metabrotópicos: **São receptores dependente de proteína G. A ligação da molécula sinal ao receptor causa uma cascata de reações que pode ter 2 vias:
 
-* Ativação da **Fosfolipase C **que irá sinalizar para o 2ª mensageiro, podendo ele ser: **IP³, DAG**: Diacilglicerol ou **Ca++**. O 2ª mensageiro irá ativar proteínas cinase que irão abrir canais de Na++
-* Ativação da **AdenililCiclase **que irá sinalizar para o **AMPc** que irá ativar proteínas cinase abrindo canais de Na++
+* Ativação da **Fosfolipase C \(F.C\) **que irá sinalizar para o 2ª mensageiro, podendo ele ser: **IP³, DAG**: Diacilglicerol ou **Ca++**. O 2ª mensageiro irá ativar proteínas cinase que irão abrir canais de Na++
+* Ativação da **AdenililCiclase \(A.C\) **que irá sinalizar para o **AMPc** que irá ativar proteínas cinase abrindo canais de Na++
 
 _Todos os receptores viscerais, noradrenérgicos e muscarínicos._
+
+| Receptores | Proteína G | Ativa | 2ª Mensageiro | PK | Efeito | \(Des\)polariza |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| _**a1, m1**_ | PGq | +  F.C | +  Ip³ | +  PKa | + Na+ | Des |
+| _**a2, m2**_ | PG | -  A.C | -  AMPc | -  PKa | -  Na+ | Pol |
+| _**b1, b3**_ | PGs | + A.C | + AMPc | -  PKa | + Na++ | Des |
+| _**b2**_ | PG | +  A.C | + AMPc | +  PKa | +  K+ | Pol |
 
 
 
