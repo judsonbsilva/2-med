@@ -4,6 +4,8 @@
 
 ### Sistema Nervoso Autônomo
 
+_Guyton. Capítulo 60. _
+
 Alguns autores dividem o SNA em três sendo o terceiro o sistema nervoso autônomo intérico. Normalmente utiliza-se a divisão em simpático e parassimpático. Em dadas situações ambos colaboram **sinergicamente **para atingir os objetivos comuns. Geralmente funcionam como **antagônicos** e em alguns casos funcionam de forma **seletiva** \(áreas sob a influência de apenas um dos dois segmentos\).
 
 Todos os receptores nicotínicos são colinérgicos. Dentre os receptores nicotínicos ainda existem diferenças bioquímicas que os caracterizam. Isso é extremamente importante quando se pensa no uso de fármacos com atuação em locais específicos. O maior produtor de neurotransmissores para o sistema simpático é feito pela glândula suprarrenal \(medula adrenal\).
@@ -20,12 +22,10 @@ O SNA **simpático** sempre irá agir instintivamente na **fuga ou luta**, na **
 | Vasos | Aumento de pressão arterial; Vaso constricção; _**a1**_ | Diminuição da pressão arterial; Vaso dilatação; _**m**_ |
 | Sistema digestório | Inibição \(diminuição do peristaltismo, relaxamento da musculatura lisa e contração dos esfincteres\); _**a2**_ | Estimulação do peristaltismo; _**m**_ |
 | Bexiga | Inibição; _**a1**_ | Estimulação; _**m**_ |
-| Rins | Estimulo da filtração; _**b1**_   | Inibição; _**m**_ |
+| Rins | Estimulo da filtração; _**b1**_ | Inibição; _**m**_ |
 | Tecido adiposo | Estimula a lipólise; _**b3**_ | Inibição; _**m**_ |
 
 **PS:** Aumento de fluxo sanguínio pode ser: sistêmico ou local. Sistêmico é para o corpo inteiro através de vaso constricção. Local é para um local específico com vaso dilatação local.
 
 Dado que a ereção peniana é obtida através de uma vaso dilatação local, o responsável é o parassimpático \(acetilcolina\).
-
-
 
