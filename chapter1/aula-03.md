@@ -52,3 +52,5 @@ G1 é análogo a G4 assim como G2 a G3. Em farmacologia geralmente usa-se um dos
 
 **Sensibilidade:** Quantidade de receptores relacionados a determinado fármaco
 
+
+
