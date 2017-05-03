@@ -27,5 +27,9 @@ O SNA **simpático** sempre irá agir instintivamente na **fuga ou luta**, na **
 
 **PS:** Aumento de fluxo sanguínio pode ser: sistêmico ou local. Sistêmico é para o corpo inteiro através de vaso constricção. Local é para um local específico com vaso dilatação local.
 
-Dado que a ereção peniana é obtida através de uma vaso dilatação local, o responsável é o parassimpático \(acetilcolina\).
+Dado que a ereção peniana é obtida através de uma vaso dilatação local, o responsável é o parassimpático \(acetilcolina\). 
+
+Efetivamente quem é o responsável por iniciar as ações enviadas por estímulo nervoso são os receptores celulares.
+
+
 
