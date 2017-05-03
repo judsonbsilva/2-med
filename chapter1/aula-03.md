@@ -31,7 +31,9 @@ Dado que a ereção peniana é obtida através de uma vaso dilatação local, o 
 
 Existindo tipos de receptores, do simpático e do parassimpático, pode-se dizer que há basicamente 4 tipos de fármacos para atuar no SNA. Os agonistas simpáticos, agonistas adrenérgicos, simpatomiméticos, G1, são fármacos que simulam os neurotransmissores do simpático \(no caso adrenalina\). Existem também agonistas colinérgicos.
 
-**Principais grupos de fármacos**
+---
+
+### **Principais grupos de fármacos**
 
 * **G1** - Agonista simpático, agonista colinérgico
 * **G2** - Antagonista simpático
@@ -51,6 +53,23 @@ G1 é análogo a G4 assim como G2 a G3. Em farmacologia geralmente usa-se um dos
 **Alergia: **Reação imunológica a corpo estranho
 
 **Sensibilidade:** Quantidade de receptores relacionados a determinado fármaco
+
+---
+
+### Tipos de receptores
+
+**Ionotrópicos: **São receptores em que a ligação com a molécula sinal ativa proteínas cinase que abrem canais de Na+/K+ instantaneamente.
+
+Todos os receptores nicotínicos são Ionotrópicos. Musculatura esquelética, suprarrenal.
+
+**Metabrotópicos: **São receptores dependente de proteína G. A ligação da molécula sinal ao receptor causa uma cascata de reações que pode ter 2 vias:  
+
+* Ativação da **Fosfolipase C **que irá sinalizar para o 2ª mensageiro, podendo ele ser: **IP³, DAG**: Diacilglicerol ou **Ca++**. O 2ª mensageiro irá ativar proteínas cinase que irão abrir canais de Na++
+* Ativação da **AdenililCiclase **que irá sinalizar para o **AMPc** que irá ativar proteínas cinase abrindo canais de Na++
+
+
+
+Todos os receptores viscerais, noradrenérgicos e muscarínicos.
 
 
 
