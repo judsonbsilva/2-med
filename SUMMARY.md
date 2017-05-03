@@ -2,8 +2,9 @@
 
 * [Introduction](README.md)
 * [Fisiologia](chapter1.md)
-  * [Aula 1](chapter1/aula-1.md)
-  * [Aula 2](chapter1/aula-2.md)
+  * [Aula 01](chapter1/aula-1.md)
+  * [Aula 02](chapter1/aula-2.md)
+  * [Aula 03](chapter1/aula-03.md)
 * [Anatomia 2](anatomia-2.md)
 * [Genética Médica](genetica.md)
   * [Aula 01](genetica/aula-1.md)
