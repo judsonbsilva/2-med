@@ -4,6 +4,8 @@
 
 ### Meio Interno e Homeoestase
 
+_Guyton. Capítulo 1_
+
 Claude Bernet \( fisiologista francês \) definiu **Homeoestase** como as condições quase constantes no estado de normalidade da manutenção da vida, ou seja, o equilíbrio do meio interno. O **meio interno** é o líquido extracelular onde estão os nutrientes, íons, e etc.
 
 A célula possui a membrana para dividir o LIC \( líquido intracelular \) e o LEC \( líquido extracelular \). Tudo o que ingerimos: oxigênio, comida, água, e etc. chega no LEC primordialmente para abastecer as células. As membranas plasmáticas das células possuem** permeabilidade seletiva **selecionando os nutrientes que necessitam**. **Esse fluxo de nutrientes nos dois sentidos chama-se transporte de membrana.
@@ -17,6 +19,12 @@ O LEC varia mais frequentemente que o LIC. Um desequilíbrio desse meio pode cau
 * Durante a queda de pressão o corpo aciona mecanismo para aumentar a pressão _\(feedback negativo\)_.
 * Um aumento de T3 e T4 no sangue \(hormônios produzidos pela tireóide\) percebido pelo hipotálamo desencadeia um mecanismo para diminuí-los Hipófise -&gt; TRH -&gt; Adrenohipófise -&gt; TSH -&gt; Tireóide -&gt; T3 e T4 -&gt; Corrente Sanguínea -&gt; Hipófise \(diminui TRH\) \(_feedback negativo\)_
 * No parto a calota craniana do bebê no útero estimula a produção de ocitocina, quando o crânio começa a sair há uma resposta positiva aumentando mais ainda essa produção e assim sucessivamente _\(feedback positivo\)_
+
+---
+
+### Transporte de membrana
+
+_Guyton. Capítulo 4_
 
 Os **transportes de membrana** podem ser: ativos e passivos. Os ativos gastam energia química \(Geralmente ATP\). Os transportes passivos não utilizam energia. No corpo nós armazenamos **fontes de energia **e não energia: carboidratos, lipídios \(ácidos graxos\), proteínas \(aminoácidos\). Esses são todos convertidos posteriormente em ATP aerobicamente \( com oxigênio \) principalmente ou anaerobicamente. O **oxigênio é essencial** pra respiração celular, sem ele a célula necrosa rapidamente, pois esse participa da respiração celular \(ciclo de krebs\) que gera ATP. Transportadores de elétrons NADH e FADH levando H para a mitocôndria participando desse ciclo, produzindo ATP, H²O e CO².
 
