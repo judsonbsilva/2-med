@@ -6,3 +6,5 @@ PCR usa Primers sintetizados próprios para cada localização. No caso da Defic
 
 **Polimorfismo:** Quando existe num alelo a diferença de pares de bases nos genes homólogos.
 
+**Antecipação: **Manifestação precoce de uma doença que deveria ser tardia devido a um polimorfismo que acumula muitas trincas no gene causador herdado.
+
