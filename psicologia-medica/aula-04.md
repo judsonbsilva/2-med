@@ -6,7 +6,7 @@
 
 É a única forma de acesso ao psiquismo dos indivíduos. No caso, estuda-se as ações psicomotoras dependentes do psiquismo.
 
-Alterações
+#### Alterações psicomotoras
 
 * **Quantitativa**
 
@@ -22,6 +22,7 @@ Alterações
     * Abolição total
 
   * Apraxia
+
     * Ideomotora
       * Perce da capacidade de realizar movimentos solicitados
     * Ideativa
@@ -29,6 +30,7 @@ Alterações
       * Ex: Pegue o papel, escreva a carta, coloque no envelope, coloque o selo, leve a mesa.
 
 * **Qualitativa**
+
   * Estereotipia
     * Repetição involuntária de movimentos uniforme sem finalidade comunicativa
   * Ecopraxia
