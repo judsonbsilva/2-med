@@ -10,6 +10,7 @@
   * [Aula 01](genetica/aula-1.md)
   * [Aula 02](genetica/aula-2.md)
   * [Aula 03](genetica/aula-03.md)
+  * [Aula 04](genetica/aula-04.md)
 * [Psicologia Médica](psicologia-medica.md)
   * [Aula 01](psicologia-medica/aula-1.md)
   * [Aula 02](psicologia-medica/aula-2.md)
