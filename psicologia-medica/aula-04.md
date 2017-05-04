@@ -44,3 +44,59 @@
 
 **Catalepsia**: Acinesia + Rigidez muscular + mantimento da postura corporal + redução da mobilidade.
 
+#### Alterações da linguagem
+
+* **Quantitativa**
+  * **Taquilalia / Bradilalia**
+    * Expressões da velocidade do pensamento
+    * Taquilalia: aumento da velocidade
+    * Bradilalia: diminuição da velocidade
+  * **Logorreia / Oligorreia**
+    * Oligorria: ??
+    * Logorreia: expressão verbal aumentada, fala ininterrupta.
+  * **Latência de Resposta**
+    * Tempo de demora pra responder pode estar aumentada ou diminuida
+  * **Afasias**
+    * Disturbios adquiridos na capacidade de linguagem decorrente de lesões corticais
+  * **Mutismo**
+    * Sem problemas no aparelho fonador
+  * **Hiper / Hipofonia**
+    * Falar alto demais ou baixo demais
+  * **Hiper / Hipo / A \(prosódio\)**
+    * Alteração da intonação e musicalidade da fala
+  * **Agrafia**
+    * Dificuldade da escrita
+  * **Alexia**
+    * Dificuldade da leitura
+* **Qualitativa**
+  * **Solilóquio**
+    * Falar sozinho
+  * **Ecolalia**
+    * Repetir o que o outro fala
+  * **Palilalia**
+    * Repetir as últimas palavras ditas por si mesmo
+  * **Logoclonia**
+    * Últimas silabas ditas por si mesmo
+  * **Esteriotipia Verbal**
+    * Repetição contínua de frase sem finalidade comunicativa
+  * **Neologismo**
+    * Criação de palavras novas ou dar um sentido novo a um termo já conhecido pra expressar algo vivenciado
+  * **Jargonofasia**
+    * Total desorganização de palavras
+  * **Glossolalia**
+    * Falar em linguas desconhecidas
+  * **Mussitação**
+    * Sussurrar a fala
+  * **Coprolalia**
+    * Linguagem vulgar
+  * **Pedolalia**
+    * Fala infantilizada
+  * **Maneirismo**
+    * Maneirismo na fala
+  * **Para resposta**
+    * Resposta totalmente desconexa das perguntas
+  * **Parafasia**
+    * Troca palavras fonetica ou semanticamente próximas
+
+
+
