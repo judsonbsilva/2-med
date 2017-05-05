@@ -58,5 +58,5 @@ Primeiro modelo de saúde pública: sanitarismo. Dava-se por grandes campanhas d
 
 Primeiras indústrias e investimentos estrangeiros. Condições precárias, sem direitos trabalhistas, início dos movimentos operários.
 
-Organização no setor da saúde: medicina liberal e hospitais filantrópicos. Criação das caixas de aposentadoria e pensão pela lei Eloy Chaves em 1923.
+Organização no setor da saúde: medicina liberal e hospitais filantrópicos. Criação das caixas de aposentadoria e pensão pela lei Eloy Chaves em 1923. CAP's por instituição ou empresa.
 
