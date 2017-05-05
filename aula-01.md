@@ -54,7 +54,5 @@ Doenças pestilenciais. País agrário extrativista. Sem atenção à saúde, ha
 
 #### República Velha
 
-Febre amarela, Varíola, Tuberculose, Sófilis, Endemiasa rurais.
-
-
+Primeiro modelo de saúde pública: sanitarismo. Dava-se por grandes campanhas de cunho sanitário. Doenças infectocontagiosas: Febre amarela, Varíola, Tuberculose, Sófilis, Endemiasa rurais.
 
