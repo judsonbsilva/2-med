@@ -50,5 +50,5 @@ Atualmente: crise no SUS. Ideia do ACS é original do SUS. Há uma necessidade c
 
 #### Descobrimento ao Império
 
-Doenças pestilenciais. País agrário extrativista. Sem atenção à saúde, haviam: boticários, curandeiros, medicina liberal. Mudança da família real portuguesa em 1808. Inicia-se uma interiorização.
+Doenças pestilenciais. País agrário extrativista. Sem atenção à saúde, haviam: boticários, curandeiros, medicina liberal. Mudança da família real portuguesa em 1808. Inicia-se a interiorização.
 
