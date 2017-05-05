@@ -37,5 +37,14 @@ Atualmente: crise no SUS. Ideia do ACS é original do SUS. Há uma necessidade c
 
 ### História das políticas de saúde no Brasil
 
+Períodos: 
+
+* **1500-1889: Império**
+* **1889-1930: República Velha**
+* **1930-1964: Era Vargas**
+* **1964-1984: Autoritarismo**
+* **1985-1988: Nova República**
+* **1989-  . . . : Paaah**
+
 
 
