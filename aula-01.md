@@ -16,6 +16,8 @@
 * Atividade do agente de saúde
 * Existência da UBS
 
+
+
 **PSF**: Programa de saúde da família
 
 **PSE:** Programa de saúde na escola
@@ -25,6 +27,4 @@
 **ACS: **Agente comunitário da saúde
 
 Cada UBS é responsável por um território que não é nescessariamente um bairro. Cada território é subdividido em microáreas. Cada microáre é de responsabilidade de um ACS.
-
-
 
