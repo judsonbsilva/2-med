@@ -46,5 +46,5 @@ Atualmente: crise no SUS. Ideia do ACS é original do SUS. Há uma necessidade c
 * **1985-1988: **Nova República
 * **1989-  . . . : **Paaah
 
-
+**Processo saúde-doença:** envelhecer, adoecer, morrer. Varia em tempo, lugar e pessoa.
 
