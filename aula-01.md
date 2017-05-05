@@ -58,7 +58,5 @@ Primeiro modelo de saúde pública: sanitarismo. Dava-se por grandes campanhas d
 
 Primeiras indústrias e investimentos estrangeiros. Condições precárias, sem direitos trabalhistas, início dos movimentos operários.
 
-Organização no setor da saúde: medicina liberal e hospitais filantrópicos. Estado liberal.
-
-
+Organização no setor da saúde: medicina liberal e hospitais filantrópicos.
 
