@@ -35,5 +35,5 @@ Cada UBS é responsável por um território que não é nescessariamente um bair
 
 ### História das políticas de saúde no Brasil
 
-Atualmente: crise no SUS. Ideia do ACS é original do SUS. Há uma necessidade crucial de que o o ACS seja do território em questão da UBS.
+Atualmente: crise no SUS. Ideia do ACS é original do SUS. Há uma necessidade crucial de que o o ACS seja do território em questão da UBS. Política do empoderamento.
 
