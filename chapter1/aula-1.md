@@ -6,7 +6,7 @@
 
 _Guyton. Capítulo 1_
 
-Claude Bernet \( fisiologista francês \) definiu **Homeoestase** como as condições quase constantes no estado de normalidade da manutenção da vida, ou seja, o equilíbrio do meio interno. O **meio interno** é o líquido extracelular onde estão os nutrientes, íons, e etc.
+Claude Bernet \( fisiologista francês \) definiu **homeoestase** como as condições quase constantes no estado de normalidade da manutenção da vida, ou seja, o equilíbrio do meio interno. **O meio interno** é o líquido extracelular onde estão os íons e nutrientes necessários para o mantimento da vida. A origem dos nutrientes presentes no meio interto é diversa. **O sistema respiratório** provê oxigênio e libera dióxido de carbono. **O trato gastrointestinal** provê carboidratos, ácidos graxos e aminoácidos. **O fígado** elimina substâncias tóxicas e metaboliza outras substâncias para formas mais utilizáveis pelo corpo.
 
 A célula possui a membrana para dividir o LIC \( líquido intracelular \) e o LEC \( líquido extracelular \). Tudo o que ingerimos: oxigênio, comida, água, e etc. chega no LEC primordialmente para abastecer as células. As membranas plasmáticas das células possuem** permeabilidade seletiva **selecionando os nutrientes que necessitam**. **Esse fluxo de nutrientes nos dois sentidos chama-se transporte de membrana.
 
