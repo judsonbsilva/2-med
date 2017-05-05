@@ -2,7 +2,7 @@
 
 ---
 
-**Caso 9**
+#### **Caso 9**
 
 **Problamos:**
 
@@ -27,5 +27,13 @@
 
 **ACS: **Agente comunitário da saúde
 
-Cada UBS é responsável por um território que não é nescessariamente um bairro. Cada território é subdividido em microáreas. Cada microáre é de responsabilidade de um ACS.
+Cada UBS é responsável por um território que não é nescessariamente um bairro. Cada território é subdividido em microáreas. Cada microárea é de responsabilidade de um ACS.
+
+---
+
+### História das políticas de saúde no Brasil
+
+Atualmente: crise no SUS. 
+
+
 
