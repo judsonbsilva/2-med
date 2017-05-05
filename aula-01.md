@@ -39,7 +39,7 @@ Atualmente: crise no SUS. Ideia do ACS é original do SUS. Há uma necessidade c
 
 #### **Períodos:**
 
-* **1500-1889: **Império
+* **1500-1889: **Descobrimento ao Império
 * **1889-1930: **República Velha
 * **1930-1964: **Era Vargas
 * **1964-1984: **Autoritarismo
@@ -47,4 +47,10 @@ Atualmente: crise no SUS. Ideia do ACS é original do SUS. Há uma necessidade c
 * **1989-  . . . : **Paaah
 
 **Processo saúde-doença:** envelhecer, adoecer, morrer. Varia em tempo, lugar e pessoa.
+
+#### Descobrimento ao Império
+
+Doenças pestilenciais
+
+País agrário extrativista
 
