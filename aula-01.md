@@ -56,3 +56,9 @@ Doenças pestilenciais. País agrário extrativista. Sem atenção à saúde, ha
 
 Primeiro modelo de saúde pública: sanitarismo. Dava-se por grandes campanhas de cunho sanitário. Doenças infectocontagiosas: Febre amarela, Varíola, Tuberculose, Sófilis, Endemiasa rurais.
 
+Primeiras indústrias e investimentos estrangeiros. Condições precárias, sem direitos trabalhistas, início dos movimentos operários.
+
+Organização no setor da saúde: medicina liberal e hospitais filantrópicos. Estado liberal.
+
+
+
