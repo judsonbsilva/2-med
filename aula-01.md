@@ -15,8 +15,9 @@
 
 * Atividade do agente de saúde
 * Existência da UBS
+* Existência da rede cegonha \(acompanhamento de mãe e bebê por até 2 anos após o nascimento\)
 
-
+---
 
 **PSF**: Programa de saúde da família
 
