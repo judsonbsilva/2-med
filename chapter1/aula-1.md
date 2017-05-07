@@ -33,7 +33,7 @@ Os transportes passivos são basicamente três:
 * **Osmose**: pressão osmótica é a diferença tônica do meio \( presença de maior soluto atrai maior quantidade de água \) hipertônico ou hipotônico
 * **Difusão simples: **O gradiente de concentração é o agente motor de transporte das moléculas \(do meio mais concentrado para o menos concentrada\). A movimentação dessas moléculas é feita utilizando-se a energia cinética adiquirida devido a temperatura \(calor\). A passagem da molécula pode ser através da própria membrana, substâncias de alta lipossolubilidade, ou por proteínas transportadoras \(sem que haja interação com elas\) como por exemplo **água e uréia**.Substâncias de alta lipossolubilidade:** oxigênio, nitrogênio, dióxido de carbono e álcool**.
 
-* **Difusão facilitada: **Transporte mediado por uma proteína transmembrana.
+* **Difusão facilitada: **Transporte mediado por uma proteína transmembrana. O transporte da substância, mesmo em um grandiente de concentração amplo, tende a uma velocidade máxima que é delimitada pela resistência na passagem da substância feita pela proteína transportadora.
 
 ---
 
