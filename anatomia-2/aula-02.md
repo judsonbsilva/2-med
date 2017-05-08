@@ -15,6 +15,16 @@
 * Músculos extrínsecos
 * Lágrima
 * Globo ocular
+  * Túnica externa
+    * Córnea
+    * Esclera
+  * Túnica média
+    * Corióide \(túnica vascular\)
+    * Corpo ciliar
+    * Iris
+      * Pupila
+        * Miose, contração, fechamento.
+        * Midríase, relaxamento, dilatação, abertura.
 
 
 
