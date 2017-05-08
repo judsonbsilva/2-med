@@ -20,6 +20,8 @@ As memórias possuem gatilhos que são somas entre diversos sentidos. No caso da
 
 **PS:** Revisar neuroanatomia. Principais áreas, lóbos, hemisférios e suas funções.
 
+**Pesquisa: **Funções dos neurotransmissores no sistema central
+
 ---
 
 
