@@ -12,7 +12,7 @@ O neurônio do Sistema Nervoso Central: a unidade funcional básica. No  istema 
 
 **CC: **No Parkinson, com a degradação dos neurônios dopaminérgicos, o circuito nervoso motor é interrompido dado que o estímulo atravessa o núcleo caudade, tálamo, putâmen, globo pálido, núcleo subtalâmico e etc.
 
-**PS:** Revisar neuroanatomia.
+**PS:** Revisar neuroanatomia. Principais áreas, lóbos e suas funções.
 
 ---
 
