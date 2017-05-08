@@ -18,8 +18,9 @@
   * Túnica externa
     * Córnea
     * Esclera
-  * Túnica média
-    * Corióide \(túnica vascular\)
+  * Túnica média 
+    * CC: Uveíte
+  * * Corióide \(túnica vascular\)
     * Corpo ciliar
     * Iris
       * Pupila
