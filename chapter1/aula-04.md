@@ -2,7 +2,5 @@
 
 ---
 
-**Leitura recomendada **_Houssay. Fisiologia Humana de Houssay._
-
-
+**Leitura recomendada **_Houssay. Fisiologia Humana._
 
