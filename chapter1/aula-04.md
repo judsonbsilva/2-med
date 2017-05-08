@@ -16,7 +16,7 @@ Cerebelo é responsável pelas adequações dos movimentos, o gatilho para a cor
 
 Na área parietal está relacionada com a discriminação de dois pontos, reconhecimento de objetos pela forma, tamanho, peso, textura. A área temporal é responsável pelos sentidos do paladar, olfato, audição \(área interpretativa que intregra sons, pensamentos e emoções\). Sistema límbico: humor, memória imediata. Lobo occipital: interpretação e reconhecimento das sensações visuais e compreensão da leitura.
 
-As memórias possuem gatilhos que são somas entre diversos sentidos. No caso da gustação, por exemplo, há uma forte relação entre a via olfativa, paladar e visão, sendo possível causar confusão na identificação de alimentos quando há a obstrução dessas vias.
+As memórias possuem gatilhos que são somas entre diversos sentidos. No caso da gustação, por exemplo, há uma forte relação entre a via olfativa, paladar e visão, sendo possível causar confusão na identificação de alimentos quando há a obstrução dessas vias. 
 
 **PS:** Revisar neuroanatomia. Principais áreas, lóbos e suas funções.
 
