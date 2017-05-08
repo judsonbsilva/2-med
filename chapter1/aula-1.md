@@ -35,6 +35,8 @@ Os transportes passivos são basicamente três:
 
 * **Difusão facilitada: **Transporte mediado por uma proteína transmembrana. O transporte da substância, mesmo em um grandiente de concentração amplo, tende a uma velocidade máxima que é delimitada pela resistência na passagem da substância feita pela proteína transportadora.
 
+A difusão efetiva de substâncias pra dentro da célula pode ser quantificada sendo ela a subtração entre a concentração da substância no meio externo menos a concentração da substância no meio interno.
+
 ---
 
 ### Bioeletrogênese
