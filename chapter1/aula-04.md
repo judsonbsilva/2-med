@@ -14,6 +14,8 @@ O neurônio do Sistema Nervoso Central: a unidade funcional básica. No  istema 
 
 Cerebelo é responsável pelas adequações dos movimentos, o gatilho para a correção do movimento é o erro. A ingestão de álcool causa uma inibição das funções cerebelares. Sabe-se que o cerebelo é responsável pela coordenação.
 
+Na área parietal está relacionada com a discriminação de dois pontos, reconhecimento de objetos pela forma, tamanho, peso, textura. A área temporal é responsável pelos sentidos do paladar, olfato, audição \(área interpretativa que intregra sons, pensamentos e emoções\). Sistema límbico: humor, memória imediata. Lobo occipital: interpretação e reconhecimento das sensações visuais e compreensão da leitura. 
+
 **PS:** Revisar neuroanatomia. Principais áreas, lóbos e suas funções.
 
 ---
