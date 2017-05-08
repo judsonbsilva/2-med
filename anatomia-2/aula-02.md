@@ -4,6 +4,8 @@
 
 ### Estudo da Visão
 
+**Órgãos acessórios**
+
 * Órbita
 * Pálpebras
 * Cílios
@@ -11,8 +13,6 @@
 * Aparelho Lacrimal
 * Conjuntiva
 * Músculos extrínsecos
-
-
 
 
 
