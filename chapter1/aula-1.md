@@ -41,7 +41,7 @@ A difusão efetiva de substâncias pra dentro da célula pode ser quantificada s
 
 O transporte ativo é um transporte de moléculas que vai contra o grandiente de concentração podendo ele ser primário ou secundário. Existe uma série de substâncias que são transportadas de forma ativa: maior parte dos aminoácidos, sódio, potássio, cálcio, ferro, hidrogênio, cloreto, urato, açucares diferentes.
 
-No transporte primário a energia utilizada é derivada da degradação de qualquer composto de fosfato com alta energia. No secundário utiliza-se energia de um gradiente de concentração de substâncias secundárias. Um exemplo de transporte ativo primário é a bomba Na+/Ka+ que bombeia Na+ pra fora e Ka+ pra dentro.
+No transporte primário a energia utilizada é derivada da degradação de qualquer composto de fosfato com alta energia. No secundário utiliza-se energia de um gradiente de concentração de substâncias secundárias. Exemplo de transporte ativo primário: a bomba Na+/Ka+, bomba de Ca+.
 
 ---
 
