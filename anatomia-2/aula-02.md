@@ -20,12 +20,16 @@
     * Esclera
   * Túnica média 
     * CC: Uveíte
-  * * Corióide \(túnica vascular\)
+    * Corióide \(túnica vascular\)
     * Corpo ciliar
     * Iris
       * Pupila
-        * Miose, contração, fechamento.
+        * Miose, contração, fechamento
         * Midríase, relaxamento, dilatação, abertura.
+  * Túnica interna
+    * Retina
+    * Ora Serrata
+* Cristalino
 
 
 
