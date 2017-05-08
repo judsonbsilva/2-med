@@ -43,6 +43,8 @@ O transporte ativo é um transporte de moléculas que vai contra o grandiente de
 
 No transporte primário a energia utilizada é derivada da degradação de qualquer composto de fosfato com alta energia. No secundário utiliza-se energia de um gradiente de concentração de substâncias secundárias. Exemplo de transporte ativo primário: a bomba Na+/Ka+, bomba de Ca+.
 
+O transporte ativo secundário pode ser de dois tipos: cotransporte e contratransporte. No **cotransporte** uma subtância pega "carona" com outra devido ao amplo grandiente de concentração dessa segunda substância. No caso do Na+, por exemplo, a quantidade é sempre maior no LEC devido a isso existem diversos tipos de cotransporte relacionados a ele. O **contratrasporte** é análogo ao cotransporte entretanto a substância a ser cotransportada está no LIC enquanto a outra está no LEC. 
+
 ---
 
 ### Bioeletrogênese
