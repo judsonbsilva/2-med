@@ -46,9 +46,9 @@ Comumente observável no funk ostentação quando o indivíduo compra objetos de
 
 ---
 
-**Repressão: **Retirar ideias, afetos ou desejos perturbadores da consciência, pressionando-os para a inconsciência.
-
 **Negação: **Recusar reconhecer a existência de uma situação real ou sentimento.
+
+
 
 **Racionalização: **Processo de achar motivações lógicas para justificar dado comportamento inaceitável
 
