@@ -34,3 +34,5 @@ O hCG cai na circulação sanguínea da mãe primeiramente pelas lacunas produzi
 
 **LEITURA RECOMENDADA:** _Robins. Capítulo sobre Neoplasia_
 
+Formação de uma placa bilaminar.
+
