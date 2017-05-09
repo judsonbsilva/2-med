@@ -28,7 +28,7 @@ PS: fertilização só ocorre na tuba uterina.
 
 **PS:** Não se encontra necrose na gravidez.
 
-O sinciciotrofoblaso induz as células endometriais à apoptose. 
+O sinciciotrofoblaso induz as células endometriais à apoptose.
 
-O hCG cai na circulação sanguínea primeiramente pelas lacunas produzidar durante a ascensão do blastocisto no endométrio.
+O hCG cai na circulação sanguínea primeiramente pelas lacunas produzidar durante a entrada do blastocisto no endométrio.
 
