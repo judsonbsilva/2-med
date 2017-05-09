@@ -16,7 +16,7 @@ Faz-se uma análise genética dos pais e da afetado.
 
 Descobre-se que joanne é heterozigota para o gene p.F508del. Entretanto Joanne não é normal. Logo, joanne pode ter herdade uma mutação "a" do pai e outra mutação "a" da mãe para esse gene. Entretanto as mutações "aa" estão cada um em um éxon diferente \(apesar de estarem no mesmo gene\).
 
-O geneticista decide fazer um sequenciamento. Entretanto são 27 éxons, isso seria inviável, porém foi feito uma triagem utilizando SSCP. Analisando as canaletas identificou-se alterações no éxon 3 e no éxon 14b. 
+O geneticista decide fazer um sequenciamento. Entretanto são 27 éxons, isso seria inviável, porém foi feito uma triagem utilizando SSCP. Analisando as canaletas identificou-se alterações no éxon 3 e no éxon 14b.
 
 * Éxon 3:      c.368 G &gt; A
 * Éxon 14b:  c.2752-15c C &gt; G
@@ -25,7 +25,13 @@ Entretanto usou-se, também, uma PCR simples no gene p.F507del. E encontrou-se m
 
 * Éxon 10 mutado
 
+Sequenciando-se esses 3 éxons e comparando-se com o dos pais.
+
+* A mutação p.F508del e a 14b vieram do pai
+* A mutação 14b não é patogênica pois está numa sequência intrônica
+* A mutação 3 \(de origem materna\) é um stop códon patogênico.
+
+
+
 **SSCP**: Polimorfismo de comformação de fita simples. Desnatura-se a fita com frio pra elas se separarem e coloca-se no gel da eletroforese pra ver a densidade
-
-
 
