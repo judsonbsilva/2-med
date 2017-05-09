@@ -30,5 +30,5 @@ PS: fertilização só ocorre na tuba uterina.
 
 O sinciciotrofoblaso induz as células endometriais à apoptose.
 
-O hCG cai na circulação sanguínea primeiramente pelas lacunas produzidar durante a entrada do blastocisto no endométrio.
+O hCG cai na circulação sanguínea da mãe primeiramente pelas lacunas produzidas durante a entrada do blastocisto no endométrio. Todas as células nesse momento são indiferenciadas
 
