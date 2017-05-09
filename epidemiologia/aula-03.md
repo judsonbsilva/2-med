@@ -26,3 +26,7 @@ Neonatal tardio:
 
 **C. M. I. T. = **Coeficiente de mortalidade pós-neonatal ou infantil tardia
 
+**C. M. M. = **Coeficiente de mortalidade materna
+
+**I. S. U = **Índice de Swaroop & Uemura
+
