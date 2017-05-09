@@ -26,5 +26,7 @@ PS: fertilização só ocorre na tuba uterina.
 
 ### 2ª Semana
 
+**PS:** Não se encontra necrose na gravidez. 
 
+O sinciciotrofoblaso induz as células endometriais à apoptose.
 
