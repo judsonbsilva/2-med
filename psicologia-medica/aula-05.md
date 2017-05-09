@@ -10,7 +10,7 @@ Sabe-se que o Id, antes conhecido como inconsciente, não é passível de observ
 
 O superego, por outro lado, possue maior parte do seu conteúdo no consciente e pode-se percebe-lo, por exemplo, quando enfrenta o ego com hostilidade ou criticidade. O sentimento de culpa é um exemplo de estado gerado pelo superego dentro do ego.
 
-A forma de atuação básica da psicanálise é a tentativa de estabelecimento de um diálogo do ego com id e superego visando obter informações destes.
+A forma de atuação básica da psicanálise é a tentativa de percepção e estabelecimento de como se dá,  o diálogo do ego com id e superego visando obter informações destes.
 
 #### **Os mecanismos de defesa:**
 
