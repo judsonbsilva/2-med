@@ -48,21 +48,29 @@ Comumente observável no funk ostentação quando o indivíduo compra objetos de
 
 **Negação: **Recusar reconhecer a existência de uma situação real ou sentimento.
 
-
-
 **Racionalização: **Processo de achar motivações lógicas para justificar dado comportamento inaceitável
 
 **Formação Reativa:** Ato de externar sentimento oposto ao verdadeiro devido a inaceitação própria do mesmo.
 
 **Projeção: **Tentativa de imputar a outro um valor que seria inaceitável por mim mesmo afim de aliviar a consciência moral.
 
+
+
 **Identificação: ** Assimilação da personalidade de outra total ou parcialmente.
+
+
 
 **Deslocamento: **Ação  de transferir o sentimento a algo menos ameaçador ou neutro.
 
+
+
 **Introjeção: **Justificar ações próprias baseado nas atitudes de outros.
 
+
+
 **Sublimação: **Redirecionamente de um sentimento a outro espaço diferente do espaço de sua origem.
+
+
 
 **Regressão: **Tentativa de voltar a uma fase anterior do ciclo de desenvolvimento.
 
