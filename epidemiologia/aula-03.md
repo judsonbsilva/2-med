@@ -6,3 +6,9 @@
 
 Importante indicativo de saúde, calculado de forma global pra ser usado como parâmetro comparativo.
 
+C. M. G = Coeficiente de mortalidade geral
+
+C. M. G = \(Total de óbitos registrados em certa área durante o ano / População da área ajustada para o meio do ano\) \* 1000
+
+
+
