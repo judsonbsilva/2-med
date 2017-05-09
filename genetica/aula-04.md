@@ -27,11 +27,9 @@ Entretanto usou-se, também, uma PCR simples no gene p.F507del. E encontrou-se m
 
 Sequenciando-se esses 3 éxons e comparando-se com o dos pais.
 
-* A mutação p.F508del e a 14b vieram do pai
+* A mutação p.F508del e a 14b vieram do pai \(Aa na genética molecular\)
 * A mutação 14b não é patogênica pois está numa sequência intrônica
 * A mutação 3 \(de origem materna\) é um stop códon patogênico.
-
-
 
 **SSCP**: Polimorfismo de comformação de fita simples. Desnatura-se a fita com frio pra elas se separarem e coloca-se no gel da eletroforese pra ver a densidade
 
