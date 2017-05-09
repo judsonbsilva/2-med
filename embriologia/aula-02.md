@@ -32,7 +32,7 @@ O sinciciotrofoblaso induz as células endometriais à apoptose.
 
 O hCG cai na circulação sanguínea da mãe primeiramente pelas lacunas produzidas durante a entrada do blastocisto no endométrio. Todas as células nesse momento são indiferenciadas entretanto sofrem pressões ambientais e pre-condicionamentos para se tornarem diferentes e tais células se agrupam conforme a semelhança.
 
-**LEITURA RECOMENDADA:** _Robins. Capítulo sobre Neoplasia_
+**LEITURA RECOMENDADA:** _Hobins. Capítulo sobre Neoplasia_
 
 Formação de uma placa bilaminar. Disco embrionário bilaminar. Âmnioblasto. Cavidade exocelômica. Membrana exocelômica que dará origem ao mesoderma extra-embrionário.
 
