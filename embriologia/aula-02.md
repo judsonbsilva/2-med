@@ -14,5 +14,7 @@ A fertilização estimula o ovócito penetrado a completar a segunda divisão me
 
 Blastocisto vai perdendo a zona pelúcida e formando uma cavidade, a cavidade blastocistica. Embrioblasto, trofoblasto.
 
-Ao fim da 1ª semana da fertilização o blastocisto está no útero encostado no endométrio. O trofoblasto se divide em citotrofoblasto e cinscício.
+Ao fim da 1ª semana da fertilização o blastocisto está no útero superficialmente implantado na camada compacta no endométrio. O trofoblasto se divide em citotrofoblasto e cinsciciotrofoblasto. O cinsciciotrofoblasto é responsável pela produção do HCG. 
+
+Na 2ª semana ele o embrioblasto vai dar
 
