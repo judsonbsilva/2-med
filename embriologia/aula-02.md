@@ -26,7 +26,9 @@ PS: fertilização só ocorre na tuba uterina.
 
 ### 2ª Semana
 
-**PS:** Não se encontra necrose na gravidez. 
+**PS:** Não se encontra necrose na gravidez.
 
-O sinciciotrofoblaso induz as células endometriais à apoptose.
+O sinciciotrofoblaso induz as células endometriais à apoptose. 
+
+O hCG cai na circulação sanguínea primeiramente pelas lacunas produzidar durante a ascensão do blastocisto no endométrio.
 
