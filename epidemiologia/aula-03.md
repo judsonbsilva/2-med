@@ -28,5 +28,11 @@ Neonatal tardio:
 
 **C. M. M. = **Coeficiente de mortalidade materna
 
-**I. S. U = **Índice de Swaroop & Uemura
+**I. S. U =**
+
+Índice de Swaroop & Uemura
+
+Indicador de Nelson Moraes. Cuvas de Mortalidade Proporcional.
+
+
 
