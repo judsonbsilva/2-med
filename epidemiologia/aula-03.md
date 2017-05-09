@@ -8,9 +8,11 @@ Importante indicativo de saúde, calculado de forma global pra ser usado como pa
 
 C. M. G = Coeficiente de mortalidade geral
 
-C. M. G = \(Total de óbitos registrados em certa área durante o ano / População da área ajustada para o meio do ano\) \* 1000
+**C. M. G** = \(Total de óbitos registrados em certa área durante o ano / População da área ajustada para o meio do ano\) \* 1000
 
 O cálculo comparativo entre C.M.G's só deve ser feito entre populações de faixa etária semelhante.
 
-Principais causas de morte no mundo \(news.med.br\)
+**Principais causas de morte no mundo** \(news.med.br\)
+
+
 
