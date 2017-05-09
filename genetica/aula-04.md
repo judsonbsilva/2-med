@@ -10,5 +10,5 @@ PCR usa Primers sintetizados próprios para cada localização. No caso da Defic
 
 #### Caso 2 - Família Brown
 
-Fibrose cística, autossômica recessiva, 27 éxons com mais de 2000 mutações. Usa-se Análise Múltipla de PCR alelo-específica principalmente no éxon p.F508del \(70 a 80%\)
+Fibrose cística, autossômica recessiva, 27 éxons com mais de 2000 mutações. Usa-se Análise Múltipla de PCR alelo-específica principalmente no éxon p.F508del \(70 a 80%\). Um sequenciamento seria inviável devido a heterogeneidade alélica e a quantidade grande de éxons. Um PCR simples não seria viável devido a grande quantidade de mutações. Usa-se Análise Múltipla de PCR alelo-específica. Nessa PCR usam-se múltiplos iniciadores pois não se sabe o primer exato a ser sequenciado, entretanto sabe-se que 70% a 80% dos casos de Fibrose cística ocorre uma mutação em um éxon específico \(p.F508del\) 
 
