@@ -22,3 +22,5 @@ PS: fertilização só ocorre na tuba uterina.
 
 **PESQUISA: **Métodos contraceptivos: diversos tipos, formas de uso, PERCENTUAIS DE EFICÁCIA, mecanismos de ação.
 
+
+
