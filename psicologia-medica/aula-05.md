@@ -68,13 +68,11 @@ Não acender fogão
 
 **Exemplo**
 
-Quando se fantasia com uma pessoa enquanto está se relacionando com outra
+Quando se fantasia com uma pessoa enquanto está se relacionando com outra.
+
+Minha vó, revista, frango.
 
 ---
-
-
-
-
 
 **Negação: **Recusar reconhecer a existência de uma situação real ou sentimento.
 
