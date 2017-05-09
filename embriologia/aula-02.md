@@ -36,5 +36,7 @@ O hCG cai na circulação sanguínea da mãe primeiramente pelas lacunas produzi
 
 Formação de uma placa bilaminar. Disco embrionário bilaminar. Âmnioblasto. Cavidade exocelômica. Membrana exocelômica que dará origem ao mesoderma extra-embrionário.
 
-**PESQUISA: **Entendendo a formação do saco vitelínico. Learning mesoderm tissue development. 
+**PESQUISA: **Entendendo a formação do saco vitelínico. Learning mesoderm tissue development.
+
+Mesoderma extra-embrionário: somático, esplânico.
 
