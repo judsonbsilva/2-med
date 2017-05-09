@@ -35,5 +35,5 @@ Sequenciando-se esses 3 éxons e comparando-se com o dos pais.
 
 
 
-
+**Tópicos Importantes a se considerar: **Expressividade variável, dissomia uniparental, conssanguinidade, endogamia, herança dominante ligada ao X, mutação, heterogeneidade alélica, heterogeneidade de locus, dominância incompleta e pleiotropia.** **
 
