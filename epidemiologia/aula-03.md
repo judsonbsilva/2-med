@@ -22,5 +22,7 @@ Baixos &lt; 20 -  Médios &gt; 20 e &lt; 49  -  Alto &gt; 50
 
 Neonatal precoce: 0-6 dias
 
-Neonatal tardio: 
+Neonatal tardio:
+
+**C. M. I. T. = **Coeficiente de mortalidade pós-neonatal ou infantil tardia
 
