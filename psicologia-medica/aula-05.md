@@ -2,7 +2,7 @@
 
 ---
 
-### Revisão para GD sobre ego e mecanismos de defesa
+#### Revisão para GD sobre ego e mecanismos de defesa
 
 Dentro do campo da psicanálise, acredita-se que a personalidade psíquica possui **três instâncias**: id, ego e superego. Os objetivos primordiais são: a busca pelo máximo de conhecimento possível de todas as três instâncias e aprender quais são as suas relações mútuas com o mundo externo.
 
@@ -91,4 +91,8 @@ Minha vó, revista, frango.
 **Sublimação: **Redirecionamente de um sentimento a outro espaço diferente do espaço de sua origem.
 
 **Regressão: **Tentativa de voltar a uma fase anterior do ciclo de desenvolvimento.
+
+---
+
+
 
