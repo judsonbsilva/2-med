@@ -36,5 +36,15 @@ Uma pessoa pode brigar com seu amigo, mas não se sentir confortável com o sent
 
 ---
 
+**Introjeção**
+
+Oposto da projeção, mecanismo que imputa a nós sentimentos, atitudes, modos de pensar que não são nossos.
+
+**Exemplo**
+
+Comumente observável no funk ostentação quando o indivíduo compra objetos de marca afim de se sentir mais adequado, mais poderoso e etc.
+
+---
+
 
 
