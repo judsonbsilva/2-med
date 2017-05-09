@@ -22,5 +22,5 @@ Baixos &lt; 20 -  Médios &gt; 20 e &lt; 49  -  Alto &gt; 50
 
 Neonatal precoce: 0-6 dias
 
-Neonatal asdf:
+Neonatal tardio: 
 
