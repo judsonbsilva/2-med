@@ -20,3 +20,5 @@ PS: fertilização só ocorre na tuba uterina.
 
 **As mutações em espermatozóides geralmente são translocações e nos ovócitos trissomias.** Há um acumulo maior de erros genéticos nos espermatozóides, devido as sucessivas divisões, entretanto esses erros podem prejudicar a capacidade de fecundar o óvulo impondo uma seleção natural antes da fertilização.
 
+**PESQUISA: **Métodos contraceptivos.
+
