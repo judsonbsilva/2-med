@@ -34,5 +34,5 @@ O hCG cai na circulação sanguínea da mãe primeiramente pelas lacunas produzi
 
 **LEITURA RECOMENDADA:** _Robins. Capítulo sobre Neoplasia_
 
-Formação de uma placa bilaminar. Disco embrionário bilaminar. Âmnioblasto. Cavidade exocelômica. Membrana exocelômica.
+Formação de uma placa bilaminar. Disco embrionário bilaminar. Âmnioblasto. Cavidade exocelômica. Membrana exocelômica que dará origem ao mesoderma extra-embrionário.
 
