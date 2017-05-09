@@ -14,5 +14,5 @@ Fibrose Cística, autossômica recessiva, 27 éxons com mais de 2000 mutações.
 
 Faz-se uma análise genética dos pais e da afetado.
 
-Descobre-se que joanne é heterozigota para o gene p.F508del. Entretanto Joanne não é normal. Logo, joanne pode ter herdade uma mutação "a" do pai e outro "a" da mãe para esse gene. Entretanto as mutações desses "aa" estão cada um em éxons diferentes apesar de estarem no mesmo gene.  
+Descobre-se que joanne é heterozigota para o gene p.F508del. Entretanto Joanne não é normal. Logo, joanne pode ter herdade uma mutação "a" do pai e outro "a" da mãe para esse gene. Entretanto as mutações desses "aa" estão cada um em um éxon diferente \(apesar de estarem no mesmo gene\).
 
