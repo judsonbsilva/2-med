@@ -16,11 +16,11 @@ O cálculo comparativo entre C.M.G's só deve ser feito entre populações de fa
 
 **C. M. I** = Coeficiente de mortalidade infantil
 
-Baixos &lt; 20
+Baixos &lt; 20 -  Médios &gt; 20 e &lt; 49  -  Alto &gt; 50
 
-Médios &gt; 20 e &lt; 49
+**C.M.N.N. = **Coeficiente de mortalidade neonatal
 
-Alto &gt; 50
+Neonatal precoce: 0-6 dias
 
-
+Neonatal asdf:
 
