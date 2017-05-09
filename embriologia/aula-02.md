@@ -18,5 +18,5 @@ Ao fim da 1ª semana da fertilização o blastocisto está no útero superficial
 
 PS: fertilização só ocorre na tuba uterina.
 
-Na 2ª semana o embrioblasto vai dar
+**As mutações em espermatozóides geralmente são translocações e nos ovócitos trissomias.** Há um acumulo maior de erros genéticos nos espermatozóides entretanto esses erros podem prejudicar a capacidade de fecundar o óvulo sofrendo seleção natural antes da fertilização.
 
