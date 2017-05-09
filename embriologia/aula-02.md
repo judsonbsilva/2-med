@@ -10,5 +10,5 @@ A **fertilização** é uma sequência de eventos que possibilita a união dos g
 
 É possível que vários espermatozóides atravessem a corona radiata mas não a zona pelúcida devido a **reação zonal**. Essa reação ocorre devido ao contato da acrosina com a zona pelúcida fazendo-a mudar a densidade impedindo a passagem de mais de um espermatozóide. Somente o **núcleo do espermatozóide penetra o ovócito**.
 
-A fertilização estimula o ovócito penetrado a completar a segunda divisão meiótica. Restaura o número diplóide normal de cromossomos. Formando o blastômero sem perder a zona pelúcida, sendo essa um impecílio no crescimento do diâmetro durante as suscetíveis mitoses decorrentes. Ao atingir cerca de 32 blatômeros \(3 dias após a fertilização\) chama-se mórula.
+A fertilização estimula o ovócito penetrado a completar a segunda divisão meiótica. Restaura o número diplóide normal de cromossomos. Formando o blastômero sem perder a zona pelúcida, sendo essa um impecílio no crescimento do diâmetro durante as suscetíveis mitoses decorrentes. Ao atingir cerca de 32 blatômeros \(3 dias após a fertilização\) chama-se mórula. 
 
