@@ -40,3 +40,5 @@ Formação de uma placa bilaminar. Disco embrionário bilaminar. Âmnioblasto. C
 
 Mesoderma extra-embrionário: somático, esplânico.
 
+A cavidade coriônica vem da cavidade formada pelo mesoderma extra-embrionário.
+
