@@ -24,11 +24,17 @@ O material reprimido continua fazendo parte da psique e causando problemas em ca
 
 A paciente de Freud, Dora. Dondoca dos tempos em que se casava virgem, seria deplorável para uma moça fina como Dora se imaginar fazendo sexo oral no amigo do pai. Mas ela se imaginava! Porém, como isso não se ajustava à imagem de menina pura que ela deveria ser, Dora recalca tal fantasia. Em compensação, passa a sofrer de tosse nervosa.
 
+---
+
 **Projeção**
 
 Ato de atribuir a outra pessoa, animal ou objeto as qualidades, sentimentos ou intenções que a pessoa recusa em reconhecer em si próprio. Sempre que caracterizamos algo fora de nós ocmo sendo mau, perigoso, pervertido, imoral e etc. sem reconhecer que essa característica pode ser nossa, também, é provável que estejamos projetando.
 
 **Exemplo**
 
-Uma pessoa pode brigar com seu amigo, mas não se sentir confortável com o sentimento de raiva. Assim, em vez de reconhecer esses sentimentos, ela lhes nega e acusa o amigo de estar com raiva dela.
+Uma pessoa pode brigar com seu amigo, mas não se sentir confortável com o sentimento de raiva. Assim, em vez de reconhecer esses sentimentos, ela lhes nega e acusa o amigo de estar com raiva dela
+
+---
+
+
 
