@@ -8,5 +8,5 @@ Dentro do campo da psicanálise, acredita-se que a personalidade psíquica possu
 
 Sabe-se que o Id, antes conhecido como inconsciente, não é passível de observação sob toda e qualquer circustância. É perceptível através de suas influências no ego que em geral são impulsos que buscam gratificação própria e geram sentimentos de tensão e desprazer.
 
-O superego, por outro lado, possue maior parte do seu conteúdo no consciente e pode-se percebe-lo, por exemplo, quando enfrenta o ego com hostilidade ou criticidade. O sentimento de culpa imputado pela criticidade é um exemplo de estado gerado pelo superego dentro do ego.
+O superego, por outro lado, possue maior parte do seu conteúdo no consciente e pode-se percebe-lo, por exemplo, quando enfrenta o ego com hostilidade ou criticidade. O sentimento de culpa é um exemplo de estado gerado pelo superego dentro do ego.
 
