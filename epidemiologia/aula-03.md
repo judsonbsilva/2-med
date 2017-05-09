@@ -10,5 +10,7 @@ C. M. G = Coeficiente de mortalidade geral
 
 C. M. G = \(Total de óbitos registrados em certa área durante o ano / População da área ajustada para o meio do ano\) \* 1000
 
+O cálculo comparativo entre C.M.G's só deve ser feito entre populações de faixa etária semelhante.
+
 
 
