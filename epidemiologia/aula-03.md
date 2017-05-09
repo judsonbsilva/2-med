@@ -12,5 +12,5 @@ C. M. G = \(Total de óbitos registrados em certa área durante o ano / Populaç
 
 O cálculo comparativo entre C.M.G's só deve ser feito entre populações de faixa etária semelhante.
 
-
+Principais causas de morte no mundo
 
