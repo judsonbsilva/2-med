@@ -8,7 +8,7 @@
 
 O aparelho apresenta, segundo Freud, três estruturas básicas: **id, superego** e **ego**. O ego é a estrutura que possui o maior contato com a realidade equilibrando a parte estintiva \(id\) e a moral e racional \(superego\).
 
-A estruturação psíquica é formada a partir do nascimento. Dadas as relações com pais, frustrações, traumas, constituição hereditária existem um **mecanismo de defesa** do aparelho psíquico para tentar se manter em funcionamento.
+A estruturação psíquica é formada a partir do nascimento. Dadas as relações com pais, frustrações, traumas, constituição hereditária. O aparelho psíquico possui **mecanismos de defesa** para tentar se manter em funcionamento.
 
 **Id**
 
