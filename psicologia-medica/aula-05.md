@@ -18,7 +18,19 @@ A forma de atuação básica da psicanálise é a tentativa de percepção e est
 
 Ausência de certos impulsos do id, cujo aparecimento no ego seria de se esperar, em busca de gratificação. A repressão de um evento, ideia, percepção do consciente afastando-a para o inconsciente.
 
-O material reprimido continua fazendo parte da psique e causando problemas em casos extremos.
+O material reprimido continua fazendo parte da psique e causando problemas em casos extremos. Algums sintomas histéricos estariam relacionados a antigas repressões.
 
-Algums sintomas histéricos estariam
+**Exemplo**
+
+A paciente de Freud, Dora. Dondoca dos tempos em que se casava virgem, seria deplorável para uma moça fina como Dora se imaginar fazendo sexo oral no amigo do pai. Mas ela se imaginava! Porém, como isso não se ajustava à imagem de menina pura que ela deveria ser, Dora recalca tal fantasia. Em compensação, passa a sofrer de tosse nervosa.
+
+
+
+**Projeção**
+
+Ato de atribuir a outra pessoa, animal ou objeto as qualidades, sentimentos ou intenções que a pessoa recusa em reconhecer em si próprio.
+
+**Exemplo**
+
+
 
