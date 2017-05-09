@@ -14,5 +14,13 @@ O cálculo comparativo entre C.M.G's só deve ser feito entre populações de fa
 
 **Principais causas de morte no mundo** \(news.med.br\)
 
+**C. M. I** = Coeficiente de mortalidade infantil
+
+Baixos &lt; 20
+
+Médios &gt; 20 e &lt; 49
+
+Alto &gt; 50
+
 
 
