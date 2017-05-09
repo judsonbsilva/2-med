@@ -12,5 +12,7 @@ A **fertilização** é uma sequência de eventos que possibilita a união dos g
 
 A fertilização estimula o ovócito penetrado a completar a segunda divisão meiótica. Restaura o número diplóide normal de cromossomos. Formando o blastômero sem perder a zona pelúcida, sendo essa um impecílio no crescimento do diâmetro durante as suscetíveis mitoses decorrentes. Ao atingir cerca de 32 blatômeros \(3 dias após a fertilização\) chama-se mórula.
 
-Blastocisto vai perdendo a zona pelúcida e formando uma cavidade, a cavidade blastocistica. Embrioblasto, trofoblasto. 
+Blastocisto vai perdendo a zona pelúcida e formando uma cavidade, a cavidade blastocistica. Embrioblasto, trofoblasto.
+
+Ao fim da 1ª semana da fertilização o blastocisto está no útero encostado no endométrio.
 
