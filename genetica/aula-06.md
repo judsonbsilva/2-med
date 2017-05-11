@@ -10,7 +10,7 @@ _Griffthins. Capítulo 4._
 
 Linkage = Mapeamento.
 
-Unidade de morgan = Morganídeo = Unidade de mapa
+Unidade de morgan = Morganídeo = Unidade de mapa.
 
 
 
