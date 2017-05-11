@@ -58,7 +58,10 @@ Objetivos
   * Diagnóstico precoce e Tratamento imediato
   * Limitação de danos
 * **Terciária:**
-  * asdf
+  * Reabilitação: impedir a incapacidade total
+    * Fisioterapia
+    * Terapia ocupacional
+    * Reintegração do reabilitado
 
 
 
