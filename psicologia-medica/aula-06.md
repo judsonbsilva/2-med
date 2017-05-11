@@ -74,3 +74,15 @@ As memórias podem ser divididas em:
 
 
 
+#### Alterações
+
+**Qualitativas**
+
+* Alomnésia
+  * Memória distorcida, ilusão de memória
+* Paramnésia
+* Criptomnésia
+* Ecmnésia
+
+
+
