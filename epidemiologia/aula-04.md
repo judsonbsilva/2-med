@@ -37,10 +37,16 @@ Existem **padrões de progressão** de doenças passíveis de agrupamento e diag
   * Físicos
   * Biológicos
 
-Patogênico
+**No período Patogênico**
 
 * Clínica
 * Pré-clínica
 
+#### Prevenção
 
+Objetivos
+
+Evitar a ocorrência de doenças
+
+Reduzir intensidade e duração da doença
 
