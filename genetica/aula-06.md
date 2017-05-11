@@ -23,3 +23,7 @@ Marcadores moleculares reagem de maneira diferente conforme a distância do alel
 
 **Genes ligados.**
 
+**PS**: Tudo recessivo é cis.
+
+
+
