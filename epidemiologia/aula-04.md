@@ -37,5 +37,10 @@ Existem **padrões de progressão** de doenças passíveis de agrupamento e diag
   * Físicos
   * Biológicos
 
+Patogênico
+
+* Clínica
+* Pré-clínica
+
 
 
