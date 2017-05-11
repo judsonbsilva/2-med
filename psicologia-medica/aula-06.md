@@ -72,8 +72,6 @@ As memórias podem ser divididas em:
     * Pré-ativação
       * Ativação através de um fragmento de conhecimento previamente contatado 
 
-
-
 #### Alterações
 
 **Qualitativas**
@@ -81,6 +79,7 @@ As memórias podem ser divididas em:
 * Alomnésia
   * Memória distorcida, ilusão de memória
 * Paramnésia
+  * Ilusão, situação que não aconteceu anteriormente
 * Criptomnésia
 * Ecmnésia
 
