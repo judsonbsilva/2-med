@@ -8,5 +8,5 @@ _**alelo:**_ Variantes alternativas de um mesmo gene
 
 _**alelo comum**_ \(tipo selvagem\): O alelo prevalente no conjunto de invidívuos de uma espécie
 
-_**alelos variantes ou mutante: **_Alelo com mutações, alterações na sequência de nucleotídeos de DNA
+**alelos variantes ou mutante: **\_Alelo com mutações, alterações na sequência de nucleotídeos de DNA
 
