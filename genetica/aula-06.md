@@ -6,7 +6,11 @@
 
 _Griffthins. Capítulo 4._
 
-**PS: **Linkage = Mapeamento.
+**PS:**
+
+Linkage = Mapeamento.
+
+Unidade de morgan = Morganídeo = Unidade de mapa
 
 
 
