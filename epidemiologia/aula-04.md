@@ -29,7 +29,7 @@ Existem **padrões de progressão** de doenças passíveis de agrupamento e diag
 * **Pré-patogênese \( Suscetibilidade \):** Antes do indivíduo adoecer.
 * **Patogênese \( Patológico \)**: Doença presente mesmo que de forma inaparente.
 
-No período pré-patogênico
+**No período pré-patogênico**
 
 * Fatores socioculturais
 * Fatores genéticos
