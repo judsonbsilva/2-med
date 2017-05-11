@@ -68,7 +68,7 @@ As memórias podem ser divididas em:
       * Habituação
         * Estímulo intenso provoca reação desagradável como resposta. Havendo uma habituação ocorre a diminuição ou inibição da resposta 
       * Sensibilização
-        * Estímulo intenso provoca resposta primeiramente e desde então provoca forte resposta posteriormente 
+        * Estímulo intenso provoca resposta num primeiro contato e desde então provoca forte resposta posteriormente
     * Pré-ativação
       * Ativação através de um fragmento de conhecimento previamente contatado 
 
