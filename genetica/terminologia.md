@@ -6,7 +6,7 @@ _**locus**_: Um segmento de DNA ocupando uma posição ou localização particul
 
 _**alelo:**_ Variantes alternativas de um mesmo gene
 
-_**alelo comum**_ \(tipo selvagem\): par de alelo em que apenas um dos dois é prevalente
+_**alelo comum**_ \(tipo selvagem\): O alelo prevalente no conjunto de invidívuos de uma espécie
 
-
+_**alelos variantes ou mutante: **_Alelo com mutações, alterações na sequência de nucleotídeos de DNA
 
