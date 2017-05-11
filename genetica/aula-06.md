@@ -25,3 +25,5 @@ Marcadores moleculares reagem de maneira diferente conforme a distância do alel
 
 **PS**: Todos os alelos recessivo, é cis.
 
+Quanto mais recombinações menor a frequência.
+
