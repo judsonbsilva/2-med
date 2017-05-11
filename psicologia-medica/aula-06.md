@@ -30,8 +30,6 @@ Muitas outras funções psíquicas dependem da atenção para funcionarem de for
 
 * Rigidez da atenção \( Hipertenacidade + Hipomobilidade \)
 * Labilidade da atenção \( Hipotenacidade + Hipermobilidade \)
-
-
-
+* * * 
 
 
