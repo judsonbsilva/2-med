@@ -37,3 +37,9 @@ Muitas outras funções psíquicas dependem da atenção para funcionarem de for
 
 Vindo de memosine, deusa grega que fazia as pessoas voltarem ao passado.
 
+* **Fixação:** Aquisição de nova informação
+* **Conservação: **Capacidade de manter informação
+* **Evocação: **recuperação das informações previamente adquiridas
+
+Existe uma série de aspectos que influenciam na fixação como por exemplo: a capacidade de associar as informações com conhecimentos prévios, a conotação emocional influência, as novidades são mais facilmente fixadas, a repetição, o que vem por mais de um canal sensorial, o papel ativo na fixação.
+
