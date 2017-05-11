@@ -56,7 +56,7 @@ Objetivos
   * Proteção específica: medidas preventivas de uma doença / um grupo de doenças
 * **Secundária:**
   * Diagnóstico precoce e Tratamento imediato
-  * Limitação de danos
+  * Limitação de danos \(de incapacidade\)
 * **Terciária:**
   * Reabilitação: impedir a incapacidade total
     * Fisioterapia
