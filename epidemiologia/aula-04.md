@@ -55,8 +55,10 @@ Medidas preventivas
   * Promoção da saúde: medidas de ordem geral
   * Proteção específica: medidas preventivas de uma doença / um grupo de doenças
 * **Secundária:**
-  * 
+  * Diagnóstico precoce e tratamento imediato
+  * Limitação de danos
 * **Terciária:**
+  * asdf
 
 
 
