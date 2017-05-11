@@ -43,3 +43,13 @@ Vindo de memosine, deusa grega que fazia as pessoas voltarem ao passado.
 
 Existe uma série de aspectos que influenciam na fixação como por exemplo: a capacidade de associar as informações com conhecimentos prévios, a conotação emocional influência, as novidades são mais facilmente fixadas, a repetição, o que vem por mais de um canal sensorial, o papel ativo na fixação.
 
+As memórias podem ser divididas em:
+
+* **Sensorial: **Imediata, momentânea, necessária para a percepção
+* **Curto prazo: **Memória de trabalho, necessária para se realizar ações com etapas
+* **Longo prazo**
+  * **Declarativa** ou **Explícita**:
+  * **Não declarativa** ou **Implícita**:
+
+
+
