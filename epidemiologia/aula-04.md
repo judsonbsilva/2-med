@@ -22,5 +22,5 @@ Importância HND: ações preventivas.
 
 **Evolução subclínica: **Evolução do quadro sem apresentar sinais e sintomas detectável apenas por exames laboratoriais.
 
-
+Existem padrões de progressão de doenças passíveis de agrupamento.
 
