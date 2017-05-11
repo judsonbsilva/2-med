@@ -2,5 +2,17 @@
 
 ---
 
+### História Natural da Doença
+
+**Evolução, ao longo do tempo, de uma doença não tratada.**
+
+Interação de fatores relacionados ao agente patogênico, ao hospedeiro suscetível e ao meio ambiente, que condicionam o aparecimento das doenças e sua evolução.
+
+Doença: fato repentino X exteriorização longo processo envolvendo múltiplos fatores.
+
+Ex: Infarto -&gt; manifestação inicial da doença \(hereditareidade, estresse, tabagismo, sedentarismo, obesidade\)
+
+Importância HND: ações preventivas.
+
 
 
