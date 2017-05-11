@@ -49,7 +49,7 @@ Objetivos
 * Evitar a ocorrência de doenças
 * Reduzir intensidade e duração da doença
 
-Medidas preventivas
+#### Medidas preventivas
 
 * **Primária:**
   * Promoção da saúde: medidas de ordem geral
