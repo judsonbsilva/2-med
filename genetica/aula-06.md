@@ -2,7 +2,7 @@
 
 ---
 
-### Mapeamento de Cromossomos Eucarióticos por Recombinação 
+### Mapeamento de Cromossomos Eucarióticos por Recombinação
 
 _Griffthins. Capítulo 4._
 
