@@ -48,8 +48,23 @@ As memórias podem ser divididas em:
 * **Sensorial: **Imediata, momentânea, necessária para a percepção
 * **Curto prazo: **Memória de trabalho, necessária para se realizar ações com etapas
 * **Longo prazo**
-  * **Declarativa** ou **Explícita**:
-  * **Não declarativa** ou **Implícita**:
+  * **Declarativa** ou **Explícita**: Adiquirida conscientemente, possível de expressar com palavras, conhecimentos factuais, significado da palavra pânico
+    * Episódica
+      * Eventos que dizem respeito a si
+    * Semântica
+  * **Não declarativa** ou **Implícita**: Aprendizado de como fazer as coisas, andar de bicicleta, tocar violão.
+    * Memória de procedimento
+      * Habilidades motoras
+        * Andar de bicicleta 
+      * Habilidade cognitiva
+        * Usar regras gramaticais
+      * Habilidade de percepção
+        * Montar quebra-cabeça
+    * Condicionamento clássico ou operante
+      * Reflexo condicionado
+        * Adestramento de cachorro, ensinando-o a sentar
+    * Aprendizagem não associativa
+    * Pró-ativação
 
 
 
