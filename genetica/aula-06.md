@@ -16,5 +16,7 @@ Recombinantes = indivíduos de menor número.
 
 Não-recombitante = Recombinantes.
 
-O crossing hover ocorre em cromossomos homólogos. Quanto maior a distância dos alelos maior a possibilidade de ocorrer crossing over.
+O crossing hover ocorre em cromossomos homólogos. Quanto maior a distância dos alelos maior a possibilidade de ocorrer crossing over. 
+
+Marcadores moleculares reagem de maneira diferente conforme a distância do alelo observado.
 
