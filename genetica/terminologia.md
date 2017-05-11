@@ -10,8 +10,5 @@ _**alelo comum**_ \(tipo selvagem\): O alelo prevalente no conjunto de invidívu
 
 **alelos variantes ou mutante: **Alelo com mutações, alterações na sequência de nucleotídeos ou no arranjo de DNA
 
-**genótipo:** de uma pessoa é o conjunto de alelos que compõem a sua constituição genética, tanto  
- coletivamente em todos os loci ou, mais tipicamente, em um único locus
-
-
+**genótipo:** é o conjunto de alelos que compõem a constituição genética do organismo, tanto coletivamente em todos os loci ou, mais tipicamente, em um único locus
 
