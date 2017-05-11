@@ -14,3 +14,5 @@ Unidade de morgan = Morganídeo = Unidades de mapa = Percentual dos recombinante
 
 Recombinantes = indivíduos de menor número.
 
+
+
