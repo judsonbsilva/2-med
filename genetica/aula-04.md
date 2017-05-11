@@ -31,7 +31,7 @@ Sequenciando-se esses 3 éxons e comparando-se com o dos pais.
 * A mutação 14b não é patogênica pois está numa sequência intrônica
 * A mutação 3 \(de origem materna\) é um stop códon patogênico.
 
-**SSCP**: Polimorfismo de comformação de fita simples. Desnatura-se a fita com frio pra elas se separarem e coloca-se no gel da eletroforese pra ver a densidade.
+**SSCP**: Polimorfismo de conformação de fita simples. Desnatura-se a fita com frio pra elas se separarem e coloca-se no gel da eletroforese pra ver a densidade.
 
 **Tópicos Importantes a se considerar antes do diagnóstico: **Expressividade variável, dissomia uniparental, conssanguinidade, endogamia, herança dominante ligada ao X, mutação, heterogeneidade alélica, heterogeneidade de locus, dominância incompleta e pleiotropia.
 
