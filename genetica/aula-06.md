@@ -27,3 +27,5 @@ Marcadores moleculares reagem de maneira diferente conforme a distância do alel
 
 Quanto mais recombinações menor a frequência.
 
+Parentais estão em maior frequência e verificar se está em cis ou trans.
+
