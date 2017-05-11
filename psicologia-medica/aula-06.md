@@ -79,9 +79,18 @@ As memórias podem ser divididas em:
 * Alomnésia
   * Memória distorcida, ilusão de memória
 * Paramnésia
-  * Ilusão, situação que não aconteceu anteriormente
+  * Alucinação de memória, situação que não aconteceu anteriormente
 * Criptomnésia
+  * Distúrbio de reconhecimento do pretérito
+  * Confusão entre algo que já ocorreu e algo que o indivíduo julga jamais ter ocorrido antes e ser algo própria dele
 * Ecmnésia
+  * Distúrbio de reconhecimento do pretérito
+  * Confusão achando que algo antigo está ocorrendo AGORA
+* Já visto
+  * Devaju
+  * Nunca vivenciou, porém acha que vivenciou uma situação
+* Jamais visto
+  * Já vivenciou, porém acha que nunca vivenciou
 
 
 
