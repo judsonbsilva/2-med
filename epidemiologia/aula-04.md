@@ -24,3 +24,14 @@ Importância HND: ações preventivas.
 
 Existem **padrões de progressão** de doenças passíveis de agrupamento e diagramação.
 
+#### Períodos da história natural da doença
+
+* **Pré-patogênese \( Suscetibilidade \):** Antes do indivíduo adoecer.
+* **Patogênese \( Patológico \)**: Doença presente mesmo que de forma inaparente.
+
+
+
+
+
+
+
