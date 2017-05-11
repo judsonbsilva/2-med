@@ -14,7 +14,7 @@ Unidade de morgan = Morganídeo = Unidades de mapa = Percentual dos recombinante
 
 Recombinantes = indivíduos de menor número.
 
-Não-recombitante = Recombinantes. 
+Não-recombitante = Recombinantes.
 
-O crossing hover ocorre em cromossomos homólogos. Quanto maior a distância maior a possibilidade de ocorrer crossing over.
+O crossing hover ocorre em cromossomos homólogos. Quanto maior a distância dos alelos maior a possibilidade de ocorrer crossing over.
 
