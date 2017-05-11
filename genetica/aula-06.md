@@ -14,5 +14,5 @@ Unidade de morgan = Morganídeo = Unidades de mapa = Percentual dos recombinante
 
 Recombinantes = indivíduos de menor número.
 
-
+O crossing hover ocorre em cromossomos homólogos.
 
