@@ -29,3 +29,9 @@ Quanto mais recombinações menor a frequência.
 
 Parentais estão em maior frequência e verificar se está em cis ou trans.
 
+
+
+#### Fr &lt; 50% = genes ligados.
+
+#### 
+
