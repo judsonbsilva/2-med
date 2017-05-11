@@ -63,7 +63,11 @@ As memórias podem ser divididas em:
     * Condicionamento clássico ou operante
       * Reflexo condicionado
         * Adestramento de cachorro, ensinando-o a sentar
+      * Reforço positivo ou negativo
     * Aprendizagem não associativa
+      * Habituação
+        * Estímulo muito intenso provoca reação desagradável como resposta. Havendo uma habituação ocorre a diminuição ou inibição da resposta 
+      * Sensibilização
     * Pró-ativação
 
 
