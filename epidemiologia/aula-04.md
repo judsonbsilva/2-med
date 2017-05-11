@@ -20,5 +20,7 @@ Importância HND: ações preventivas.
 
 **Limiar Clínico**: Quando o paciente começa a apresentar sinais e sintomas.
 
+**Evolução subclínica: **Evolução do quadro sem apresentar sinais e sintomas detectável apenas por exames laboratoriais.
+
 
 
