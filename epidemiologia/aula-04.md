@@ -14,5 +14,11 @@ Ex: Infarto -&gt; manifestação inicial da doença \(hereditareidade, estresse,
 
 Importância HND: ações preventivas.
 
+**Sinal:** é uma aferição objetivo e passível de quantificação.
+
+**Sintoma:** é a descrição feita pelo paciente.
+
+**Limiar Clínico**: Quando o paciente começa a apresentar sinais e sintomas.
+
 
 
