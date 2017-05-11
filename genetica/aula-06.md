@@ -6,5 +6,5 @@
 
 _Griffthins. Capítulo 4._
 
-
+Linkage = Mapeamento
 
