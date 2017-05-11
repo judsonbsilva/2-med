@@ -46,7 +46,17 @@ Existem **padrões de progressão** de doenças passíveis de agrupamento e diag
 
 Objetivos
 
-Evitar a ocorrência de doenças
+* Evitar a ocorrência de doenças
+* Reduzir intensidade e duração da doença
 
-Reduzir intensidade e duração da doença
+Medidas preventivas
+
+* **Primária:**
+  * Promoção da saúde: medidas de ordem geral
+  * Proteção específica: medidas preventivas de uma doença / um grupo de doenças
+* **Secundária:**
+  * 
+* **Terciária:**
+
+
 
