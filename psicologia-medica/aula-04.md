@@ -12,7 +12,7 @@
 
   * Hipercinesia
     * Aumento das ações psicomotoras
-  * * Ex: Scratch da era do gelo
+    * Ex: Scratch da era do gelo
   * Hipocinesia
 
     * Redução das ações psicomotoras
