@@ -55,7 +55,8 @@ Objetivos
   * Promoção da saúde: medidas de ordem geral
   * Proteção específica: medidas preventivas de uma doença / um grupo de doenças
 * **Secundária:**
-  * Diagnóstico precoce e Tratamento imediato
+  * Diagnóstico precoce
+  * Tratamento imediato
   * Limitação de danos \(de incapacidade\)
 * **Terciária:**
   * Reabilitação: impedir a incapacidade total
@@ -66,4 +67,14 @@ Objetivos
 ---
 
 #### Questões
+
+1\) c\)
+
+2\) d\)
+
+3\) a\)
+
+4\) b\)
+
+
 
