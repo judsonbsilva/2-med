@@ -10,9 +10,7 @@ _Griffthins. Capítulo 4._
 
 Linkage = Mapeamento.
 
-Unidade de morgan = Morganídeo = Unidades de mapa = Percentual dos recombinantes;
+Unidade de morgan = Morganídeo = Unidades de mapa = Percentual dos recombinantes.
 
 Recombinantes = indivíduos de menor número.
-
-
 
