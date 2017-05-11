@@ -12,6 +12,7 @@ _**alelo comum**_ \(tipo selvagem\): O alelo prevalente no conjunto de invidívu
 
 **genótipo:** É o conjunto de alelos que compõem a constituição genética do organismo, tanto coletivamente em todos os loci ou, mais tipicamente, em um único locus
 
-**fenótipo: **Constitui a expressão observável de um genótipo como um traço morfológico, clínico, celular, ou  
- bioquímico.
+**fenótipo: **Constitui a expressão observável de um genótipo como um traço morfológico, clínico, celular, ou bioquímico.
+
+**pleiotropia:** Condição em que um gene é responsável por várias características fenotípicas.
 
