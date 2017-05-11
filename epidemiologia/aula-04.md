@@ -2,7 +2,7 @@
 
 ---
 
-### História Natural da Doença
+### História Natural da Doença \(HND\)
 
 **Evolução, ao longo do tempo, de uma doença não tratada.**
 
