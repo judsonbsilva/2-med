@@ -33,6 +33,9 @@ No período pré-patogênico
 
 * Fatores socioculturais
 * Fatores genéticos
+* Fatores ambientais
+  * Físicos
+  * Biológicos
 
 
 
