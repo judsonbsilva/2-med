@@ -66,10 +66,11 @@ As memórias podem ser divididas em:
       * Reforço positivo ou negativo
     * Aprendizagem não associativa
       * Habituação
-        * Estímulo muito intenso provoca reação desagradável como resposta. Havendo uma habituação ocorre a diminuição ou inibição da resposta 
+        * Estímulo intenso provoca reação desagradável como resposta. Havendo uma habituação ocorre a diminuição ou inibição da resposta 
       * Sensibilização
-        * 
-    * Pró-ativação
+        * Estímulo intenso provoca resposta primeiramente e desde então provoca forte resposta posteriormente 
+    * Pré-ativação
+      * Ativação através de um fragmento de conhecimento previamente contatado 
 
 
 
