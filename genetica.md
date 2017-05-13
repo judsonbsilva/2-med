@@ -9,5 +9,9 @@
 * THOMPSON, M. W; Genética Médica.
 * ALBERTS; Biologia Molecular. Cap 20.
 
-PS: Plataforma Sucupira
+**VÍDEO-AULAS DE AUXÍLIO**
+
+* https://www.youtube.com/playlist?list=PLf1lowbdbFIDQreNNIK99jXjvOnho\_TmX
+
+
 
