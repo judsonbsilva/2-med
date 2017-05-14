@@ -9,8 +9,10 @@
 * [Anatomia 2](anatomia-2.md)
   * [Aula 01](anatomia-2/aula-01.md)
   * [Aula 02](anatomia-2/aula-02.md)
+  * Aula 03
+  * Aula 04
 * [Genética Médica](genetica.md)
-  * Terminologia
+  * [Terminologia](genetica/terminologia.md)
   * [Aula 01](genetica/aula-1.md)
   * [Aula 02](genetica/aula-2.md)
   * [Aula 03](genetica/aula-03.md)
