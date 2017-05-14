@@ -13,5 +13,3 @@ Nariz é a parte do sistema respiratório situada acima do palato duro, contendo
 
 O septo nasal divide a câmara do nariz em duas cavidades nasais.
 
-
-
