@@ -52,7 +52,9 @@ f = r/2
 
 #### Análise de Ligação \( Qui-Quadrado \)
 
+g.l = Grau de liberdade = Quantidade de classes possíveis - 1;
 
+_a _= alpha = Margem de erro = Geralmente 5% \(0,05\)
 
 
 
