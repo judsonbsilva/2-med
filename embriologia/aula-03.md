@@ -20,7 +20,13 @@ Placa precordal no lado oposto ao pólo caudal. Enquanto a linha primitiva se al
 
 Ao mesmo tempo, na linha primitiva forma-se o sulco primitivo, que se continua tornando-se uma fosseta.
 
-Da linha primitiva surge uma nova camada de células entre o hipoblasto e o epiblasto. Surgimento do nó primitivo. O nó dá origem ao processo notocordal. 
+Da linha primitiva surge uma nova camada de células entre o hipoblasto e o epiblasto. Surgimento do nó primitivo. O nó dá origem ao processo notocordal.
 
 O mesoderma intra e extra embrionário tocam-se.
+
+Epiblasto -&gt; Ectoderma
+
+Hipoblasto -&gt; Endoderma
+
+Surgimento do mesênquima, que vai formando agrupamentos com células de maior compatibilidade e migrando ou permanecendo em dados espaços.
 
