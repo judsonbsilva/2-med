@@ -33,5 +33,3 @@ Parentais estão em maior frequência e verificar se está em cis ou trans.
 
 Interferência devido a héterocromatina.
 
-
-

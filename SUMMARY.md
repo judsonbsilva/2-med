@@ -6,6 +6,7 @@
   * [Aula 02](chapter1/aula-2.md)
   * [Aula 03](chapter1/aula-03.md)
   * [Aula 04](chapter1/aula-04.md)
+  * [Aula 05](chapter1/aula-05.md)
 * [Anatomia 2](anatomia-2.md)
   * [Aula 01](anatomia-2/aula-01.md)
   * [Aula 02](anatomia-2/aula-02.md)
@@ -26,6 +27,7 @@
   * [Aula 04](psicologia-medica/aula-04.md)
   * [Aula 05](psicologia-medica/aula-05.md)
   * [Aula 06](psicologia-medica/aula-06.md)
+  * Aula 07
 * [Epidemiologia](epidemiologia.md)
   * [Aula 01](epidemiologia/aula-1.md)
   * [Aula 02](epidemiologia/aula-02.md)
