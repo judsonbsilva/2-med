@@ -1,4 +1,4 @@
-/05/17 - Aula 2 - **Epidemiologia**
+03/05/17 - Aula 2 - **Epidemiologia**
 
 ---
 
