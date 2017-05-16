@@ -36,3 +36,7 @@ Criança com perca auditiva. Pais primos, conssanguinidade. Tios com surdes. Pro
 
 Microssatélites são unidades de DNA não codificadoras repetitivas que podem ser usadas como marcadores devido a dificuldade de marcação dos próprio alelos dentro do DNA dado que apenas 2% do DNA é codificador.
 
+Necessita-se do PCR para amplificar e da eletroforese para enxergar essa diferença entre os números de repetições dos microssatélites.
+
+
+
