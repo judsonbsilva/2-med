@@ -52,7 +52,7 @@ f = r/2
 
 #### Análise de Ligação \( Qui-Quadrado \)
 
-g.l = Grau de liberdade = Quantidade de classes possíveis - 1;
+G.l = Grau de liberdade = Quantidade de classes possíveis - 1;
 
 _a _= alpha = Margem de erro aceitável = Geralmente 5% = 0,05;
 
@@ -65,6 +65,4 @@ Hº = Hipótese
 Se  X²c &gt;= X²t =&gt; Rejeita-se Hº
 
 Se  X²c  &lt;  X²t =&gt; Aceita-se Hº
-
-
 
