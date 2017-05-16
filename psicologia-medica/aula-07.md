@@ -1,4 +1,4 @@
-16/05/17 - Aula 7 - **Psicologia Médica**
+la 7 - **Psicologia Médica**
 
 ---
 
@@ -18,8 +18,6 @@ Biótipos de Sheldon:
 Tipologia de Jung:
 
 * ExtrovertidosIntrovertidos
-
-
 
 
 
