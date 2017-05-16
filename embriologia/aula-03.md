@@ -78,3 +78,5 @@ Ao fim da 3ª semana o esqueleto paraxial diferencia-se e divide-se em pares de 
 
 Vitelo escasso e consequente necessidade de nutrientes e oxigênio. Comaça o surgimento de vasos no mesoderma esplânico.
 
+
+
