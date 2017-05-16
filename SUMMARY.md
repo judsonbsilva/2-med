@@ -27,7 +27,7 @@
   * [Aula 04](psicologia-medica/aula-04.md)
   * [Aula 05](psicologia-medica/aula-05.md)
   * [Aula 06](psicologia-medica/aula-06.md)
-  * Aula 07
+  * [Aula 07](psicologia-medica/aula-07.md)
 * [Epidemiologia](epidemiologia.md)
   * [Aula 01](epidemiologia/aula-1.md)
   * [Aula 02](epidemiologia/aula-02.md)
