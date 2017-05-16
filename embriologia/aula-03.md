@@ -50,5 +50,11 @@ Surge o canal neuroentério no local do nó primitivo.
 
 Degenera e desaparece quando os corpos vertebrais se formam, mas persiste como o núcleo pulposo de cada disco intervertebral.
 
+Por sucessivos estímulos a notocorda estimula o ectoderma a virar tecido nervoso e o mesoderma a se condenssar e virar o somito que terá três partes. 
 
+Os pares de somitos são os corpos vertebrais. 
+
+Ectoderma -&gt; Tecido Nervoso
+
+Mesoderma -&gt; Tecido Conjuntivo
 
