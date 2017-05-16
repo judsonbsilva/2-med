@@ -15,5 +15,5 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 **CID-10**: Classificação Mundial das Doenças.
 
-**Causas da morte**: natural, causa externa \(não-natural\).
+**Causas da morte**: natural \(doença ou estado mórbido\) ou causa externa \(não-natural\).
 
