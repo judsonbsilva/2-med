@@ -68,5 +68,11 @@ O espaço entre dos corpos vertebrais não degeneram.
 
 **Formação do tubo neural e as cristas neurais bilateralmente**
 
-A partir da placa neural que é a junção do sulco neural e da xxx neural. As cristas neurais posteriormente formarão gânglios espinhais.
+A partir da placa neural que é a junção do sulco neural e da xxx neural. As cristas neurais posteriormente formarão gânglios espinhais. 
+
+**Desenvolvimento dos Somitos**
+
+Ao fim da 3ª semana o esqueleto paraxial diferencia-se e divide-se em pares de somitos. No fim da 5ª semana há cerca de 42 a 44 pares de somitos.
+
+
 
