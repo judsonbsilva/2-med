@@ -56,7 +56,15 @@ g.l = Grau de liberdade = Quantidade de classes possíveis - 1;
 
 _a _= alpha = Margem de erro aceitável = Geralmente 5% = 0,05;
 
-X²t       = Qui-quadrado tabelado
+X²t  = Qui-quadrado tabelado
 
-X²calc = Qui-quadrado calculado 
+X²c = Qui-quadrado calculado
+
+Hº = Hipótese
+
+Se  X²c &gt;= X²t =&gt; Rejeita-se Hº
+
+Se  X²c  &lt;  X²t =&gt; Aceita-se Hº
+
+
 
