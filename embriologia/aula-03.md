@@ -38,3 +38,7 @@ Linha primitiva forma mesoderma até a 4ª semana, quando torna-se lenta. Diminu
 
 Canal longitudinal e medianamente na camada do mesoderma. Se alonga até a placa precordal.
 
+**Notocorda**
+
+Bastão celular advindo do processo notocordal, indutor primário do embrião inicial, induz o ectoderma sobrejacente a espessar-se e formar a placa neural \(primórdio do SNC\).
+
