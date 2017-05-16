@@ -18,9 +18,9 @@ _**pleiotropia:**_ Condição em que um gene é responsável por várias caracte
 
 _**hemizigoto:**_** **Alelo anormal para um gene localizado no cromossomo X e não há outra cópia para este gene no Y
 
-**co-dominância: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo
+**co-dominância: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo.
 
-
+**ausência de dominância/herança intermediária/dominância incompleta: **Quando não há dominância entre os alelos. Ambos interagem dando origem a um novo fenótipo
 
 
 
