@@ -23,9 +23,11 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 **Causa imediata da Morte:** Complicação que ocorreu próximo ao momento da morte.
 
-**Condições do Óbito: **Doença, Intencional, Sem intenção.
-
-**Modo de Morrer: **Natural, Homicídio ou Suicídio, Acidental.
+| Condições do Óbito | Modo de Morrer | Quem deve declarar? |
+| :--- | :--- | :--- |
+| Doença | Natural | O médico pode certificar a _causa mortis_ |
+| Intencional | Homicídio ou Suicídio | IML |
+| Sem intenção | Acidental | IML |
 
 
 
