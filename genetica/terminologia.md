@@ -44,6 +44,10 @@ _**heterogeneidade de locus:**_ Mutações em diferentes loci
 
 **heterogeneidade fenotípica: **Diferentes mutações no mesmo gene podem dar origem a fenótipos diferentes
 
+_**distúbios influenciados pelo sexo: **_Distúrbios autossômicos que são influênciados pelo sexo
+
+
+
 ### Heredograma
 
 ---
