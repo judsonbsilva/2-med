@@ -10,11 +10,23 @@ _**alelo comum**_ \(tipo selvagem\): O alelo prevalente no conjunto de invidívu
 
 **alelos variantes ou mutante: **Alelo com mutações, alterações na sequência de nucleotídeos ou no arranjo de DNA
 
-**genótipo:** É o conjunto de alelos que compõem a constituição genética do organismo, tanto coletivamente em todos os loci ou, mais tipicamente, em um único locus
+_**genótipo:**_ É o conjunto de alelos que compõem a constituição genética do organismo, tanto coletivamente em todos os loci ou, mais tipicamente, em um único locus
 
-**fenótipo: **Constitui a expressão observável de um genótipo como um traço morfológico, clínico, celular, ou bioquímico
+_**fenótipo**_**: **Constitui a expressão observável de um genótipo como um traço morfológico, clínico, celular, ou bioquímico
 
-**pleiotropia:** Condição em que um gene é responsável por várias características fenotípicas
+_**pleiotropia:**_ Condição em que um gene é responsável por várias características fenotípicas
 
-**hemizigoto: **Alelo anormal para um gene localizado no cromossomo X e não há outra cópia para este gene no Y
+_**hemizigoto:**_** **Alelo anormal para um gene localizado no cromossomo X e não há outra cópia para este gene no Y
+
+**co-dominância: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo
+
+
+
+
+
+### Heredograma
+
+---
+
+![](/assets/legenda-heredograma.png)
 
