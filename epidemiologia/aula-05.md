@@ -33,9 +33,6 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 
 
-datasus.gov.br
-
+datasus.gov.br  
 teresina.pi.gov.br
-
-
 
