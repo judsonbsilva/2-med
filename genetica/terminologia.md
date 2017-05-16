@@ -20,9 +20,11 @@ _**hemizigoto:**_** **Alelo anormal para um gene localizado no cromossomo X e n�
 
 **co-dominância: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo.
 
-**ausência de dominância/herança intermediária/dominância incompleta: **Quando não há dominância entre os alelos. Ambos interagem dando origem a um novo fenótipo
+_**ausência de dominância/herança intermediária/dominância incompleta**_**: **Quando não há dominância entre os alelos. Ambos interagem dando origem a um novo fenótipo
 
-**semidominância:** Quando um homozigoto dominante possui características mais acentuadas do que um heterozigoto 
+_**semidominância**_**:** Quando um homozigoto dominante possui características mais acentuadas do que um heterozigoto
+
+
 
 ### Heredograma
 
