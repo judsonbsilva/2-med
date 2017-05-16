@@ -17,7 +17,27 @@ Biótipos de Sheldon:
 
 Tipologia de Jung:
 
-* ExtrovertidosIntrovertidos
+* Extrovertidos
+* Introvertidos
+
+Divisões de Caráter por Freud:
+
+* Caráter Oral:
+  * Otimismo exagerado
+  * Grande apetite
+  * Não são inclinados a esforço de qualquer natureza
+* Caráter Anal
+  * Parcimônia
+  * Ordem
+  * Injeva
+* Caráter Fálico
+  * Angústia da castração
+  * Imprudência
+  * Ousadia
+  * Audácia
+* Caráter Genital
+  * Sentimentos amistosos
+  * Perseverante
 
 
 
