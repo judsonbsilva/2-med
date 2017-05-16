@@ -30,5 +30,9 @@ Hipoblasto -&gt; Endoderma
 
 Surgimento do mesênquima, que vai formando agrupamentos com células de maior compatibilidade e migrando ou permanecendo em dados espaços.
 
-Formação do mesoderma até a 4ª semana.
+Linha primitiva forma mesoderma até a 4ª semana, quando torna-se lenta. Diminui de tamanho e torna-se uma estrutura insignificante na região sacrococcígea.
+
+**PESQUISA: TERATOMA SACROCOCCÍGEO, O QUE É TERATOMA? É BENIGNO OU MALÍGNO? ONDE PODE OCORRER?**
+
+
 
