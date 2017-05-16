@@ -7,5 +7,5 @@
 Padronizado pelo Sistema de Informações sobre Mortalidade \(S.I.M.\) do Ministério da Saúde. Em vigor desde 1999.  
 Anteriormente conhecido como "Atestado de Óbito".
 
-
+**Finalidade:** Exigência legal e Obtenção regular de dados sobre mortalidade.
 
