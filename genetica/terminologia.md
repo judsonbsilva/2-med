@@ -4,6 +4,8 @@
 
 _**locus**_: Um segmento de DNA ocupando uma posição ou localização particular em um cromossomo
 
+_**loci: **_Plural de locus
+
 _**alelo:**_ Variantes alternativas de um mesmo gene
 
 _**alelo comum**_ \(tipo selvagem\): O alelo prevalente no conjunto de invidívuos de uma espécie
@@ -29,6 +31,8 @@ _**semidominância**_**:** Quando um homozigoto dominante possui característica
 _**penetrância: **Probabilidade de manifestação de um fenótipo dado um certo genótipo_
 
 _**expressividade: **_É a gravidade da expressão do fenótipo entre indivíduos de mesmo genótipo
+
+
 
 ### Heredograma
 
