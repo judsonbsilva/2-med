@@ -36,7 +36,7 @@ _**expressividade: **_É a gravidade da expressão do fenótipo entre indivíduo
 
 _**expressividade variável**_**: **Herança em que indivíduos de mesmo genótipo aprensentam características fenotípicas distintas
 
-_**heterogeneidade genética: **_alélica ou de locus
+_**heterogeneidade genética:**_** **alélica ou de locus
 
 _**heterogeneidade alélica:**_** **Condição onda há diferentes mutações no mesmo locus
 
