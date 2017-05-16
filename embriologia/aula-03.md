@@ -64,6 +64,5 @@ O espaço entre dos corpos vertebrais não degeneram.
 
 **Alantóide: **divertículo no saco amniótico.
 
-**PESQUISA: CISTOS DA ALANTÓIDE**  
- 
+**PESQUISA: CISTOS DA ALANTÓIDE OU ÚRACO**
 
