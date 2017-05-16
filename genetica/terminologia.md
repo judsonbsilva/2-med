@@ -24,6 +24,10 @@ _**ausência de dominância/herança intermediária/dominância incompleta**_**:
 
 _**semidominância**_**:** Quando um homozigoto dominante possui características mais acentuadas do que um heterozigoto
 
+_**penetrância: **Probabilidade de manifestação de um fenótipo dado um certo genótipo_
+
+_**expressividade: **_É a gravidade da expressão do fenótipo entre indivíduos de mesmo genótipo
+
 
 
 ### Heredograma
