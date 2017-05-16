@@ -40,3 +40,5 @@ Necessita-se do PCR para amplificar e da eletroforese para enxergar essa diferen
 
 Primeiro passo foi procurar os genes candidatos. Usa-se microssatélites \(marcadores\) nos genes prováveis tanto nos tios quanto na probanda e compara-se as repetições dos microssatélites nos três casos. Encontrando-se números iguais nos três casos encontra-se os genes compartilhados.
 
+Encontrou-se uma transição \( A &gt; G \)
+
