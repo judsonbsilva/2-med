@@ -34,6 +34,8 @@ _**semidominância**_**:** Quando um homozigoto dominante possui característica
 
 _**expressividade: **_É a gravidade da expressão do fenótipo entre indivíduos de mesmo genótipo
 
+**expressividade variável: **Herança em que indivíduos de mesmo genótipo aprensentam características fenotípicas distintas 
+
 ### Heredograma
 
 ---
