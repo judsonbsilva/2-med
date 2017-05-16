@@ -9,3 +9,7 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 **Finalidade:** Exigência legal e Obtenção regular de dados sobre mortalidade.
 
+**Principais problemas: **Sub-registro, causas mal definidas, variáveis ignoradas, preenchimento incorreto, fatores que prejudicam a qualidade da informação, digitação incorreta.
+
+
+
