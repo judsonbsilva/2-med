@@ -40,5 +40,5 @@ Necessita-se do PCR para amplificar e da eletroforese para enxergar essa diferen
 
 Primeiro passo foi procurar os genes candidatos \( Nesse caso o OTOF \). Usa-se microssatélites \(marcadores\) nos genes prováveis tanto nos tios quanto na probanda e compara-se as repetições dos microssatélites nos três casos. Encontrando-se números iguais nos três casos encontra-se os genes compartilhados.
 
-Encontrou-se uma transição \( A &gt; G \) na junção do Íntron 8 com o éxon 9 de OTOF 
+Encontrou-se uma transição \( A &gt; G \) na junção do Íntron 8 com o éxon 9 de OTOF causando interferência no splicing
 
