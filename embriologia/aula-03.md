@@ -44,3 +44,7 @@ Bastão celular advindo do processo notocordal, indutor primário do embrião in
 
 Define o eixo primitivo, serve como base para o desenvolvimento do esqueleto axial, indica o local dos futuros corpos vertebrais.
 
+Surge o canal neuroentério no local do nó primitivo.
+
+ 
+
