@@ -4,21 +4,22 @@
 
 Personalidade, Temperamento e Caráter.
 
-Biótipos: Sociáveis, bonachões, amáveis, senso de realidade concreta, temperamento ciclotímico.
-
-Leptossômico: Temperamento esquizotímico, insociável, falta de senso de humor, pouco comunicativos, reservados.
-
-Atlético: Temperamente enuqético, perseverança, lentos, serenos, reações explosivas.
-
-Displásicos: Estrutura corporal anômala, conglomerado heterogêneo de formas.
+* Pícnios: Sociáveis, bonachões, amáveis, senso de realidade concreta, temperamento ciclotímico.
+* Leptossômico: Temperamento esquizotímico, insociável, falta de senso de humor, pouco comunicativos, reservados.
+* Atlético: Temperamente enuqético, perseverança, lentos, serenos, reações explosivas.
+* Displásicos: Estrutura corporal anômala, conglomerado heterogêneo de formas.
 
 Biótipos de Sheldon:
 
-Endomorfia: formas arredondadas e grandes
+* Endomorfia: formas arredondadas e grandes
+* Mesomorfia: Tipo físico duro, firme, ereto e relativamente forte.
+* Ectomorfia: Corpo mais fragilizado, linear, tórax achatado e corpo dévil.
 
-Mesomorfia: Tipo físico duro, firme, ereto e relativamente forte.
+Tipologia de Jung:
 
-Ectomorfia: Corpo mais fragilizado, linear, tórax achatado e corpo dévil.
+* ExtrovertidosIntrovertidos
+
+
 
 
 
