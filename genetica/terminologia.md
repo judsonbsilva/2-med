@@ -22,7 +22,7 @@ _**pleiotropia:**_ Condição em que um gene é responsável por várias caracte
 
 _**hemizigoto:**_** **Alelo anormal para um gene localizado no cromossomo X e não há outra cópia para este gene no Y
 
-**co-dominância: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo.
+**codominância: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo.
 
 _**ausência de dominância/herança intermediária/dominância incompleta**_**: **Quando não há dominância entre os alelos. Ambos interagem dando origem a um novo fenótipo
 
@@ -35,6 +35,8 @@ _**peretrância reduzida**_**: **Penetrância menor que 100%
 _**expressividade: **_É a gravidade da expressão do fenótipo entre indivíduos de mesmo genótipo
 
 _**expressividade variável**_**: **Herança em que indivíduos de mesmo genótipo aprensentam características fenotípicas distintas
+
+
 
 ### Heredograma
 
