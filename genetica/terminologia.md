@@ -4,7 +4,7 @@
 
 _**locus**_: Um segmento de DNA ocupando uma posição ou localização particular em um cromossomo
 
-\_**loci: **\_Plural de locus
+_**loci**_**: **Plural de locus
 
 _**alelo:**_ Variantes alternativas de um mesmo gene
 
@@ -18,11 +18,11 @@ _**fenótipo**_**: **Constitui a expressão observável de um genótipo como um 
 
 _**pleiotropia:**_ Condição em que um gene é responsável por várias características fenotípicas
 
-**epistasia: **Quando uma vários genes são responsáveis por um mesmo fenótipo
+_**epistasia**_**: **Quando uma vários genes são responsáveis por um mesmo fenótipo
 
 _**hemizigoto:**_** **Alelo anormal para um gene localizado no cromossomo X e não há outra cópia para este gene no Y
 
-**codominância: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo.
+_**codominância**_**: **Quando os fenótipos dos dois alelos se expressam ao mesmo tempo.
 
 _**ausência de dominância/herança intermediária/dominância incompleta**_**: **Quando não há dominância entre os alelos. Ambos interagem dando origem a um novo fenótipo
 
@@ -42,11 +42,9 @@ _**heterogeneidade alélica:**_** **Mutações no mesmo locus
 
 _**heterogeneidade de locus:**_ Mutações em diferentes loci
 
-**heterogeneidade fenotípica: **Diferentes mutações no mesmo gene podem dar origem a fenótipos diferentes
+_**heterogeneidade fenotípica**_**: **Diferentes mutações no mesmo gene podem dar origem a fenótipos diferentes
 
-_**distúbios influenciados pelo sexo: **_Distúrbios autossômicos que são influênciados pelo sexo
-
-
+_**distúbios influenciados pelo sexo**_**: **Distúrbios autossômicos que são influênciados pelo sexo
 
 ### Heredograma
 
