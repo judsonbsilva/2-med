@@ -68,5 +68,12 @@ Se  X²c  &lt;  X²t =&gt; Aceita-se Hº
 
 ---
 
+**Exemplo**
 
+Hº = Segregação independente \(1:1:1:1\)  
+H¹ = Gene ligado
+
+G.l = 3
+
+Alpha = 0,05
 
