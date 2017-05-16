@@ -12,7 +12,7 @@ Gastrulação
 * Endoderma - Revestimento do sistema respiratório
 * Mesoderma - Tecido conjuntivo
 
-Dentro da cavidade coriônico, dentro do endométrio, disco bilaminar, saco aminiótico, saco vitelínico, mesoderma primitivo.
+Dentro da cavidade coriônico, dentro do endométrio, disco bilaminar, cavidade aminiótica, saco vitelínico, mesoderma primitivo.
 
 Linha primitiva, primeiro sinal da gastrulação.
 
@@ -43,6 +43,4 @@ Canal longitudinal e medianamente na camada do mesoderma. Se alonga até a placa
 Bastão celular advindo do processo notocordal, indutor primário do embrião inicial, induz o ectoderma sobrejacente a espessar-se e formar a placa neural \(primórdio do SNC\).
 
 Define o eixo primitivo, serve como base para o desenvolvimento do esqueleto axial, indica o local dos futuros corpos vertebrais.
-
-
 
