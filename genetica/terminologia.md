@@ -22,7 +22,7 @@ _**hemizigoto:**_** **Alelo anormal para um gene localizado no cromossomo X e n�
 
 **ausência de dominância/herança intermediária/dominância incompleta: **Quando não há dominância entre os alelos. Ambos interagem dando origem a um novo fenótipo
 
-
+**semidominância:** Quando um homozigoto dominante possui características mais acentuadas do que um heterozigoto 
 
 ### Heredograma
 
