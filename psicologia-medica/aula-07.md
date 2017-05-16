@@ -22,7 +22,7 @@ Personalidade, Temperamento e Caráter.
 
 **Divisões de Caráter por Freud:**
 
-* Caráter Oral:
+* Caráter Oral
   * Otimismo exagerado
   * Grande apetite
   * Não são inclinados a esforço de qualquer natureza
