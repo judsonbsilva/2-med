@@ -42,15 +42,9 @@ Primeiro passo foi procurar os genes candidatos \( Nesse caso o OTOF \). Usa-se 
 
 Encontrou-se uma transição \( A &gt; G \) na junção do Íntron 8 com o éxon 9 de OTOF causando interferência no Splicing do gene.
 
-**Coeficiente de cossanguinidade** = r = proporção de genes compartilhados entre dois indivíduos
+**Coeficiente de conssanguinidade** = r = proporção de genes compartilhados entre dois indivíduos
 
 **Coeficiente de endocruzamento** = f = é a proporção de lócus em que se espera que esse indivíduo seja homozigoto devido a consanguinidade.
 
 f = r/2
-
-
-
-
-
-
 
