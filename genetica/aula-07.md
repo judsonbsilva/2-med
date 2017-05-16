@@ -1,4 +1,4 @@
-16/05/17 - Aula 8 - **Genética Médica**
+ grave.16/05/17 - Aula 8 - **Genética Médica**
 
 ---
 
@@ -30,5 +30,5 @@ FRDE = 0,064 x 0,132 = 0, 0084 \( 8% de 1448 =~ 12 \)
 
 #### Caso Família Choudhary
 
-Criança com perca auditiva. 
+Criança com perca auditiva.
 
