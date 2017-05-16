@@ -16,7 +16,7 @@ _**fenótipo**_**: **Constitui a expressão observável de um genótipo como um 
 
 _**pleiotropia:**_ Condição em que um gene é responsável por várias características fenotípicas
 
-_**epistasia: **_Quando uma vários genes são responsáveis por um mesmo fenótipo
+**epistasia: **Quando uma vários genes são responsáveis por um mesmo fenótipo
 
 _**hemizigoto:**_** **Alelo anormal para um gene localizado no cromossomo X e não há outra cópia para este gene no Y
 
