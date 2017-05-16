@@ -32,3 +32,5 @@ FRDE = 0,064 x 0,132 = 0, 0084 \( 8% de 1448 =~ 12 \)
 
 Criança com perca auditiva. Pais primos, conssanguinidade. Tios com surdes. Provável herança autossômica recessiva. Gene provavelmente afetado GJB2 \( formado por 2 éxon \) foi sequenciado. Nenhuma mutação encontrada.
 
+Microssatélites Mapeamento por Autozigoze. Microssatélites são unidades de DNA não codificadoras repetitivas.
+
