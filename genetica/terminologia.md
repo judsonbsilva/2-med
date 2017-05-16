@@ -38,7 +38,7 @@ _**expressividade variável**_**: **Herança em que indivíduos de mesmo genóti
 
 _**heterogeneidade genética:**_** **alélica ou de locus
 
-_**heterogeneidade alélica:**_** **Condição onda há diferentes mutações no mesmo locus
+_**heterogeneidade alélica:**_** **Mutações no mesmo locus
 
 _**heterogeneidade de locus:**_ Mutações em diferentes loci
 
