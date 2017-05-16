@@ -26,7 +26,9 @@ O FRDE é a multiplicação entre as unidade de mapa dos pares de genes
 
 FRDE = 0,064 x 0,132 = 0, 0084 \( 8% de 1448 =~ 12 \)
 
+---
 
+#### Caso Família Choudhary
 
-
+Criança com perca auditiva. 
 
