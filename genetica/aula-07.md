@@ -34,5 +34,5 @@ Criança com perca auditiva. Pais primos, conssanguinidade. Tios com surdes. Pro
 
 **Microssatélites Mapeamento por Autozigoze.**
 
-Microssatélites são unidades de DNA não codificadoras repetitivas geralmente usadas como marcadores devido a dificuldade de marcação dos próprio alelos dentro do DNA dado que apenas 2% do DNA é codificador.
+Microssatélites são unidades de DNA não codificadoras repetitivas que podem ser usadas como marcadores devido a dificuldade de marcação dos próprio alelos dentro do DNA dado que apenas 2% do DNA é codificador.
 
