@@ -13,7 +13,7 @@ Personalidade, Temperamento e Caráter.
 
 * Endomorfia: formas arredondadas e grandes
 * Mesomorfia: Tipo físico duro, firme, ereto e relativamente forte.
-* Ectomorfia: Corpo mais fragilizado, linear, tórax achatado e corpo dévil.
+* Ectomorfia: Corpo mais fragilizado, linear, tórax achatado.
 
 **Tipologia de Jung:**
 
