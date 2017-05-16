@@ -58,7 +58,11 @@ O espaço entre dos corpos vertebrais não degeneram.
 
 **PESQUISA: CORDOMA? O QUE É? ORIGEM? ONDE É MAIS COMUM?**
 
-Ectoderma -&gt; Tecido Nervoso
+> Ectoderma -&gt; Tecido Nervoso
+>
+> Mesoderma -&gt; Tecido Conjuntivo
 
-Mesoderma -&gt; Tecido Conjuntivo
+
+
+
 
