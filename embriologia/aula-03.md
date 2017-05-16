@@ -68,5 +68,5 @@ O espaço entre dos corpos vertebrais não degeneram.
 
 **Formação do tubo neural e as cristas neurais bilateralmente**
 
-A partir da placa neural que é a junção do sulco neural e da xxx neural.
+A partir da placa neural que é a junção do sulco neural e da xxx neural. As cristas neurais posteriormente formarão gânglios espinhais.
 
