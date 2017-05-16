@@ -29,5 +29,5 @@ Anteriormente conhecido como "Atestado de Óbito".
 | Intencional | Homicídio ou Suicídio | IML |
 | Sem intenção | Acidental | IML |
 
-
+É vedado ao médico atesta óbito quando não o tenha verificado pessoalmente.
 
