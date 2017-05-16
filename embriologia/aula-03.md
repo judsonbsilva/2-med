@@ -46,5 +46,9 @@ Define o eixo primitivo, serve como base para o desenvolvimento do esqueleto axi
 
 Surge o canal neuroentério no local do nó primitivo.
 
- 
+**Desenvolvimento da Notocorda**
+
+Degenera e desaparece quando os corpos vertebrais se formam, mas persiste como o núcleo pulposo de cada disco intervertebral.
+
+
 
