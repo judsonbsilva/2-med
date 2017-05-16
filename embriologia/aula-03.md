@@ -34,5 +34,7 @@ Linha primitiva forma mesoderma até a 4ª semana, quando torna-se lenta. Diminu
 
 **PESQUISA: TERATOMA SACROCOCCÍGEO, O QUE É TERATOMA? É BENIGNO OU MALÍGNO? ONDE PODE OCORRER?**
 
+**Procresso Notocordal**
 
+Canal longitudinal e medianamente na camada do mesoderma. Se alonga até a placa precordal.
 
