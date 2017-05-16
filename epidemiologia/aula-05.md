@@ -25,7 +25,7 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 | Condições do Óbito | Modo de Morrer | Quem deve declarar? |
 | :--- | :--- | :--- |
-| Doença | Natural | O médico pode certificar a _causa mortis_ |
+| Doença | Natural | Médico pode certificar a _causa mortis_ |
 | Intencional | Homicídio ou Suicídio | IML |
 | Sem intenção | Acidental | IML |
 
