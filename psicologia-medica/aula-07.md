@@ -10,7 +10,9 @@ Leptossômico: Temperamento esquizotímico, insociável, falta de senso de humor
 
 Atlético: Temperamente enuqético, perseverança, lentos, serenos, reações explosivas.
 
-Displásicos: Estrutura corporal anômala, conglomerado heterogêneo de formas 
+Displásicos: Estrutura corporal anômala, conglomerado heterogêneo de formas.
+
+
 
 
 
