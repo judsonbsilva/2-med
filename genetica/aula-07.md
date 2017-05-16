@@ -48,3 +48,11 @@ Encontrou-se uma transição \( A &gt; G \) na junção do Íntron 8 com o éxon
 
 f = r/2
 
+---
+
+#### Análise de Ligação \( Qui-Quadrado \)
+
+
+
+
+
