@@ -66,3 +66,11 @@ O espaço entre dos corpos vertebrais não degeneram.
 
 **PESQUISA: CISTOS DA ALANTÓIDE OU ÚRACO**
 
+**Formação do tubo neural**
+
+A partir da placa neural que é a junção do sulco neural e da xxx neural.
+
+
+
+
+
