@@ -4,7 +4,7 @@
 
 _**locus**_: Um segmento de DNA ocupando uma posição ou localização particular em um cromossomo
 
-_**loci: **_Plural de locus
+\_**loci: **\_Plural de locus
 
 _**alelo:**_ Variantes alternativas de um mesmo gene
 
@@ -28,7 +28,9 @@ _**ausência de dominância/herança intermediária/dominância incompleta**_**:
 
 _**semidominância**_**:** Quando um homozigoto dominante possui características mais acentuadas do que um heterozigoto
 
-_**penetrância: **Probabilidade de manifestação de um fenótipo dado um certo genótipo_
+_**penetrância: **_Probabilidade de manifestação de um fenótipo dado um certo genótipo
+
+_**peretrância reduzida: **_Penetrância menor que 100%
 
 _**expressividade: **_É a gravidade da expressão do fenótipo entre indivíduos de mesmo genótipo
 
