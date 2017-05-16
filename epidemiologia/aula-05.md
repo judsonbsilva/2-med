@@ -31,8 +31,6 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 ##### _É vedado ao médico atesta óbito quando não o tenha verificado pessoalmente._
 
-
-
 datasus.gov.br  
-teresina.pi.gov.br
+teresina.pi.gov.br/saude
 
