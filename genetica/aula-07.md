@@ -66,3 +66,7 @@ Se  X²c &gt;= X²t =&gt; Rejeita-se Hº
 
 Se  X²c  &lt;  X²t =&gt; Aceita-se Hº
 
+---
+
+
+
