@@ -54,7 +54,5 @@ f = r/2
 
 g.l = Grau de liberdade = Quantidade de classes possíveis - 1;
 
-_a _= alpha = Margem de erro = Geralmente 5% \(0,05\)
-
-
+_a _= alpha = Margem de erro aceitável = Geralmente 5% = 0,05 
 
