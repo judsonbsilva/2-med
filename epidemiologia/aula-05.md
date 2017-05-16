@@ -13,5 +13,7 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 **Propósitos**: planejar as políticas de saúde, monitorar índices, priorizar despesas com saúde, e etc.
 
+**CID-10**: Classificação Mundial das Doenças.
 
+**Causas da morte**: natural, causa externa \(não-natural\).
 
