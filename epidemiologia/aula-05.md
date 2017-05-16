@@ -17,3 +17,9 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 **Causas da morte**: natural \(doença ou estado mórbido\) ou causa externa \(não-natural\).
 
+**Causa básica da morte**: É a doença ou afecção que iniciou a cadeira de acontecimentos patológicos que conduziram diretamente à morte ou as cirscunstâncias do acidente.
+
+**Causa intermediária da morte: **Entre ambas.
+
+**Causa imediata da Morte:** Complicação que ocorreu próximo ao momento da morte.
+
