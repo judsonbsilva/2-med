@@ -38,5 +38,5 @@ Microssatélites são unidades de DNA não codificadoras repetitivas que podem s
 
 Necessita-se do PCR para amplificar e da eletroforese para enxergar essa diferença entre os números de repetições dos microssatélites.
 
-Primeiro passo foi procurar os genes candidatos. Usa-se microssatélites \(marcadores\) nos genes prováveis tanto nos tios quanto na probanda e compara-se as repetições dos microssatélites nos três casos. Encontrando-se números iguais nos três casos encontra-se os genes correspondentes.
+Primeiro passo foi procurar os genes candidatos. Usa-se microssatélites \(marcadores\) nos genes prováveis tanto nos tios quanto na probanda e compara-se as repetições dos microssatélites nos três casos. Encontrando-se números iguais nos três casos encontra-se os genes compartilhados.
 
