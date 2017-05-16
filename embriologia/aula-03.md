@@ -6,5 +6,17 @@
 
 **Formação das camadas germinativas e início da diferenciação dos tecidos e órgãos.**
 
+Gastrulação
 
+* Ectoderma - Epiderme e tecido nervoso
+* Endoderma - Revestimento do sistema respiratório
+* Mesoderma - Tecido conjuntivo
+
+Dentro da cavidade coriônico, dentro do endométrio, disco bilaminar, saco aminiótico, saco vitelínico, mesoderma primitivo.
+
+Linha primitiva, primeiro sinal da gastrulação.
+
+Placa precordal no lado oposto ao pólo caudal. Enquanto a linha primitiva se alonga cranialmente.
+
+Ao mesmo tempo, na linha primitiva forma-se o sulco primitivo, que se continua tornando-se uma fosseta.
 
