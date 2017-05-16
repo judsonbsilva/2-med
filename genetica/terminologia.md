@@ -42,7 +42,7 @@ _**heterogeneidade alélica:**_** **Mutações no mesmo locus
 
 _**heterogeneidade de locus:**_ Mutações em diferentes loci
 
-_**heterogeneidade fenotípica: **_Diferentes mutações no mesmo gene podem dar origem a fenótipos diferentes
+**heterogeneidade fenotípica: **Diferentes mutações no mesmo gene podem dar origem a fenótipos diferentes
 
 ### Heredograma
 
