@@ -2,7 +2,7 @@
 
 ---
 
-### Detalhação de Óbito
+### Declaração de Óbito
 
-
+Padronizado pelo Sistema de Informações sobre Mortalidade \(S.I.M.\) do Ministério da Saúde.
 
