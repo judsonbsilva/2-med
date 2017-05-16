@@ -11,5 +11,7 @@ Anteriormente conhecido como "Atestado de Óbito".
 
 **Principais problemas: **Sub-registro, causas mal definidas, variáveis ignoradas, preenchimento incorreto, fatores que prejudicam a qualidade da informação, digitação incorreta.
 
+**Propósitos**: planejar as políticas de saúde, monitorar índices, priorizar despesas com saúde, e etc.
+
 
 
