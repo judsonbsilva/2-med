@@ -12,7 +12,13 @@ Atlético: Temperamente enuqético, perseverança, lentos, serenos, reações ex
 
 Displásicos: Estrutura corporal anômala, conglomerado heterogêneo de formas.
 
+Biótipos de Sheldon:
 
+Endomorfia: formas arredondadas e grandes
+
+Mesomorfia: Tipo físico duro, firme, ereto e relativamente forte.
+
+Ectomorfia: Corpo mais fragilizado, linear, tórax achatado e corpo dévil.
 
 
 
