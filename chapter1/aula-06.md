@@ -6,6 +6,8 @@
 
 _Pesquisar livros na biblioteca Genesys_
 
+_Bear. Capítulo 8._
+
 A adaptação ao ambiente é o principal dos organismos no decorrer da escala evolutiva, para isso são necessários reflexos motores, armazenamento de informações, e etc.
 
 **Sistema sensorial **é o conjunto de sensores que detectam esses diferentes tipos de informações.
