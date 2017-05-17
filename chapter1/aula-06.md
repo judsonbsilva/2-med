@@ -29,5 +29,7 @@ Compressão do corpúsculo -&gt; Deformação -&gt; Abertura de canais iônicos 
 
 Em geral, há uma habituação a estimulos contínuos com a finalidade de percepção de novos estímulos. Por exemplo, quando você coloca um relógio no pulso você consegue percebe-lo perfeitamente, entretanto ao passar do tempo não há mais a percepção de que ele esta lá apesar de ele continuar estimulando os mecanorreceptores. Logo, conclui-se que, estimulação muito intensa do receptor causa, progressivamente, menos aumento adicional do número de potenciais de ação.
 
-Essa adaptação se dá devido a menor abertura de canais iônicos no receptor com o passar do tempo. A amplitude do potencial gerador declina com o tempo, mesmo na presença de um estímulo sensorial continuo e de intensidade constante. Diz-se que os receptores tornam-se refratários.
+A adaptação se dá devido a menor abertura de canais iônicos no receptor com o passar do tempo. A amplitude do potencial gerador declina com o tempo, mesmo na presença de um estímulo sensorial continuo e de intensidade constante. Diz-se que os receptores tornam-se "refratários".
+
+Essa adaptação pode ser parcial ou total.
 
