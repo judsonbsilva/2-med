@@ -7,6 +7,7 @@
   * [Aula 03](chapter1/aula-03.md)
   * [Aula 04](chapter1/aula-04.md)
   * [Aula 05](chapter1/aula-05.md)
+  * [Aula 06](chapter1/aula-06.md)
 * [Genética Médica](genetica.md)
   * [Terminologia](genetica/terminologia.md)
   * [Aula 01](genetica/aula-1.md)
