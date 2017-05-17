@@ -33,7 +33,5 @@ A adaptação se dá devido a menor abertura de canais iônicos no receptor com 
 
 Esses mecanismos de adaptação são diferentes em cada tipo de receptor.
 
-Cones e bastonetes alteram as concentrações de substâncias sensíveis à luz. Corpúsculos de Paccini redistribuem e acomodam o líquido e a estrutura viscoelástica responsável pela mecanorrecepção. Existem formas de **adaptação lenta** \(tônica\) nos fusos musculares, aparelho tendinosos de Golgi, receptores da mácula do aparelho vestibular, os barorreceptores da árvore arterial, receptores de dor.
-
-
+Cones e bastonetes alteram as concentrações de substâncias sensíveis à luz. Corpúsculos de Paccini redistribuem e acomodam o líquido e a estrutura viscoelástica responsável pela mecanorrecepção. Existem formas de **adaptação lenta** \(tônica\) nos: fusos musculares, aparelho tendinosos de Golgi, receptores da mácula do aparelho vestibular, os barorreceptores da árvore arterial, receptores de dor.
 
