@@ -31,5 +31,9 @@ Em geral, há uma habituação a estimulos contínuos com a finalidade de percep
 
 A adaptação se dá devido a menor abertura de canais iônicos no receptor com o passar do tempo. A amplitude do potencial gerador declina com o tempo, mesmo na presença de um estímulo sensorial continuo e de intensidade constante. Diz-se que os receptores tornam-se "refratários". Essa adaptação pode ser parcial ou total.
 
+Esses mecanismos de adaptação são diferentes em cada tipo de receptor.
+
+Cones e bastonetes alteram as concentrações de substâncias sensíveis à luz. Corpúsculos de Paccini redistribuem e acomodam o líquido e a estrutura viscoelástica responsável pela mecanorrecepção. Existem formas de **adaptação lenta** \(tônica\) nos fusos musculares, aparelho tendinosos de Golgi, receptores da mácula do aparelho vestibular, os barorreceptores da árvore arterial, receptores de dor.
+
 
 
