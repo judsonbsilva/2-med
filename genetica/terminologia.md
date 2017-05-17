@@ -40,7 +40,7 @@ _**heterogeneidade genética:**_** **alélica ou de locus
 
 _**heterogeneidade alélica:**_** **Mutações no mesmo locus
 
-_**heterogeneidade de locus:**_ Mutações em diferentes loci
+_**heterogeneidade de locus:**_ Mutações em diferentes loci que provocam um mesmo fenótipo
 
 _**heterogeneidade fenotípica**_**: **Diferentes mutações no mesmo gene podem dar origem a fenótipos diferentes
 
