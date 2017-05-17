@@ -10,5 +10,12 @@ A adaptação ao ambiente é o principal dos organismos no decorrer da escala ev
 
 **Sistema sensorial **é o conjunto de sensores que detectam esses diferentes tipos de informações.
 
-**Etapas do sensoriamento**: recepção, transdução, transmissão, processamento.
+**Etapas do sensoriamento**:
+
+* Recepção: pelo órgão receptor
+* Transdução: os sinais podem ser elétricos ou químicos
+* Transmissão: sinal neuroral \(potencial de ação\)
+* Processamento: integração das informações
+
+
 

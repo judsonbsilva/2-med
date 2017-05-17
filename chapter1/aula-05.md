@@ -8,6 +8,8 @@ _Neuroanatomia Essencial. Capítulo sobre Neurotransmissores_.
 
 _Guyton. Capítulo 45._
 
+Bear, _Neurociências. Capítulo 6._
+
 Estimulação fisiológica emocional ou patológica. Há um estímulo de diversos órgãos: medula adrenal, fígado, entre outros. O rim por, por exemplo, responde ao ADH liberando Renina.
 
 No SNC há de 10.000 a 200.000 terminações pré-sinápticas \(excitatórias e inibitórias\).
@@ -89,7 +91,4 @@ Glutamato, Glicina, Poliamina. Funções: memória de longo prazo, susceptibilid
 **GABA**
 
 Principal neurotransmissor inibitório no cérebro e na medula espinhal. Relacionado com entrada de Cl- e hiperpolarização. Receptores em células de Purkinje, interneurônios do córtex cerebelar, bulbo olfatório, núcleo cuneiforme, hipocampo e etc. Álcool, Barbitúricos, Benzodiazepínicos, tornam a via gabaérgica mais ativa.
-
-  
-
 
