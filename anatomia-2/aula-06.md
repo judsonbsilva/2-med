@@ -4,7 +4,7 @@
 
 ### Estudo do Pescoço
 
-É um tubo músculo-mucoso de aproximadamente 12,5cm
+É um tubo músculo-mucoso de aproximadamente 12,5cm.
 
 
 
