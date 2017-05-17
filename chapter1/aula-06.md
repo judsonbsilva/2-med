@@ -21,3 +21,5 @@ A adaptação ao ambiente é o principal dos organismos no decorrer da escala ev
 
 **Potencial receptor: **É o potencial gerado na captação do estímulo pelo receptor. Qualquer que seja o estímulo, ocorrerá alteraraçãp do potencial elétrico da membrana da célula receptora.
 
+Conforme o tipo de estímulo existem gradações no potencial receptor.
+
