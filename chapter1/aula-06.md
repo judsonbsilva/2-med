@@ -23,3 +23,9 @@ A adaptação ao ambiente é o principal dos organismos no decorrer da escala ev
 
 Conforme o tipo de estímulo existem gradações no potencial receptor.
 
+Mecanorreceptor: Corpúrsculo de Paccini
+
+Compressão do corpúsculo -&gt; Deformação -&gt; Abertura de canais iônicos na membrana -&gt; potencial receptor.
+
+   
+
