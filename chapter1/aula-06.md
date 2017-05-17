@@ -19,5 +19,9 @@ A adaptação ao ambiente é o principal dos organismos no decorrer da escala ev
 * Transmissão: sinal neuroral \(potencial de ação\)
 * Processamento: integração das informações
 
+**Potencial receptor: **É o potencial gerado na captação do estímulo pelo receptor. Qualquer que seja o estímulo do receptor irá alterar o potencial elétrico da membrana da célula receptora.
+
+
+
 
 
