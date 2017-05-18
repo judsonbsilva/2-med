@@ -14,5 +14,7 @@ A linfa do lábio superior e das partes laterais do lábio inferior seguem para 
 
 #### Bochechas
 
-Paredes móveis da cavidade oral. A face externa é a região bucal, limitada anteriormente pela região oral e mentual.
+Paredes móveis da cavidade oral \(mm. bucinadores\). A face externa é a **região bucal**, limitada anteriormente pela **região oral e mentual, **superiormente pela **região zigomática**, posteriormente pela **região parotideomassetérica** e inferiormente pela margem inferior da mandíbula. A **proeminência da bochecha** fica na intersecção entre a região bucal e zigomática. Entre a túnica mucosa e os mm. bucinadores existem várias pequenas **glândulas bucais**. A superfície adiposa dos mm. bucinadores são os **corpos adiposos da bochecha** \(maiores em lactantes para evitar colapso da bochecha durante a sucção\).
+
+Irrigada por ramos bucais da A. maxilar e inervada por ramos bucais do N. mandibular.
 
