@@ -2,7 +2,7 @@
 
 ---
 
-Personalidade, Temperamento e Caráter.
+### **Personalidade, Temperamento e Caráter.**
 
 * Pictinios: Sociáveis, bonachões, amáveis, senso de realidade concreta, temperamento ciclotímico.
 * Leptossômico: Temperamento esquizotímico, insociável, falta de senso de humor, pouco comunicativos, reservados.
