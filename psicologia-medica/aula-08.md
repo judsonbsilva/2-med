@@ -12,6 +12,19 @@
 
 Geralmente secundário a algum tipo de trauma.
 
+**Quanto ao tempo  
+**No momento em que houve o agente causador
+
+* Anterógrado: Dificuldade de fixação
+* Retrógrado: Dificuldade na evocação
+* Retro-anterógrado: Ambos
+
+**Quanto a extensão e conteúdo**
+
+* Lacunar: Limites lacunares de memória. Ex: Quando há perda de memória durante ingestão de álcool
+* Seletivo: Quando você lembra das coisas relevantes da situação.
+* Generalizado: Intermédio entre ambos
+
 
 
 
