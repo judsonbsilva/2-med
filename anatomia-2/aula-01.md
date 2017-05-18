@@ -8,15 +8,7 @@ Boca. Possui duas partes, o **vestíbulos da boca **e a **cavidade própria da b
 
 #### Lábios, Bochechas e Gengivas
 
-Os **lábios** são pregas musculofribosas móveis que circundam a boca. Estende-se superiomente partindo das narinas, lateralmente pelos sulcos nasolabiais e inferiormente até sulco mentolabial. Compreendendo ao esfincter da boca \(formado pelo m. orbicular da boca\).
+Os **lábios** são pregas musculofribosas móveis que circundam a boca. Estende-se superiomente partindo das narinas, lateralmente pelos sulcos nasolabiais e inferiormente até sulco mentolabial. Compreendendo ao esfincter da boca \(formado pelo m. orbicular da boca\). **A zona de transição** é a ligação da pele com a túnica mucosa da boca. Os **frênulos dos lábios **são pregas de margem livre na linha mediana que vão da gengiva vestibular até a túnica mucosa dos lábios \(~~pelinhas da gengiva huahua\)~~.
 
-
-
-
-
-
-
-
-
-
+ 
 
