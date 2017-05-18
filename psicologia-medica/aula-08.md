@@ -12,7 +12,7 @@
 
 Geralmente secundário a algum tipo de trauma.
 
-**Quanto ao tempo  
+**Quanto ao tempo      
 **No momento em que houve o agente causador
 
 * Anterógrado: Dificuldade de fixação
@@ -25,17 +25,17 @@ Geralmente secundário a algum tipo de trauma.
 * Seletivo: Quando você lembra das coisas relevantes da situação.
 * Generalizado: Intermédio entre ambos
 
+Fabulação: preenchimento de lacuna.
 
+Acromnésia: Gatilho de memória.
 
-
+**PS:** A conservação é uma transição da fixação pra evocação
 
 ---
 
-**PS:**
-
-* Reforço positivo - recompensa para continuar mantendo a atitude
-
-* Reforço negativo - recompensa ou repreensão pra evitar um hábito
+**PS: Condicionante operante  
+**Reforço positivo - recompensa para continuar mantendo a atitude.  
+Reforço negativo - recompensa ou repreensão pra evitar um hábito
 
 ---
 
