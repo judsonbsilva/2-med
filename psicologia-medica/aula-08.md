@@ -4,7 +4,13 @@
 
 ### Memória
 
+**Alterações quantitavias**
 
+* Hipermnésia
+* Hipomnésia
+* Amnésia
+
+Geralmente secundário a algum tipo de trauma.
 
 
 
