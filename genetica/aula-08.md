@@ -52,3 +52,7 @@ Na tentativa de encontrar a ordem e a ligação entre os alelos começa-se dos q
 
 
 
+Uma vez que os genes estão ligados e os alelos estão distantes há possibilidade de o percentual de recombinantes ser igual ou bem próximo de 50% segregando-se de forma independência mesmo estando ligado no mesmo cromossomo.
+
+
+
