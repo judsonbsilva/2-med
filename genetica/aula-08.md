@@ -35,16 +35,18 @@ Fr = 10%
 
 **F1**. X\(DR\)X\(dr\) - X\(dr\)Y\(r\)
 
-**F2**. Qual a proporção gamética, PG e PF? 
+**F2**. Qual a proporção gamética, PG e PF?
 
 **Proporções Gaméticas e Genotípica**
 
 |  | 1/2  X\(dr\) | 1/2 Y\(r\) |
 | :--- | :--- | :--- |
-| X\(DR\) - 0.45 - Parental | X\(DR\)x\(dr\) |  |
-| X\(Dr\) -  0.05 - Recombinante |  |  |
+| X\(DR\) - 0.45 - Parental | X\(DR\)x\(dr\) = 1/2 \* 0.45 |  |
+| X\(Dr\) -  0.05 - Recombinante | etc. |  |
 | X\(dR\) - 0.05 - Recombinante |  |  |
 | X\(dr\) - 0.45 - Parental |  |  |
+
+---
 
 
 
