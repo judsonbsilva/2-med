@@ -50,5 +50,13 @@ Fr = 10%
 
 Na tentativa de encontrar a ordem e a ligação entre os alelos começa-se dos que possuem Fr menor.
 
-Uma vez que os genes estão ligados e os alelos estão distantes há possibilidade de o percentual de recombinantes ser igual ou bem próximo de 50% segregando-se com padrão independente mesmo estando ligados no mesmo cromossomo.
+Uma vez que os genes estão ligados e os alelos estão distantes há possibilidade de o percentual de recombinantes ser igual ou bem próximo de 50% segregando-se com comportamento de segregação independente mesmo estando ligados no mesmo cromossomo.
+
+---
+
+**Holândrico = ligado ao Y**
+
+Se LOD\(Z\) &gt;= 3. Diz-se que o gene está ligado.
+
+
 
