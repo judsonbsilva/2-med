@@ -56,7 +56,5 @@ Uma vez que os genes estão ligados e os alelos estão distantes há possibilida
 
 **Holândrico = ligado ao Y**
 
-Se LOD\(Z\) &gt;= 3. Diz-se que o gene está ligado.
-
-
+Se LOD\(Z\) &gt;= 3. Diz-se que o gene está ligado, pois a probabilidade de estar ligado é 1000:1.
 
