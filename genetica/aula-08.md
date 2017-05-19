@@ -9,9 +9,9 @@
 
 Estudo do vírus do Sarcoma de Rous. Retrovírus \( de RNA com transcriptase reversa \) carrega um oncogene para sarcoma em galinhas. Técnica de hibridização DNA-DNA, constatou sequencias próximas entre o gene viral e genoma de células normais.
 
-**Proteína Ras**
+**Proteína Ras e P53** relacionadas com boa parte dos tumores
 
-
+---
 
 
 
