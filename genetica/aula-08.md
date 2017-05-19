@@ -48,5 +48,7 @@ Fr = 10%
 
 ---
 
+Na tentativa de encontrar a ordem e a ligação entre os alelos começa-se dos que possuem Fr menor.
+
 
 
