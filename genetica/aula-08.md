@@ -13,5 +13,11 @@ Estudo do vírus do Sarcoma de Rous. Retrovírus \( de RNA com transcriptase rev
 
 ---
 
+#### Caso da unha rótula
+
+Herança autossômica dominante. Devido a presença em homens e hulheres e o fato de ser passado em grande quantidade em todas as gerações observadas. 
+
+Há uma possibilidade de ligação entre a doença e o genótipo sanguínio. Indivíduos portadores do alelo B/i geralmente são afetados, exceto alguns casos devido a uma possível recombinação \(crossing-over\).
+
 
 
