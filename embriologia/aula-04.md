@@ -24,6 +24,10 @@ Cordomas são neoplasias raras que se originam dos remanescentes da notocorda pr
 
 Aqui o embrião tem aproximadamente 3mm e é um disco trilaminar. Adjacente ao polo cranial com o encéfalo em desenvolvimento nós temos o celoma do pericárdio em desenvolvimento que posteriormente formará o coração.
 
+**Dobramento do embrião**
+
+Plano mediano: prega cefálica, pregra caudal. Plano horizontal.
+
 Haverá um crescimento diagonal de modo a propiciar um dobramento levando o coração para a parte interna do embrião junto com uma parte do saco vitelino.
 
 O intestino anterior surge do dobramento do polo caudal e situa-se entre o encéfalo e o coração. O intestino posterior é formado no dobramento do polo caudal. Ocorrerá uma dilatação da porção final do intestino - cloaca \(reto e bexiga\).
@@ -34,14 +38,15 @@ Aparecimento dos arcos faríngeos. Primórdios de membros superiores e inferiore
 
 Na 5ª semana, há uma aceleração no processo. Indicativo de desenvolvimento dos rins.
 
-Na 6ª semana, o embrião começa a ter movimentos espontâneos e reflexos \(imperceptíveis pela mãe\).
+Na 6ª semana, o embrião começa a ter movimentos espontâneos e reflexos \(imperceptíveis pela mãe\), saliências auriculares, raios digitais.
 
+Na 7ª semana, ossificação dos membros superiores, proeminências dos dedos, o pedículo vitelino separa o intestino do saco vitelino, os intestinos penetram no celoma extraembrionário, proeminência hepática.
 
+Na 8ª semana, separação dos dedos dos pés, ossificação dos membros inferiores, desaparecimento da eminência caudal, aparecimento do pavilhão auricular.
+
+Na 9ª semana, pescoço e pálpebras definidos.
 
 **PS**: A insulina no feto é um fator de crescimento. No caso de mães hiperglicêmicas, é natural o bebê crescer e nascer acima do peso.
 
-**Dobramento do embrião**
 
-Plano mediano: prega cefálica, pregra caudal.  
-Plano horizontal.
 
