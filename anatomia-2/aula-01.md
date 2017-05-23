@@ -75,12 +75,16 @@ Terço posterior móvel do palato. Possui a **aponeurose palatina**. Úvula \(g�
 
 Cada **tonsila palatina** está localizada numa **fossa tonsilar. **Profundamente na túnica mucosa há **glândulas palatinas** secretoras de muco.A **papila incisiva** é uma levação da túnica mucosa anterior a fossa incisiva. **Rafe do palato **linha mediana do palato.
 
-Irrigado principalmente pela A. palatina maior e A. palatina menor, que faz anastomose com A. palatina ascendente.   
+Irrigado principalmente pela A. palatina maior e A. palatina menor, que faz anastomose com A. palatina ascendente.  
 As veias do palato vão para o plexo venoso pterigóide.
 
 **Inervação**
 
 Nn. palatinos maior e menor, N. nasopalatino.
+
+#### Língua
+
+Órgão muscular móvel. Raiz, corpo e ápice. Ápice é a ponta da língua, extremidade anterior do corpo, que se apoia sobre os dentes incisivos. Corpo corresponde a 2/3 anteriores.
 
 
 
