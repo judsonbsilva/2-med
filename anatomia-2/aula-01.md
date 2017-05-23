@@ -69,5 +69,11 @@ Formato de abóbada. Formado pelos processos palatinos da maxila e pelas lâmina
 
 **Palato mole**
 
-Terço posterior móvel do palato. Possui a **aponeurose palatina**. Úvula \(güela\). É unido à língua e a faringe pelos arcos **palatoglosso e palatofaríngeo. **Cada **tonsila palatina** está localizada numa **fossa tonsilar. **
+Terço posterior móvel do palato. Possui a **aponeurose palatina**. Úvula \(güela\). É unido à língua e a faringe pelos arcos **palatoglosso e palatofaríngeo.**
+
+**Elementos do palato**
+
+Cada **tonsila palatina** está localizada numa **fossa tonsilar. **Profundamente na túnica mucosa há **glândulas palatinas** secretoras de muco.A **papila incisiva** é uma levação da túnica mucosa anterior a fossa incisiva. **Rafe do palato **linha mediana do palato.
+
+
 
