@@ -4,5 +4,8 @@
 **Orelha externa**: pavilhão \(capta o som\), meato acústico externo \(conduz o som até a membrana timpânica\).
 
 Estrutura da orelha externa:  
-Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.
+Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
+É irrigada pelas Aa. auricular post. e temporal superficial.
+
+
 
