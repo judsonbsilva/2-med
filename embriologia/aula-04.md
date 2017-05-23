@@ -30,6 +30,8 @@ O intestino anterior surge do dobramento do polo caudal e situa-se entre o encé
 
 O dobramento no plano mediano se dá pelo crescimento cranio-caudal. E no sentido horizontal o dobramento se dá devido a morfologia dos somitos em crescimento, formando a somatopleura e o celoma intraembrionário, pegando parte do saco vitelino para o intestino médio.
 
+Aparecimento dos arcos faríngeos. Primórdios de membros superiores e inferiores. Longa eminência caudal.
+
 **PS**: A insulina no feto é um fator de crescimento. No caso de mães hiperglicêmicas, é natural o bebê crescer e nascer acima do peso.
 
 **Dobramento do embrião**
