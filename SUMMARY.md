@@ -44,6 +44,7 @@
   * [Aula 01](embriologia/aula-01.md)
   * [Aula 02](embriologia/aula-02.md)
   * [Aula 03](embriologia/aula-03.md)
+  * [Aula 04](embriologia/aula-04.md)
 * Vivências I - Atenção Básica
   * [Aula 01](aula-01.md)
 
