@@ -69,5 +69,5 @@ Formato de abóbada. Formado pelos processos palatinos da maxila e pelas lâmina
 
 **Palato mole**
 
-Terço posterior móvel do palato. Possui a **aponeurose palatina**. Úvula \(güela\). É unido à língua e a faringe pelos arcos **palatoglosso e palatofaríngeo. **
+Terço posterior móvel do palato. Possui a **aponeurose palatina**. Úvula \(güela\). É unido à língua e a faringe pelos arcos **palatoglosso e palatofaríngeo. **Cada **tonsila palatina** está localizada numa **fossa tonsilar. **
 
