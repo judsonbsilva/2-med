@@ -20,9 +20,9 @@ Irrigada por ramos bucais da A. maxilar e inervada por ramos bucais do N. mandib
 
 #### Gengiva
 
-Tecido fibroso coberto por uma **túnica mucosa**. A** gengiva propriamente dita **está firmemente presa aos processos alveolares da mandíbula e da maxilas e aos colos dos dentes. As gengivas propriamente ditas adjacentes à língua são as **gengivas linguais superior e inferior. **As gengivas adjacentes aos lábios e bochechas são as **gengivas labiais \(bucais\) maxilar e mandibular.** 
+Tecido fibroso coberto por uma **túnica mucosa**. A** gengiva propriamente dita **está firmemente presa aos processos alveolares da mandíbula e da maxilas e aos colos dos dentes. As gengivas propriamente ditas adjacentes à língua são as **gengivas linguais superior e inferior. **As gengivas adjacentes aos lábios e bochechas são as **gengivas labiais \(bucais\) maxilar e mandibular.**
 
-É rosa, pontilhada e queratinizada. A **túnica mucosa alveolar** é normalmente vermelho-brilhante e não queratinizada. 
+É rosa, pontilhada e queratinizada. A **túnica mucosa alveolar** é normalmente vermelho-brilhante e não queratinizada.
 
 #### Dentes
 
@@ -41,7 +41,5 @@ Funções:
 | Pré-molares \(bicúspides\) | Duas cúspides |
 | Molares | Três ou mais cúspides |
 
-Os dentes possuem 4 faces: **lingual \(interna\), mesial \(voltada para linha mediana\), distal \(volta contra a linha mediana\), labial \(externa\).**
-
-
+Os dentes possuem 4 faces: **lingual \(interna\), mesial \(voltada para linha mediana\), distal \(volta contra a linha mediana\), labial \(externa\). **
 
