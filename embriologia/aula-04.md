@@ -22,13 +22,11 @@ Cordomas são neoplasias raras que se originam dos remanescentes da notocorda pr
 
 ### Organogênese da 4ª a 8ª semana
 
-Aqui o embrião tem aproximadamente 3mm e é um disco trilaminar. Adjacente ao polo neural com o encéfalo em desenvolvimento nós temos o celo do pericárdio em desenvolvimento que posteriormente se formará o coração.
+Aqui o embrião tem aproximadamente 3mm e é um disco trilaminar. Adjacente ao polo cranial com o encéfalo em desenvolvimento nós temos o celoma do pericárdio em desenvolvimento que posteriormente formará o coração.
 
 Haverá um crescimento diagonal de modo a propiciar um dobramento levando o coração para a parte interna do embrião junto com uma parte do saco vitelino.
 
 O intestino anterior situa-se entre o encéfalo e o coração.
-
-
 
 **Dobramento do embrião**
 
