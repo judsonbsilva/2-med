@@ -109,5 +109,9 @@ Na raiz da língua estão as **tonsilas linguais** ou **nódulos linfoides. **Na
 * Vertical
 * Longitudinal interior
 
+**TODOS, EXCETO PALATOGLOSSO, RECEBEM INERVAÇÃO DO N. HIPOGLOSSO**
+
+
+
 
 
