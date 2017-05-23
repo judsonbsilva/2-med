@@ -1,3 +1,4 @@
+23/05/2017 - Aula 4 - **Embriologia**
 
 ---
 
@@ -16,4 +17,22 @@ O úraco, ou ligamento umbilical mediano, é uma estrutura tubular na linha méd
 **CORDOMA**
 
 Cordomas são neoplasias raras que se originam dos remanescentes da notocorda primitiva. Estes remanescentes persistem ao longo de todo o esqueleto axial. Se localizam em 50% dos casos no sacro, 35% na região esfenooccipital \(clivus\) e aproximadamente 15% nas demais porções da coluna vertebra.
+
+---
+
+### Organogênese da 4ª a 8ª semana
+
+Aqui o embrião tem aproximadamente 3mm e é um disco trilaminar. Adjacente ao polo neural com o encéfalo em desenvolvimento nós temos o celo do pericárdio em desenvolvimento que posteriormente se formará o coração. 
+
+Haverá um crescimento diagonal de modo a propiciar um dobramento levando o coração para a parte interna do embrião junto com uma parte do saco vitelino.
+
+
+
+  
+**Dobramento do embrião**
+
+Plano mediano: prega cefálica, pregra caudal.  
+Plano horizontal.
+
+
 
