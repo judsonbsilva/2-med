@@ -88,11 +88,10 @@ Nn. palatinos maior e menor, N. nasopalatino.
 
 **Papilas linguais**
 
-Circunvaladas
+* Circunvaladas: Grandes e em fileiras posteriores ao sulco terminal
+* Folhadas: Pouco desenvolvidas nos seres humanos
+* Filiformes: Longas e numerosas em todo o corpo
+* Fungiformes: Pontos em formatk
 
-Folhadas
 
-Filiformes
-
-Fungiformes;
 
