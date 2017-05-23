@@ -59,5 +59,9 @@ Aa. e Vv. alveolares sup. e inf.
 Vasos linfáticos seguem principalmente para os _linfonodos submandibulares_.  
 Nn. alveolares superior e inferior.
 
+#### Palato
+
+
+
 
 
