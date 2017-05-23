@@ -95,12 +95,14 @@ Nn. palatinos maior e menor, N. nasopalatino.
 
 Na raiz da língua estão as **tonsilas linguais** ou **nódulos linfoides. **Na parte inferior da língua está medianamente o **frênulo da língua**, acompanhado por uma **carúncula sublingual e óstio do ducto submandibular **de cada lado.
 
-Os **músculos extrínsicos da língua são:**
+**Músculos extrínsicos da língua são:**
 
 * Genioglosso
 * Palatoglosso
 * Estiloglosso
 * Hioglosso
+
+**Músculos intrísecos da língua**
 
 
 
