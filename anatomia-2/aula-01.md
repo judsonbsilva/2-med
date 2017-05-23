@@ -61,5 +61,5 @@ Nn. alveolares superior e inferior. dão origem aos **plexos dentais**.
 
 #### Palato
 
-
+Coberto superiormente por uma túnica mucosa respiratória e inferiormente por uma túnica mucosa oral.
 
