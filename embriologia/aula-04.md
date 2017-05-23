@@ -54,5 +54,9 @@ Dia do início do UPMN, tempo estimado da fertilização.
 
 **DISCUSSÃO**
 
-DYU não hormonal. Eficácia de 98,5%. Pode perfurar o útero e aumentar o fluxo menstrual. Geralmente é composto por cobre. O mecanismo de ação se dá pela liberação do cobre matando os espermatozóides e atrofiando o endométrio impedindo a fixação da mórula.
+DYU não hormonal. Eficácia de 98,5%. Pode perfurar o útero e aumentar o fluxo menstrual. Geralmente é composto por cobre. O mecanismo de ação se dá pela liberação do cobre matando os espermatozóides e atrofiando o endométrio impedindo a fixação do blastocisto.
+
+DYU hormonal é análogo. Também usado em terapia hormonal.
+
+Pílula do dia seguinte
 
