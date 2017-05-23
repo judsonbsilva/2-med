@@ -57,11 +57,9 @@ Coroa, colo e raiz. A raiz está fixada no alvéolo dental pelo periodonto. A co
 
 Aa. e Vv. alveolares sup. e inf.  
 Vasos linfáticos seguem principalmente para os _linfonodos submandibulares_.  
-Nn. alveolares superior e inferior.
+Nn. alveolares superior e inferior. dão origem aos **plexos dentais**.
 
 #### Palato
-
-
 
 
 
