@@ -69,5 +69,5 @@ Formato de abóbada. Formado pelos processos palatinos da maxila e pelas lâmina
 
 **Palato mole**
 
-Terço posterior móvel do palato. Possui a **aponeurose palatina**. 
+Terço posterior móvel do palato. Possui a **aponeurose palatina**. Úvula \(güela\).
 
