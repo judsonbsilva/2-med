@@ -41,5 +41,13 @@ Funções:
 | Pré-molares \(bicúspides\) | Duas cúspides |
 | Molares | Três ou mais cúspides |
 
-Os dentes possuem 4 faces: **lingual \(interna\), mesial \(voltada para linha mediana\), distal \(volta contra a linha mediana\), labial \(externa\). **
+Os dentes possuem 4 faces:
+
+* **lingual \(interna\)**
+* **mesial \(voltada para linha mediana\)**
+* **distal \(volta contra a linha mediana\)**
+* **labial \(externa\)**
+* **oclusal \(superfície mastigatória\)**
+
+
 
