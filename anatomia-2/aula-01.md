@@ -109,7 +109,16 @@ Na raiz da língua estão as **tonsilas linguais** ou **nódulos linfoides. **Na
 * Vertical
 * Longitudinal interior
 
-**TODOS, EXCETO PALATOGLOSSO, RECEBEM INERVAÇÃO DO N. HIPOGLOSSO.**
+**TODOS, EXCETO PALATOGLOSSO, RECEBEM INERVAÇÃO MOTORA DO N. HIPOGLOSSO.**
 
 ![](/assets/LINGUA.png)
+
+**Inervação sensitiva:**
+
+* N. lingual: no terço anterior
+* N. corda do tímpano: no corpo até a anteriormente as papilas circunvaladas
+* N. glossofaríngeo: raiz da língua
+* N. laríngeo interno: algumas regiões anteriores à epiglote.
+
+
 
