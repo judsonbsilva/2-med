@@ -49,5 +49,9 @@ Os dentes possuem 4 faces:
 * **labial \(externa\)**
 * **oclusal \(superfície mastigatória\)**
 
+Estrutura dos dentes:
+
+Coroa, colo e raiz. A raiz está fixada no alvéolo dental pelo periodonto. A coroa é a parte visível do dente. O colo está entre ambas. A maior parte dos dentes é formada por **dentina** coberta por **esmalte** na coroa e por **cemento **na raiz. A **cavidade pulpar **\(polpa\) contém tecido conectivo, vasos e nervos. O **canal da raiz** ou **canal pulpar **dá passagem a nervos e vasos até a polpa através do **forame do ápice do dente. **
+
 
 
