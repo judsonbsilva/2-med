@@ -120,5 +120,19 @@ Na raiz da língua estão as **tonsilas linguais** ou **nódulos linfoides. **Na
 * N. glossofaríngeo: raiz da língua
 * N. laríngeo interno: algumas regiões anteriores à epiglote.
 
+Vascularização da língua:
+
+* Irrigação
+  * A. lingual
+    * Aa. dorsais da língua
+    * Aa. profundas da língua
+* Drenagem
+  * Vv. dorsais da língua
+  * VV. dorsair profundas da língua
+    * Ambas drenam para V. lingual
+* Linfática
+  * O corpo até as papilas circunvaladas vão para os linfonodos submentuais
+  * Da raiz vai até os linfonodos cervicais profundos
+
 
 
