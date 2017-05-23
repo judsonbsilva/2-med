@@ -18,3 +18,30 @@ Paredes móveis da cavidade oral \(mm. bucinadores\). A face externa é a **regi
 
 Irrigada por ramos bucais da A. maxilar e inervada por ramos bucais do N. mandibular.
 
+#### Gengiva
+
+Tecido fibroso coberto por uma **túnica mucosa**. A** gengiva propriamente dita **está firmemente presa aos processos alveolares da mandíbula e da maxilas e aos colos dos dentes. As gengivas propriamente ditas adjacentes à língua são as **gengivas linguais superior e inferior. **As gengivas adjacentes aos lábios e bochechas são as **gengivas labiais \(bucais\) maxilar e mandibular.** 
+
+É rosa, pontilhada e queratinizada. A **túnica mucosa alveolar** é normalmente vermelho-brilhante e não queratinizada. 
+
+#### Dentes
+
+Funções:
+
+* Cortar, reduzir e misturar os alimentos à saliva
+* Ajudar na sua prórpia sustentação nos alvéolos dentais
+* Participar da articulação \(fala conectada distinta\)
+
+**Decíduo \(primário\) ou permanente \(secundário\).** As crianças tem 20 decíduos, adultos normalmente tem 32 permanentes. Antes da erupção os dentes em desenvolvimento estão nos arcos alveolares como **brotos dentais. **
+
+| **Tipos** | **Características** |
+| :--- | :--- |
+| Incisivos | Margens cortantes finas |
+| Caninos | Cones proeminentes únicos |
+| Pré-molares \(bicúspides\) | Duas cúspides |
+| Molares | Três ou mais cúspides |
+
+Os dentes possuem 4 faces: **lingual \(interna\), mesial \(voltada para linha mediana\), distal \(volta contra a linha mediana\), labial \(externa\).**
+
+
+
