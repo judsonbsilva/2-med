@@ -67,7 +67,7 @@ Coberto superiormente por uma túnica mucosa respiratória e inferiormente por u
 
 Formato de abóbada. Formado pelos processos palatinos da maxila e pelas lâminas horizontais dos palatinos. Na **fossa incisiva** se abrem os **canais incisivos. **Pelo **forame palatino maior** passam os vasos e nervos palatinos maiores e no **forame palatino menor **passam os vasos e nervos palatinos menores.
 
-
-
 **Palato mole**
+
+Terço posterior móvel do palato. Possui a **aponeurose palatina**. 
 
