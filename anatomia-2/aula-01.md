@@ -75,7 +75,5 @@ Terço posterior móvel do palato. Possui a **aponeurose palatina**. Úvula \(g�
 
 Cada **tonsila palatina** está localizada numa **fossa tonsilar. **Profundamente na túnica mucosa há **glândulas palatinas** secretoras de muco.A **papila incisiva** é uma levação da túnica mucosa anterior a fossa incisiva. **Rafe do palato **linha mediana do palato.
 
-Irrigado principalmente pela A. palatina maior 
-
- 
+Irrigado principalmente pela A. palatina maior e A. palatina menor.
 
