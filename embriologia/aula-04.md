@@ -32,6 +32,10 @@ O dobramento no plano mediano se dá pelo crescimento cranio-caudal. E no sentid
 
 Aparecimento dos arcos faríngeos. Primórdios de membros superiores e inferiores. Longa eminência caudal.
 
+Na 5ª semana, há uma aceleração no processo. Indicativo de desenvolvimento dos rins.
+
+
+
 **PS**: A insulina no feto é um fator de crescimento. No caso de mães hiperglicêmicas, é natural o bebê crescer e nascer acima do peso.
 
 **Dobramento do embrião**
