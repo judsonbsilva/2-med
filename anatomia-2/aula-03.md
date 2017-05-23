@@ -5,7 +5,7 @@
 
 Estrutura do** pavilhão da orelha**:  
 Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
-É irrigada pelas **Aa. auricular post. e temporal superficial.              
+É irrigada pelas **Aa. auricular post. e temporal superficial.                
 **Drenagem linfática: Linfonodos parotídeos superficiais, mastóideos, cervicais profundos.
 
 #### Meato acústico externo
@@ -16,6 +16,15 @@ A **membrana timpânica** é fina, oval, semitransparente. Ela é a divisora da 
 #### Orelha média
 
 A \( cavidade timpânica / cavidade da orelha média \) é a câmara estreita e cheia de ar na parte petrosa do temporal. Formada pelo **recesso timpânico **e a **cavidade timpânica própria. **Se conecta à faringe através da **tuba auditiva. **
+
+**Paredes**
+
+* Teto \( parede tegmental \): tegme timpânico.
+* Assoalho \( parede jugular \): lâminaa de osso que separa a cavidade timpânica do bulbo da V. jugular int.
+* Lateral \(parede membranácea\): membrana timpânica
+* Medial \(parede labiríntica\): Separa a cavidade timpânica da orelha interna
+* Posterior \(parede mastóidea\): Tem uma abertura superior chamada àdito
+* Anterior \(parede carótica\): Separa a cavidade tim. do canal carótido
 
 
 
