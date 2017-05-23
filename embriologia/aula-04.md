@@ -34,6 +34,8 @@ Aparecimento dos arcos faríngeos. Primórdios de membros superiores e inferiore
 
 Na 5ª semana, há uma aceleração no processo. Indicativo de desenvolvimento dos rins.
 
+Na 6ª semana, o embrião começa a ter movimentos espontâneos e reflexos.
+
 
 
 **PS**: A insulina no feto é um fator de crescimento. No caso de mães hiperglicêmicas, é natural o bebê crescer e nascer acima do peso.
