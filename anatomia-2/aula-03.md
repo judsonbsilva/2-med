@@ -5,7 +5,7 @@
 
 Estrutura do** pavilhão da orelha**:  
 Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
-É irrigada pelas **Aa. auricular post. e temporal superficial.                
+É irrigada pelas **Aa. auricular post. e temporal superficial.                  
 **Drenagem linfática: Linfonodos parotídeos superficiais, mastóideos, cervicais profundos.
 
 #### Meato acústico externo
@@ -26,5 +26,5 @@ A \( cavidade timpânica / cavidade da orelha média \) é a câmara estreita e 
 * Posterior \(parede mastóidea\): Tem uma abertura superior chamada àdito
 * Anterior \(parede carótica\): Separa a cavidade tim. do canal carótido
 
-
+**Tuba auditiva**
 
