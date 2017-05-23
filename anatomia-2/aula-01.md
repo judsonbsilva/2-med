@@ -53,10 +53,11 @@ Os dentes possuem 4 faces:
 
 Coroa, colo e raiz. A raiz está fixada no alvéolo dental pelo periodonto. A coroa é a parte visível do dente. O colo está entre ambas. A maior parte dos dentes é formada por **dentina** coberta por **esmalte** na coroa e por **cemento **na raiz. A **cavidade pulpar **\(polpa\) contém tecido conectivo, vasos e nervos. O **canal da raiz** ou **canal pulpar **dá passagem a nervos e vasos até a polpa através do **forame do ápice do dente.** Os **alvéolos dentais** estão nos processos alveolares separados uns dos outros pelos **septos ineralveolares. **As raizes dos dentes são separadas pelos **septos inter-radiculares.** As raízes dos dentes são unidas aos processos alveolares por uma **articulação fibrosa denominada sindesmose dentoalveolar ou gonfose**. O **periodonto** é formado por fibras colágenas que se estendem do periósteo do alvéolo até a raiz do dente.
 
-**Vascularização**
+**Vascularização e Inervação**
 
 Aa. e Vv. alveolares sup. e inf.  
-Vasos linfáticos seguem principalmente para os _linfonodos submandibulares_.
+Vasos linfáticos seguem principalmente para os _linfonodos submandibulares_.  
+Nn. alveolares superior e inferior.
 
 
 
