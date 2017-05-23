@@ -50,3 +50,11 @@ Dia do início do UPMN, tempo estimado da fertilização.
 
 **PS**: A insulina no feto é um fator de crescimento. No caso de mães hiperglicêmicas, é natural o bebê crescer e nascer acima do peso.
 
+---
+
+**DISCUSSÃO**
+
+DYU não hormonal, de cobre. Eficácia de 98,5%. Pode perfurar o útero e aumentar o fluxo menstrual. Geralmente é composto por cobre. O mecanismo de ação se dá pela liberação do cobre matando os espermatozóides e atrofiando o endométrio impedindo a fixação da mórula.
+
+
+
