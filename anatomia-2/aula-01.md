@@ -104,5 +104,10 @@ Na raiz da língua estão as **tonsilas linguais** ou **nódulos linfoides. **Na
 
 **Músculos intrísecos da língua**
 
+* Longitudinal superior
+* Transverso
+* Vertical
+* Longitudinal interior
+
 
 
