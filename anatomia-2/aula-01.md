@@ -93,5 +93,7 @@ Nn. palatinos maior e menor, N. nasopalatino.
 * **Filiformes**: Longas e numerosas em todo o corpo
 * **Fungiformes**: Pontos em formato de cogumelo, no ápice e nas margens da língua
 
-Na raiz da língua estão as **tonsilas linguais** ou **nódulos linfoides. **Na parte inferior da língua está medianamente o **frênulo da língua**, acompanhado por uma **carúncula sublingual e óstio do ducto submandibular **de cada lado
+Na raiz da língua estão as **tonsilas linguais** ou **nódulos linfoides. **Na parte inferior da língua está medianamente o **frênulo da língua**, acompanhado por uma **carúncula sublingual e óstio do ducto submandibular **de cada lado.
+
+
 
