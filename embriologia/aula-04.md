@@ -42,11 +42,11 @@ Na 6ª semana, o embrião começa a ter movimentos espontâneos e reflexos \(imp
 
 Na 7ª semana, ossificação dos membros superiores, proeminências dos dedos, o pedículo vitelino separa o intestino do saco vitelino, os intestinos penetram no celoma extraembrionário, proeminência hepática.
 
-Na 8ª semana, separação dos dedos dos pés, ossificação dos membros inferiores, desaparecimento da eminência caudal, aparecimento do pavilhão auricular.
+Na 8ª semana, separação dos dedos dos pés, ossificação dos membros inferiores, desaparecimento da eminência caudal, aparecimento do pavilhão auricular, pescoço e pálpebras definidos, 3cm.
 
-Na 9ª semana, pescoço e pálpebras definidos.
+**Idade do embrião**
+
+Dia do início do UPMN, tempo estimado da fertilização.
 
 **PS**: A insulina no feto é um fator de crescimento. No caso de mães hiperglicêmicas, é natural o bebê crescer e nascer acima do peso.
-
-
 
