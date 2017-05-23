@@ -63,3 +63,9 @@ Nn. alveolares superior e inferior. dão origem aos **plexos dentais**.
 
 Coberto superiormente por uma túnica mucosa respiratória e inferiormente por uma túnica mucosa oral.
 
+**Palato duro**
+
+Formato de abóbada. Formado pelos processos palatinos da maxila e pelas lâminas horizontais dos palatinos. Na **fossa incisiva** se abrem os **canais incisivos. **
+
+**Palato mole**
+
