@@ -84,7 +84,5 @@ Nn. palatinos maior e menor, N. nasopalatino.
 
 #### Língua
 
-Órgão muscular móvel. Raiz, corpo e ápice. **Ápice** é a ponta da língua, extremidade anterior do corpo, que se apoia sobre os dentes incisivos.** Corpo **corresponde a 2/3 anteriores. **Raiz **é a parte posterior fixa. **Faces: dorso língua e face inferior da língua.** A face interior da lingua geralmente descansa sobre o assoalho da boca. **Sulco terminal **em **V**.
-
-
+Órgão muscular móvel. Raiz, corpo e ápice. **Ápice** é a ponta da língua, extremidade anterior do corpo, que se apoia sobre os dentes incisivos.** Corpo **corresponde a 2/3 anteriores. **Raiz **é a parte posterior fixa. **Faces: dorso língua e face inferior da língua.** A face interior da lingua geralmente descansa sobre o assoalho da boca. **Sulco terminal da língua **em **V **ao fim do corpo da língua apontando para o **forame cego. **
 
