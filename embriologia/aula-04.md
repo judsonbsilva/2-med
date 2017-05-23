@@ -28,9 +28,11 @@ Haverá um crescimento diagonal de modo a propiciar um dobramento levando o cora
 
 O intestino anterior surge do dobramento do polo caudal e situa-se entre o encéfalo e o coração. O intestino posterior é formado no dobramento do polo caudal. Ocorrerá uma dilatação da porção final do intestino - cloaca \(reto e bexiga\).
 
-O dobramento no plano mediano se dá pelo crescimento cranio-caudal. E no sentido horizontal o dobramento se dá devido a morfologia dos somitos em crescimento.
+O dobramento no plano mediano se dá pelo crescimento cranio-caudal. E no sentido horizontal o dobramento se dá devido a morfologia dos somitos em crescimento. 
 
 
+
+PS: A insulina no feto é um fator de crescimento. No caso de mães hiperglicêmicas, é natural o bebê crescer e nascer acima do peso.
 
 **Dobramento do embrião**
 
