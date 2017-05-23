@@ -26,7 +26,11 @@ Aqui o embrião tem aproximadamente 3mm e é um disco trilaminar. Adjacente ao p
 
 Haverá um crescimento diagonal de modo a propiciar um dobramento levando o coração para a parte interna do embrião junto com uma parte do saco vitelino.
 
-O intestino anterior situa-se entre o encéfalo e o coração.
+O intestino anterior surge do dobramento do polo caudal e situa-se entre o encéfalo e o coração. O intestino posterior é formado no dobramento do polo caudal. Ocorrerá uma dilatação da porção final do intestino - cloaca \(reto e bexiga\).
+
+O dobramento no plano mediano se dá pelo crescimento cranio-caudal. E no sentido horizontal o dobramento se dá devido a morfologia dos somitos em crescimento.
+
+
 
 **Dobramento do embrião**
 
