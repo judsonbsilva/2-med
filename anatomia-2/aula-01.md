@@ -65,7 +65,9 @@ Coberto superiormente por uma túnica mucosa respiratória e inferiormente por u
 
 **Palato duro**
 
-Formato de abóbada. Formado pelos processos palatinos da maxila e pelas lâminas horizontais dos palatinos. Na **fossa incisiva** se abrem os **canais incisivos. **
+Formato de abóbada. Formado pelos processos palatinos da maxila e pelas lâminas horizontais dos palatinos. Na **fossa incisiva** se abrem os **canais incisivos. **Pelo **forame palatino maior** passam os vasos e nervos palatinos maiores. Pelo **forame palatino menor**.
+
+
 
 **Palato mole**
 
