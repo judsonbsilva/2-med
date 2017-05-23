@@ -134,5 +134,16 @@ Vascularização da língua:
   * O corpo até as papilas circunvaladas vão para os linfonodos submentuais
   * Da raiz vai até os linfonodos cervicais profundos
 
+**Glândulas Salivares:**
+
+* Parótidas
+  * Ducto da parótida
+* Submandibulares
+  * Ducto submandibular
+* Sublinguais
+  * Ductos sublinguais
+
+
+
 
 
