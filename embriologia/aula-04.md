@@ -34,7 +34,7 @@ Aparecimento dos arcos faríngeos. Primórdios de membros superiores e inferiore
 
 Na 5ª semana, há uma aceleração no processo. Indicativo de desenvolvimento dos rins.
 
-Na 6ª semana, o embrião começa a ter movimentos espontâneos e reflexos.
+Na 6ª semana, o embrião começa a ter movimentos espontâneos e reflexos \(imperceptíveis pela mãe\).
 
 
 
