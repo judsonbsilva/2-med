@@ -67,7 +67,7 @@ A órbita é revestida pela **periórbita **\(o periósteo da órbita\).
 
 **Pálpebras & Aparelho Lacrimal**
 
-As pálpebras protegem o olho contra lesão ou contra luz excessiva, mantém a córnea limpa e úmida. Revestida internamente pela **túnica conjuntiva da pálpebra, **que é contínua com a **túnica conjuntiva do bulbo** e formando os fórnices sup. e inf. da conjuntiva e adjascentemente o saco da conjuntiva. Fortalecida pelos** **ligamentos **tarsos sup e inf,** onde estão inseridas as **glândulas tarsais, **que reproduzem uma solução lipídica**. **
+As pálpebras protegem o olho contra lesão ou contra luz excessiva, mantém a córnea limpa e úmida. Revestida internamente pela **túnica conjuntiva da pálpebra, **que é contínua com a **túnica conjuntiva do bulbo** e formando os fórnices sup. e inf. da conjuntiva e adjascentemente o saco da conjuntiva. Fortalecida pelos** **ligamentos **tarsos sup e inf,** onde estão inseridas as **glândulas tarsais, **que produzem uma solução lipídica**. **Os cílios estão as márgens das pálpebras junto com as glândulas ciliáres. ** **
 
 
 
