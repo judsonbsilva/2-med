@@ -75,5 +75,5 @@ Glândula Lacrimal \(Na fossa da glândula lacrimal parte superolateral de cada 
 
 #### Bulbo do Olho
 
-Aparelho óptico do sistema visual. Revestido pela **bainha do bulbo do olho**. 
+Aparelho óptico do sistema visual. Revestido pela **bainha do bulbo do olho**. Espaço entre bainha do bulbo do olho e túnica externa do bulbo do olho é o **espaço episcleral. **
 
