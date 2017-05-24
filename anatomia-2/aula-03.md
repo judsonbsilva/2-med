@@ -5,7 +5,7 @@
 
 Estrutura do** pavilhão da orelha**:  
 Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
-É irrigada pelas **Aa. auricular post. e temporal superficial.                                    
+É irrigada pelas **Aa. auricular post. e temporal superficial.                                      
 **Drenagem linfática: Linfonodos parotídeos superficiais, mastóideos, cervicais profundos.
 
 #### Meato acústico externo
@@ -73,7 +73,5 @@ Formado por uma série de sacos e ductos suspensos no labirinto ósseo banhado p
 
 Os **ductos semicirculares **abrem-se para o utrículo através de 5 aberturas. O utrículo comunica-se com o sáculo através do **ducto utriculossacular, **do qual se origina o **ducto endolinfático. **O sáculo é contícuo com o **ducto coclear **através **ducto de união**.
 
-**MÁCULAS: **Epitélios sensitivo especializado.
-
-
+**MÁCULAS: **Epitélios sensitivo especializado \(células ciliadas\), inervados pelo N. vestibulococlear. 
 
