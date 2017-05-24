@@ -5,7 +5,7 @@
 
 Estrutura do** pavilhão da orelha**:  
 Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
-É irrigada pelas **Aa. auricular post. e temporal superficial.                      
+É irrigada pelas **Aa. auricular post. e temporal superficial.                        
 **Drenagem linfática: Linfonodos parotídeos superficiais, mastóideos, cervicais profundos.
 
 #### Meato acústico externo
@@ -28,7 +28,7 @@ A \( cavidade timpânica / cavidade da orelha média \) é a câmara estreita e 
 
 **Tuba auditiva**
 
-Une a cavidade timpânica a parte nasal da faringe no **óstio faríngeo da tuba auditiva. **Função: igualar a pressão da orelha média à pressão atmosférica, permitindo, assim, o livre movimento da membrana timpânica. A tuba é aberta pela expansão do ventre entre o m. levantador do véu palatino e o m. tensor do véu palatino. 
+Une a cavidade timpânica a parte nasal da faringe no **óstio faríngeo da tuba auditiva. **Função: igualar a pressão da orelha média à pressão atmosférica, permitindo, assim, o livre movimento da membrana timpânica. A tuba é aberta pela expansão do ventre entre o m. levantador do véu palatino e o m. tensor do véu palatino.
 
 A irrigação da tuba é feita pela A. faríngea ascendente e pela A. meníngia média.
 
@@ -42,5 +42,9 @@ Vão da mem. timp. até a **janela do vestíbulo. **
 
 #### Orelha Interna
 
+É formada por sacos e ductos membranáceos. O **labirinto membranáceo **cheio de **endolinfa **está suspenso no **labirinto ósseo** ,cheio de **perilinfa, **pelos filamentos semelhantes à arcnoide-máter ou pelo grande **ligamento espiral**. Esses líquidos participam da estimulação dos órgãos do equilíbrio e audição.
 
+Contém o **órgão vestibulococlear, **embutido na parte petrosa do temporal,** **relacionado com recepção dos sons e a manutenção do equilíbrio.
+
+O **labirinto ósseo **é formado pela** cóclea, vestíbulo e canais semicirculares.** Contidos na **cápsula ótica** da parte petrosa do temporal. 
 
