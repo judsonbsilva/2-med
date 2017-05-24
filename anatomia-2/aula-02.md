@@ -93,5 +93,7 @@ Retina. A parte óptica da retina é formado por duas camadas: estrato nervoso e
 
 Disco do nervo óptico = "ponto cego".
 
-Mácula lútea tem uma depressão \(fóvea central\) =,
+Mácula lútea tem uma depressão \(fóvea central\).
+
+O humor aquoso, na câmera anterior, seque até o ângulo iridocorneal para o plexo do limbo, seio venoso da esclera. 
 
