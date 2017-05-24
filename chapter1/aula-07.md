@@ -12,3 +12,7 @@ Primeira etapa da captação do som converte a onda sonora em mecânica através
 
 
 
+![](/assets/ducto coclear.png)
+
+
+
