@@ -89,11 +89,9 @@ O corpo ciliar é um espessamento do corioide, na sua parte posterior há uma s�
 
 **Túnica interna do bulbo do olho**
 
-Retina. A parte óptica da retina é formado por duas camadas: estrato nervoso e estrato pigmentoso. Parte cega da retina é uma continuação do estrato pigmentoso na parte anterior do bulbo \(parte ciliar da retinar\).\]
+Retina. A parte óptica da retina é formado por duas camadas: estrato nervoso e estrato pigmentoso. Parte cega da retina é uma continuação do estrato pigmentoso na parte anterior do bulbo \(parte ciliar da retinar\) ao nível da ora serrata do corpo ciliar.
 
 Disco do nervo óptico = "ponto cego".
 
-
-
-
+Mácula lútea tem uma depressão \(fóvea central\) =,
 
