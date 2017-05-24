@@ -67,5 +67,5 @@ A órbita é revestida pela **periórbita **\(o periósteo da órbita\).
 
 **Pálpebras & Aparelho Lacrimal**
 
-As pálpebras protegem o olho contra lesão ou contra luz excessiva.
+As pálpebras protegem o olho contra lesão ou contra luz excessiva, mantém a córnea limpa e úmida. Revestida internamente pela **túnica conjuntiva da pálpebra**. 
 
