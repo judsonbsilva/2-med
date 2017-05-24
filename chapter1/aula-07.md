@@ -10,9 +10,7 @@ Primeira etapa da captação do som converte a onda sonora em mecânica através
 
 **PS**: Músculos do martelo e da bigorna protegem o órgão auditivo de altas frequências possivelmente danosas.
 
-
-
 ![](/assets/ducto coclear.png)
 
-
+As ondas hidromecânicas se propagam com facilidade pela membrana de reissner devido e baixa resistência apresentada. Ao receber tais ondas pela endolinfa no choque com a membrana tectória, abrem-se canais de Ka+ mecânicamente gerando um potencial de ação. Quando a onda "passa" os canais se fecham.
 
