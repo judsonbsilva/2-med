@@ -16,3 +16,5 @@ As ondas hidromecânicas se propagam com facilidade pela membrana de reissner de
 
 
 
+Na região da membrana basilar.
+
