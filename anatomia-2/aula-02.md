@@ -85,5 +85,15 @@ Aparelho óptico do sistema visual. Revestido pela **bainha do bulbo do olho**. 
 
 A córnea depende do humor aquoso e do líquido lacrimal para se alimentar. Invervada pelo N. Oftálmico. O ressecamento da córnea pode causar ulceração. **junção cornoescleral.**
 
-O corpo ciliar é um espessamento do corioide, na sua parte posterior há uma série de pregas, os processos ciliares, que secretam o humor aquoso. Na pupíla temos a miose \( diminuição do diâmetro \) e midríase \( aumento do diâmetro \), com auxílio dos m. esfíncter da pupila e m. dilatador da pupila. 
+O corpo ciliar é um espessamento do corioide, na sua parte posterior há uma série de pregas, os processos ciliares, que secretam o humor aquoso. Na pupíla temos a miose \( diminuição do diâmetro \) e midríase \( aumento do diâmetro \), com auxílio dos m. esfíncter da pupila e m. dilatador da pupila.
+
+**Túnica interna do bulbo do olho**
+
+Retina. A parte óptica da retina é formado por duas camadas: estrato nervoso e estrato pigmentoso. Parte cega da retina é uma continuação do estrato pigmentoso na parte anterior do bulbo \(parte ciliar da retinar\).\]
+
+Disco do nervo óptico = "ponto cego".
+
+
+
+
 
