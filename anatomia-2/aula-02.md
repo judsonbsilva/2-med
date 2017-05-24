@@ -85,5 +85,5 @@ Aparelho óptico do sistema visual. Revestido pela **bainha do bulbo do olho**. 
 
 A córnea depende do humor aquoso e do líquido lacrimal para se alimentar. Invervada pelo N. Oftálmico. O ressecamento da córnea pode causar ulceração. **junção cornoescleral.**
 
-O corpo ciliar é um espessamento do corioide, na sua parte posterior há uma série de pregas, os processos ciliares, que secretam o humor aquoso. Na pupíla temos a miose \( diminuição do diâmetro \) e midríase \( aumento do diâmetro \).. 
+O corpo ciliar é um espessamento do corioide, na sua parte posterior há uma série de pregas, os processos ciliares, que secretam o humor aquoso. Na pupíla temos a miose \( diminuição do diâmetro \) e midríase \( aumento do diâmetro \), com auxílio dos m. esfíncter da pupila e m. dilatador da pupila. 
 
