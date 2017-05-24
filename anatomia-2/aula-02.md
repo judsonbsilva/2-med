@@ -63,11 +63,9 @@ O olho é o órgão da visão, formado pelo bulbo do olho e pelo nervo óptico.A
 * O ápice
   * Na asa menor do esfenoide medial à fissura orbital superior
 
-
-
 A órbita é revestida pela **periórbita **\(o periósteo da órbita\).
 
-
+**Pálpebras & Aparelho Lacrimal**
 
 
 
