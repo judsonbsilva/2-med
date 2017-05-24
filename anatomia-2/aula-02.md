@@ -83,5 +83,9 @@ Aparelho óptico do sistema visual. Revestido pela **bainha do bulbo do olho**. 
 * Túnica vascular \( cama intermédia \): corioide, corpo ciliar e íris.
 * Túnica inerna \( cama interna \): formado pela retina e suas partes ópticas e não-ópticas. 
 
-A córnea depende do humor aquoso e do líquido lacrimal para se alimentar.
+A córnea depende do humor aquoso e do líquido lacrimal para se alimentar. Invervada pelo N. Oftálmico. O ressecamento da córnea pode causar ulceração. **junção cornoescleral.**
+
+
+
+
 
