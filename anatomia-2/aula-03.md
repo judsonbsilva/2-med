@@ -5,7 +5,7 @@
 
 Estrutura do** pavilhão da orelha**:  
 Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
-É irrigada pelas **Aa. auricular post. e temporal superficial.                    
+É irrigada pelas **Aa. auricular post. e temporal superficial.                      
 **Drenagem linfática: Linfonodos parotídeos superficiais, mastóideos, cervicais profundos.
 
 #### Meato acústico externo
@@ -28,7 +28,9 @@ A \( cavidade timpânica / cavidade da orelha média \) é a câmara estreita e 
 
 **Tuba auditiva**
 
-Une a cavidade timpânica a parte nasal da faringe no **óstio faríngeo da tuba auditiva. **Função: igualar a pressão da orelha média à pressão atmosférica, permitindo, assim, o livre movimento da membrana timpânica. A tuba é aberta pela expansão do ventre entre o m. levantador do véu palatino e o m. tensor do véu palatino. A irrigação da tuba é feita pela A. faríngea ascendente e pela A. meníngia média.
+Une a cavidade timpânica a parte nasal da faringe no **óstio faríngeo da tuba auditiva. **Função: igualar a pressão da orelha média à pressão atmosférica, permitindo, assim, o livre movimento da membrana timpânica. A tuba é aberta pela expansão do ventre entre o m. levantador do véu palatino e o m. tensor do véu palatino. 
+
+A irrigação da tuba é feita pela A. faríngea ascendente e pela A. meníngia média.
 
 Drenagem venosa: Vv. da tuba auditiva -&gt; plexo venoso pterigóide
 
@@ -37,4 +39,8 @@ Drenagem linfática: linfonodos cervicais profundos.
 **Ossículos da audição**
 
 Vão da mem. timp. até a **janela do vestíbulo. **
+
+#### Orelha Interna
+
+
 
