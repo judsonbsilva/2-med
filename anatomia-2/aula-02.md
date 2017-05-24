@@ -41,7 +41,33 @@ O olho é o órgão da visão, formado pelo bulbo do olho e pelo nervo óptico.A
 
 **Estruturas acessórias da visão: **Pálpebras, Mm. extrínsecos, Nervos e Vasos no trajeto, Fáscia orbital \(circundando os bulbos dos olhos e os mm. \), **Túnica mucosa ou conjuntiva** \( refeste as palpebras e a parte anterior do bulbo do olho \).
 
-
-
 Órbita preenchida com gordura \(**corpo adiposo da órbita**\).
+
+**Paredes:**
+
+* Base: corresponde a margem orbital do ádito orbital
+  * Reforçada para proteger o bulbo
+* Superior: parte orbital do frontal e asa menor do esfenóide
+* Medial:
+  * Lâmina orbital do etmóide
+  * Processo frontal da maxila
+  * Lacrimal
+  * Esfenoide
+* Inferior: assoalho
+  * Maxila
+  * Em parte pelo zigomático e palatino
+  * Demarcada pela fissura orbital inferior
+* Lateral:
+  * Processo frontal do zigomático
+  * Asa maior do esfenóide
+* O ápice
+  * Na asa menor do esfenoide medial à fissura orbital superior
+
+
+
+A órbita é revestida pela **periórbita **\(o periósteo da órbita\).
+
+
+
+
 
