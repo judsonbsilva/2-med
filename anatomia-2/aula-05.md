@@ -1,2 +1,2 @@
-Pescoço 2
+Pescoço
 
