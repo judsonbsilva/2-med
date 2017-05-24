@@ -5,7 +5,7 @@
 
 Estrutura do** pavilhão da orelha**:  
 Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
-É irrigada pelas **Aa. auricular post. e temporal superficial.                          
+É irrigada pelas **Aa. auricular post. e temporal superficial.                            
 **Drenagem linfática: Linfonodos parotídeos superficiais, mastóideos, cervicais profundos.
 
 #### Meato acústico externo
@@ -46,7 +46,32 @@ Vão da mem. timp. até a **janela do vestíbulo. **
 
 Contém o **órgão vestibulococlear, **embutido na parte petrosa do temporal,** **relacionado com recepção dos sons e a manutenção do equilíbrio.
 
-O **labirinto ósseo **é formado pela** cóclea, vestíbulo e canais semicirculares.** Contidos na **cápsula ótica** da parte petrosa do temporal. O LABIRINTO ÓSSEO É A PARTE CHEIA DE PERILINFA CIRCUNDADA PELA CÁPSULA ÓTICA.
+L**abirinto Ósseo**
+
+É formado pela** cóclea, vestíbulo e canais semicirculares.** Contidos na **cápsula ótica** da parte petrosa do temporal. O LABIRINTO ÓSSEO É A PARTE CHEIA DE PERILINFA CIRCUNDADA PELA CÁPSULA ÓTICA.
+
+* Cóclea: concha do labirinto ósseo, que contém o ducto coclear, parte relacionada a audição.
+* Vestíbulo: pequena câmara oval, que contém o utrículo, o sáculo, partes do aparelho do equilíbrio, janela do vestíbulo.
+  * Sáculo
+  * Utrículo
+  * Janela do vestíbulo
+  * Aqueduto do vestíbulo
+    * Abre-se no meato acústico interno
+    * ducto endolinfático
+* Canais semicirculares \(ant. post. e lat.\)
+  * Comuníca-se com o vestíbulo
+
+**Labirinto membranáceo**
+
+Formado por uma série de sacos e ductos suspensos no labirinto ósseo banhado por perilinfa e preenchido por endolinfa.  
+É subdividido em:
+
+* Labirinto Vestibular: utrículo, sáculo, 2 sacos comunicantes, 3 ductos semicirculares.
+* Labirinto Coclear: ductos coclear
+
+**Ligamento espiral** fixa o ducto coclear ao canal espiral da cóclea.
+
+Os **ductos semicirculares **abrem-se para o utrículo através de 5 aberturas. O utrículo comunica-se com o sáculo através do **ducto utriculossacular. **
 
 
 
