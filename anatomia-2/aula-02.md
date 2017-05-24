@@ -77,3 +77,11 @@ Glândula Lacrimal \(Na fossa da glândula lacrimal parte superolateral de cada 
 
 Aparelho óptico do sistema visual. Revestido pela **bainha do bulbo do olho**. Espaço entre bainha do bulbo do olho e túnica externa do bulbo do olho é o **espaço episcleral. **
 
+**Camadas:**
+
+* Túnica fibrosa \(camada externa\): esclera, córnea.
+* Túnica vascular \( cama intermédia \): corioide, corpo ciliar e íris.
+* Túnica inerna \( cama interna \): formado pela retina e suas partes ópticas e não-ópticas. 
+
+A córnea depende do humor aquoso e do líquido lacrimal para se alimentar.
+
