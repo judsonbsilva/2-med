@@ -14,5 +14,5 @@ Primeira etapa da captação do som converte a onda sonora em mecânica através
 
 As ondas hidromecânicas se propagam com facilidade pela membrana de reissner devido e baixa resistência apresentada. Ao receber tais ondas pela endolinfa no choque macânico com a membrana tectória, abrem-se canais de Ka+ mecânicamente, despolarizando as células, gerando um potencial de ação. Quando a onda "passa" os canais se fecham.
 
-Na região da membrana basilar. Os esteriocílios são maiores e mais espessos. A distinção entre a intensidade identificada será feita por ela.
+Na região da membrana basilar. Os esteriocílios são maiores e mais espessos de tamanhos e larguras distintas. A distinção entre a intensidade identificada no som será feita conforma qual parte da membrana basilar for ativada.
 
