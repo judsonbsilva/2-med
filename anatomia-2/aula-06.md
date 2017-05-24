@@ -2,9 +2,7 @@
 
 ---
 
-### Estudo do Pescoço
+### Estudo do Pescoço 2
 
 É um tubo músculo-mucoso de aproximadamente 12,5cm.
-
-
 
