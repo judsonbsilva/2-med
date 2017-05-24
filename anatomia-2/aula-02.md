@@ -71,5 +71,9 @@ As pálpebras protegem o olho contra lesão ou contra luz excessiva, mantém a c
 
 **Aparelho Lacrimal**
 
+Glândula Lacrimal \(Na fossa da glândula lacrimal parte superolateral de cada órbita \) -&gt; Líquido lacrimal \(soluçao salino líquida, lisozima \[bactericida\], humidifica e pah a córnea \) -&gt; Dúctos excretores da glândula lacrimal -&gt; Saco conjuntivo -&gt; Ponto lacrimal \( Na papila lacrimal próximo ao ângulo medial do olho \) -&gt; Saco lacrimal \(Parte superior espessa do ducto lacrimonasal\) -&gt; Ducto Lacrimonasal -&gt; Meato nasal inferior.
 
+#### Bulbo do Olho
+
+Aparelho óptico do sistema visual. Revestido pela **bainha do bulbo do olho**. 
 
