@@ -53,6 +53,8 @@ Paradigma: preceito estabelecido que funciona como verdade em dado tempo.
 
 Em 1966 unificação dos IAP's no INPS \(Instituto Nacional de Previdência Social\).
 
+1970 - PREV-SAÚDE
+
 1984 - Fim da ditadura
 
 1986 - 8ª Conferência da Saúde Nacional
