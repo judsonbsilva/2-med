@@ -32,5 +32,5 @@ SNP = Snip. Polimorfismo de nucleotídeo único.
 
 SNP silencioso dentro de genes: não tem efeito aparentemente no fenótipo. **Marcador**.
 
-VNTR = Número variável de repetições em _tandem. _
+VNTR = Número variável de repetições em _tandem._
 
