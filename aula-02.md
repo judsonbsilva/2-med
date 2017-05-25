@@ -27,5 +27,5 @@ Envolve apenas a parcela trabalhadora do país.
 
 ### Era Vargas \(1930-1960\)
 
-Predomínio das doenças da pobreza \(DIP\) e aparecimento das doenças da modernidade. Início da transição demográfica: envelhecimento da população.
+Predomínio das doenças da pobreza \(DIP\) e aparecimento das doenças da modernidade, hipertensão, depressão, cardiovasculares, VIOLÊNCIA. Início da transição demográfica: envelhecimento da população.
 
