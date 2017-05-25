@@ -86,20 +86,14 @@ Mede o risco de morte por todas as causas
 
 \(N. de óbitos em dado local e período / População do mesmo local e período\) x 1000
 
-
-
 **CMC** = Coeficiente de Mortalidade por Causa  
 Mede o risco de morte de determinada causa
 
 \(N. de óbitos por dada doença, local e período / População exposta ao risco\) x 10 ^ n
 
-
-
 **CMP = **O percentual de mortes por dada causa em relação a todos os óbitos ocorridos em dado local e período
 
 \(N. de óbitos pela causa analisada na população / N. total de óbtidos na população\)
-
-
 
 **CL = **Coeficiente de Letalidade  
 Mede o poder da doença específica em determinar a morte e também informar sobre a qualidade da assistência médica prestada para esta doença
@@ -114,6 +108,12 @@ Mede a proporção de óbitos de pessoas com 50 anos ou mais em relação ao tot
 > Para facilitar usam-se diferentes bases em cada índice para se chegar o mais próximo possível do inteiro.  
 >   
 > Por convenção, nas taxas de mortalidade geral e infantil a base é 10³, porém para CMC o mais adequado é 10^5. CL é expressa em porcentagem
+
+
+
+
+
+
 
 ---
 
@@ -152,7 +152,7 @@ Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses segu
 
 **Coeficiente de Natalidade: \(**N. de nascimentos / População da área\) x 1000
 
-**Aborto**: É a expulsão ou extração de um embrião ou feto pesando menos de 500g.
+**Aborto**: É a expulsão ou extração de um embrião ou feto pesando menos de 500g
 
 **Natimorto**: Nasce pesando mais de 500g mas sem evidência de vida.
 
@@ -186,10 +186,10 @@ Medidas de morbidade expressam a  frequência das doenças e agravos à saúde e
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência                  
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência                    
 **
 
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência                  
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência                    
 **
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
@@ -402,8 +402,7 @@ DEIXAR DE ATESTAR ÓBITO DE PACIENTE AO QUAL VINHA PRESTANDO ASSISTÊNCIA, EXCET
    morte a ser relatada.
 * A causa básica da morte é da maior
    importância tanto médica, como jurídica e
-   epidemiológica. \[Lembre-se: É a última linha
-* da Parte I.\]
+   epidemiológica. \[Lembre-se: É a última linha da Parte I.\]
 * A causa básica da morte deve ser registrada
    de modo a ser tão etiologicamente específica quanto possível.
 * A história deve ser tão completa e precisa
