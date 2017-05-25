@@ -34,3 +34,15 @@ SNP silencioso dentro de genes: não tem efeito aparentemente no fenótipo. **Ma
 
 VNTR = Número variável de repetições em _tandem._
 
+99,9% do DNA humano é igual. 0,1 % do DNA de DNA humano é diferente em diferentes humanos. Cerca de 3 milhões de pares de bases. São extremamente polimórficos.
+
+Minissatélite - repetições em Tandem \(15 a 100 nucleotídeos\)
+
+Microssatélites ----//---- 
+
+---
+
+#### Caso Família Davies
+
+
+
