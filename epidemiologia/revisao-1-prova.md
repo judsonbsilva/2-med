@@ -170,23 +170,61 @@ Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses segu
 
 ---
 
-
-
 Medidas de morbidade expressam a  frequência das doenças e agravos à saúde em uma população
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência  
+**
 
-
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência**
-
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência**
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência  
+**
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
 
 Epidemias de alta letalidade: altos coeficientes de incidência, baixa duração: prevalência &lt; incidência
 
 Doenças crônicas de baixa letalidade: longa duração: prevalência &gt; incidência
+
+---
+
+### Declaração de Óbito
+
+Padronizado pelo SIM. Em vigor desde 1999. Anteriormente chamado de "Atestado de Óbito".
+
+Tem papel importante como fonte de dados sobre a saúde da população. O governo usa informações para utilizar no gerenciamento das ações de saúde.
+
+Ministério da Saúde imprime e envia aos estados, SESAPI distribui para os municípios, FMS distribui às unidades de saúde.
+
+**Fatores que prejudicam a qualidade da informação**
+
+* Sub-registro
+* Digitação Incorreta
+* Preenchimento incorreto
+  * Variáveis ignoradas
+  * Causas mal definidas
+
+**Propósitos**
+
+* Monitorar índices de morbidade e mortalidade da população
+* Planejar políticas de saúde
+* Implementar e monitorar estratégias de saúde pública
+* Fornecer a base de mudanças legislativas
+* Priorizar despesas com a saúde
+* Financiar pesquisas e trabalhos científicos
+
+**Causas da Morte**:
+
+* Natural: Causa básica é uma doença ou estado mórbido
+* Causa externa \(não-natural\): É aquela que decorre de lesão provocada por violência, qualquer que tenha sido o tempo entre o evento lesivo e a morte.
+
+**Causa Básica da Morte:  **A doença ou afecção que iniciou a cadeia de acontecimentos patológicos que conduziram diretamente à morte ou as circunstâncias do acidente ou violência que produxiu a lesão fatal.
+
+**Causa Imediata da Morte: **É a doença, lesão ou complicação que ocorreu próximo ao momento da morte.
+
+**Causa Intermediária da Morte:** Doença, lesão, complicação que ocorreu em algum momento entre a causa básica e a causa imediata da morte.
+
+
 
 
 
