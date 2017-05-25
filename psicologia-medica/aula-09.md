@@ -15,6 +15,7 @@ Quanto ao curso do pensamento, as alterações podem ser quantitativas:
 * Acelerado
 * Alentecido
 * Interrompido
+  * Uma alteração na consciência da atividade do eu poderia ocasionar em pausas no curso do pensamento devido a impressão de um controle externo 
 
 Qualitativas
 
