@@ -19,5 +19,5 @@ Surgimento da classe operária, instalação da contradição, com posterior rei
 * 1923 - CAP dos Ferroviários
 * 1926 - Portuários e Marítmos  
 
-Marco inicial da Previdência Social no Brasil. As CAP's funcionavam por instituição, o financiamento é bipartide feita pelo trabalhador e empregado e a gestão é feita pela empresa.
+Marco inicial da Previdência Social no Brasil. As CAP's funcionavam por instituição, o financiamento é bipartide, feita pelo trabalhador e empregado, e a gestão é feita pela empresa.
 
