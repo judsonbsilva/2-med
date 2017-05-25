@@ -28,5 +28,9 @@ Em células normais privadas de O² ou expostas a tratamentos que lesionam o DNA
 
 **IMPORTANTE! REVISAR LOD\(Z\)! MARCADOR RFLP! QUI-QUADRADO! **
 
+SNP = Snip. Polimorfismo de nucleotídeo único.
 
+SNP silencioso dentro de genes: não tem efeito aparentemente no fenótipo. **Marcador**.
+
+VNTR = Número variável de repetições em _tandem. _
 
