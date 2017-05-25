@@ -103,6 +103,10 @@ Mede a proporção de óbitos de pessoas com 50 anos ou mais em relação ao tot
 >   
 > Por convenção, nas taxas de mortalidade geral e infantil a base é 10³, porém para CMC o mais adequado é 10^5. CL é expressa em porcentagem
 
+---
+
+#### Mortalidade Materna
+
 **Morte materna: **Morte da mulher durante a gestação ou dentro de um período de 42 dias após o término da gestação.
 
 **Morte obstétrica direta: **Resultante de complicações na gravidez, parto e puerpério \( Até 42 dias de puerpério \)
@@ -121,15 +125,18 @@ Mede a proporção de óbitos de pessoas com 50 anos ou mais em relação ao tot
 
 **CMM é importante para estudos epidemiológicos!**
 
+---
 
+#### Mortalidade Infantil
 
+**Morte infantil**: É ocorrida no primeiro ano de vida  
+Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses seguintes\)
 
+**Coenficiente de Mortalidade Infantil \(CMI\): **Mede o risco de morte para crianças menores de um ano em dado local e período.
 
+\(N. de mortes infantis em dado local e período / N. de nascidos vivos no mesmo local e período \) x 1000
 
-
-
-
-
+> Índices altos são frequentes em regiões pobres e estão relacionados a: falta de assistência e de orientação às grávidas, deficiência na assistência hospitalar aos recém-nascidos, ausência de saneamento básico e desnutrição.
 
 
 
