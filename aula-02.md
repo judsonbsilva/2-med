@@ -37,5 +37,9 @@ Revolução dos meios de produção com surgimento das repartição da linha de 
 * Hospital beneficente ou filantrópico
 * Hospital lucrativo \(empresas médicas\)
 
+**Criação dos IAP's** \(Institutos de Aposentadorias e Pensões\)
 
+Por categorias: marítimos \(IAPM\), comerciários \(IAPC\), bancários \(IAPB\) etc...
+
+Financiamento: 3 entes \(Estado entra\). Gerenciamento estatal.
 
