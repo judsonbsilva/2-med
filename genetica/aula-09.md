@@ -44,8 +44,12 @@ Microssatélites ----//----
 
 #### Caso Família Davies
 
-Criança com DMD, Distrofia muscular de Duchaine. Herança recessiva ligada ao X.   
-Gene Imenso 99,3% \(íntrons\) 79 éxons.
+Criança com DMD, Distrofia muscular de Duchaine. Herança recessiva ligada ao X.  
+Gene Imenso 99,3% \(íntrons\) 79 éxons.  
+2/3 de DMD apresenta deleções parceais do gene.  
+1/3 mutações pontuais e duplicações.
+
+Nos meninos, o teste de mutações para éxons ausentes fica claro.
 
 
 
