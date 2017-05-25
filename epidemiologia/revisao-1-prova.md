@@ -7,11 +7,13 @@ Etimologicamente "epidemiologia" seria a junção do radical "epi" \(sobre, a ci
 
 PEREIRA, 1995 - Ramo das ciências da saúde que estuda, na população, a ocorrência, a distribuição e os fatores determinantes dos eventos relacionados com a saúde.
 
-**Endemia: **É a presenta contínua de uma enfermidade ou de um agente infeccioso dentro de uma zona geográfica determinada
+**Endemia: **É a presença contínua de uma enfermidade ou de um agente infeccioso dentro de uma zona geográfica determinada
 
 **Hiperendemia:** Transmissão intensa e persistente
 
 **Holoendemia: ** Um nível elevado de infecção que começa a partir de uma idade precoce e afeta maior parte da população de uma determinada área, como, por exemplo, a malária em algumas regiões do globo.
+
+**Endemia sazonal: **Ocorre aumento de incidência endêmica em dado período, local e endemia específica.
 
 **Epidemia**: É a manifestação, em uma coletividade ou região, de um grupo de casos de alguma enfermidade que excede claramente a incidência prevista. O número de casos que indica uma epidemia varia com o agente infeccioso.
 
@@ -174,10 +176,10 @@ Medidas de morbidade expressam a  frequência das doenças e agravos à saúde e
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência              
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência                
 **
 
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência              
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência                
 **
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
