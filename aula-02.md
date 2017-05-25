@@ -10,9 +10,9 @@ Chegada da família real pós-fuga de Napoleão na invasão de Portugual. Surtos
 
 #### República Velha \(1889 - 1930\)
 
-Febre amarela, Varíola, Tuberculose, Sífilis, Endemias rurais. 
+Febre amarela, Varíola, Tuberculose, Sífilis, Endemias rurais.
 
 A obrigatoriedade da vacinação causou resistência pela população culminando na revolta da vacina. No cenário político-econômico há a instalação do capitalismo no Brasil. Excedente econômico, primeiras indústrias, investimento estrangeiro.
 
-Surgimento da classe operária com posterior reinvidicação pelos direitos trabalhistas. 
+Surgimento da classe operária, instalação da contradição, com posterior reinvidicação pelos direitos trabalhistas.
 
