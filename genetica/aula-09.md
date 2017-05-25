@@ -1,4 +1,4 @@
-25/05/17 - Aula 9 - **Genética Médica**
+25/05/17 - Aula 10 - **Genética Médica**
 
 ---
 
@@ -28,5 +28,5 @@ Em células normais privadas de O² ou expostas a tratamentos que lesionam o DNA
 
 **IMPORTANTE! REVISAR LOD\(Z\)! MARCADOR RFLP! QUI-QUADRADO! **
 
-Marcador RFLP
+
 
