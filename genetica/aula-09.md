@@ -51,5 +51,7 @@ Gene Imenso 99,3% \(íntrons\) 79 éxons.
 
 Nos meninos, o teste de mutações para éxons ausentes fica claro. Mães portadores ficam mascarados pelos éxons presentes no cromossomo normal, pois assume-se que ela é heterozigota.
 
-Usa-se uma PCR para amplificar a região a ser analisada, dado que o tamanho dos éxons tem menos de pb.
+Usa-se uma PCR para amplificar a região a ser analisada, dado que o tamanho dos éxons tem menos de 300pb. Dentre os 79 éxons no gene, tem-se pela literatura que 18 éxons são os mais afetados \(98% dos casos\).
+
+
 
