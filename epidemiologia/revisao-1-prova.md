@@ -132,11 +132,23 @@ Mede a proporção de óbitos de pessoas com 50 anos ou mais em relação ao tot
 **Morte infantil**: É ocorrida no primeiro ano de vida  
 Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses seguintes\)
 
-**Coenficiente de Mortalidade Infantil \(CMI\): **Mede o risco de morte para crianças menores de um ano em dado local e período.
+**Coeficiente de Mortalidade Infantil \(CMI\): **Mede o risco de morte para crianças menores de um ano em dado local e período.
 
 \(N. de mortes infantis em dado local e período / N. de nascidos vivos no mesmo local e período \) x 1000
 
 > Índices altos são frequentes em regiões pobres e estão relacionados a: falta de assistência e de orientação às grávidas, deficiência na assistência hospitalar aos recém-nascidos, ausência de saneamento básico e desnutrição.
 
+**Coeficiente de Natalidade: \(**N. de nascimentos / População da área\) x 1000 
 
+**Aborto**: É a expulsão ou extração de um embrião ou feto pesando menos de 500g.
+
+**Natimorto**: Nasce pesando mais de 500g mas sem evidência de vida.
+
+**Período Neonatal: **4 primeiras semanas de vida \(0 a 28 dias incompletos\).
+
+**Morte Neonatal Precoce: **Antes de sete dias completos
+
+**Morte Neonatal Tardia:  &gt;= 7 e &lt;= 28 dias**
+
+** **
 
