@@ -26,7 +26,7 @@ Em células normais privadas de O² ou expostas a tratamentos que lesionam o DNA
 
 ---
 
-**IMPORTANTE! REVISAR LOD\(Z\)! MARCADOR RFLP! QUI-QUADRADO! **
+**IMPORTANTE! REVISAR LOD\(Z\)! MARCADOR RFLP! QUI-QUADRADO \(só usado em grande quantidade\)! **
 
 SNP = Snip. Polimorfismo de nucleotídeo único.
 
@@ -38,11 +38,14 @@ VNTR = Número variável de repetições em _tandem._
 
 Minissatélite - repetições em Tandem \(15 a 100 nucleotídeos\)
 
-Microssatélites ----//---- 
+Microssatélites ----//----
 
 ---
 
 #### Caso Família Davies
+
+Criança com DMD, Distrofia muscular de Duchaine. Herança recessiva ligada ao X.   
+Gene Imenso 99,3% \(íntrons\) 79 éxons.
 
 
 
