@@ -170,5 +170,25 @@ Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses segu
 
 ---
 
-![](/assets/xablau.png)
+
+
+Medidas de morbidade expressam a  frequência das doenças e agravos à saúde em uma população
+
+Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
+
+
+
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência**
+
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência**
+
+Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
+
+Epidemias de alta letalidade: altos coeficientes de incidência, baixa duração: prevalência &lt; incidência
+
+Doenças crônicas de baixa letalidade: longa duração: prevalência &gt; incidência
+
+
+
+
 
