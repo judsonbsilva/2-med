@@ -25,3 +25,7 @@ Marco inicial da Previdência Social no Brasil. As CAP's funcionavam por institu
 
 Envolve apenas a parcela trabalhadora do país.
 
+### Era Vargas \(1930-1960\)
+
+Predomínio das doenças da pobreza \(DIP\) e aparecimento das doenças da modernidade. Início da transição demográfica: envelhecimento da população.
+
