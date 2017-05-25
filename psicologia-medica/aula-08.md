@@ -12,7 +12,7 @@
 
 Geralmente secundário a algum tipo de trauma.
 
-**Quanto ao tempo      
+**Quanto ao tempo        
 **No momento em que houve o agente causador
 
 * Anterógrado: Dificuldade de fixação
@@ -33,7 +33,7 @@ Acromnésia: Gatilho de memória.
 
 ---
 
-**PS: Condicionante operante  
+**PS: Condicionante operante    
 **Reforço positivo - recompensa para continuar mantendo a atitude.  
 Reforço negativo - recompensa ou repreensão pra evitar um hábito
 
