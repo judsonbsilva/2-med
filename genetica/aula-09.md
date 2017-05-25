@@ -14,5 +14,5 @@ Os tumores que se desenvolvem mostram, em sua maioria, uma perda da heterozigoze
 
 Via de sinalização TGFb. Responsável por inibir a proliferação celular. Há genes dessa via que, quando mutados, ocasionam em câncer.
 
-Rb.
+Gene da proteína p16, E2F e Rb. Com a proteína Rb ativa o tempo inteiro, a célula entra no cíclo celular sem parar.
 
