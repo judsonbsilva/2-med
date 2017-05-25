@@ -174,10 +174,10 @@ Medidas de morbidade expressam a  frequência das doenças e agravos à saúde e
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência      
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência        
 **
 
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência      
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência        
 **
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
@@ -191,8 +191,6 @@ Doenças crônicas de baixa letalidade: longa duração: prevalência &gt; incid
 ### História Natural da Doença
 
 É a evolução ao longo do tempo de uma doença não tratada. Interação de fatores relacionados ao agente patogênico, ao hospedeiro suscetível e ao meio ambiente, que condicionam o aparecimento das doenças e sua evolução.
-
-
 
 Por ex: IAM -&gt; Manifestação inicial da doença \( Fatores: hereditariedade, estresse, tabagismo, sedentarismo, obesidade \)
 
@@ -215,7 +213,42 @@ Generalização da HND
 
 ![](/assets/hnd2.png)
 
+**Períodos da HND:**
 
+* Período pré-patogênese
+  * Período de suscetibilidade
+  * Antes de adoecer
+  * Interação preliminar entre agentes potencialmente patogênicos
+  * Hospereiros
+  * Fatores ambientais
+
+    * Físicos
+
+      * Poluentes atmosféricos
+
+      * Fumaça de cigarro
+
+      * Agrotóxicos
+
+      * Aditivos alimentares carcinogênicos
+
+    * Biológicos
+
+      * Insetos vetores de doenças
+
+      * Agente etiológicos
+
+        * Vírus
+
+        * Bactérias
+
+        * Protozoários
+
+        * Helmintos
+
+  * Fatores econômicos, socioculturais, genéticos
+* Patogênese
+  * Doenças presente mesmo de forma subclínica
 
 ---
 
@@ -274,11 +307,16 @@ DEIXAR DE ATESTAR ÓBITO DE PACIENTE AO QUAL VINHA PRESTANDO ASSISTÊNCIA, EXCET
 
 **No preenchimento:**
 
-* Deve existir somente UMA causa básica da   morte a ser relatada.
-* A causa básica da morte é da maior   importância tanto médica, como jurídica e   epidemiológica. \[Lembre-se: É a última linha
+* Deve existir somente UMA causa básica da
+   morte a ser relatada.
+* A causa básica da morte é da maior
+   importância tanto médica, como jurídica e
+   epidemiológica. \[Lembre-se: É a última linha
 * da Parte I.\]
-* A causa básica da morte deve ser registrada   de modo a ser tão etiologicamente específica quanto possível.
-* A história deve ser tão completa e precisa   quanto possível
+* A causa básica da morte deve ser registrada
+   de modo a ser tão etiologicamente específica quanto possível.
+* A história deve ser tão completa e precisa
+   quanto possível
 
 ---
 
