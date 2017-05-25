@@ -19,7 +19,7 @@ PEREIRA, 1995 - Ramo das ciências da saúde que estuda, na população, a ocorr
 
 **Incidência: **É a intensidade com que  estão surgindo novos doentes em uma determinada população.
 
-**Coeficiente de incidência: \( **N. de casos NOVOS da doença / N. de pessoas expostas ao risco\) x 10 ^ k
+**Coeficiente de incidência ou Coeficiente de Ataque: \( **N. de casos NOVOS da doença / N. de pessoas expostas ao risco\) x 10 ^ k
 
 Ex: Numa escola há 100 alunos, entra um aluno novato com catapora, na semana seguinte aparecem 8 alunos doentes. A incidência de casos é igual aos 8/101 = 0.079 x 100  -&gt;  7,9 em 100
 
@@ -168,5 +168,7 @@ Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses segu
 
 \(N. de óbtos de um dado grupo etário e local do ano / População da área ajustada para o meio do ano \) x 100 mil
 
+---
 
+![](/assets/xablau.png)
 
