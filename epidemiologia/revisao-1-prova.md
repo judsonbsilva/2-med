@@ -138,7 +138,7 @@ Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses segu
 
 > Índices altos são frequentes em regiões pobres e estão relacionados a: falta de assistência e de orientação às grávidas, deficiência na assistência hospitalar aos recém-nascidos, ausência de saneamento básico e desnutrição.
 
-**Coeficiente de Natalidade: \(**N. de nascimentos / População da área\) x 1000 
+**Coeficiente de Natalidade: \(**N. de nascimentos / População da área\) x 1000
 
 **Aborto**: É a expulsão ou extração de um embrião ou feto pesando menos de 500g.
 
@@ -150,5 +150,23 @@ Dividi-se em neonatal \( 28 dias incompletos \) e pós-neonatal \(nos meses segu
 
 **Morte Neonatal Tardia:  &gt;= 7 e &lt;= 28 dias**
 
-** **
+**Coeficiente de Mortalidade Neonatal = **\(N. de mortes neonatais / N. nascidos vivos \) x 1000
+
+**Coeficiente de Mortalidade Neonatal Tardia **= \(N. de mortes &gt;= 28 dias e &lt; 1 ano / N. de nascidos vivos \) x 1000
+
+**Período Perinatal: **A partir de 22 semanas completas \( Peso em torno de 500g \)
+
+**Coeficiente de Mortalidade Perinatal**: \(N. de natimortos + N. de Óbitos de ciranças até sete dias de vida / Número total de nascimentos vivos e mortos\) x 1000
+
+---
+
+**CMG:** **Taxa de mortalidade proporcional**
+
+\(N. óbtos por causa específica / Total de óbtos\) x 100
+
+**CPId: Coeficiente de mortalidade específico por idade**
+
+\(N. de óbtos de um dado grupo etário e local do ano / População da área ajustada para o meio do ano \) x 100 mil
+
+
 
