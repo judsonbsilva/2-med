@@ -4,7 +4,7 @@
 
 #### República Velha \(1889 - 1930\)
 
-
+Mercantilismo com tentativa de expansão de mercado com as grandes navegações.
 
 
 
