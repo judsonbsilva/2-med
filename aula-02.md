@@ -43,7 +43,7 @@ Por categorias: marítimos \(IAPM\), comerciários \(IAPC\), bancários \(IAPB\)
 
 Financiamento: 3 entes \(Estado entra\). Gerenciamento estatal.
 
-### Ditadura Militar \(1964\)
+### Ditadura Militar \(1964-1984\)
 
 Condições da saúde continuam críticas: aumento da mortalidade infantil, tuberculose, malária, Chagas, acidentes de trabalho, etc. Predomínio de doenças da modernidade e ainda presença ainda das DIP.
 
@@ -51,5 +51,5 @@ Tipos de doenças \(3\): crônicas, contagiosas, causas externas e violência.
 
 Paradigma: preceito estabelecido que funciona como verdade em dado tempo.
 
-Em 1966 unificação dos IAP's no INPS \(Instituto Nacional de Previdência Social\). 
+Em 1966 unificação dos IAP's no INPS \(Instituto Nacional de Previdência Social\).
 
