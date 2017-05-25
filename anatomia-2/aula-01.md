@@ -145,5 +145,3 @@ Vascularização da língua:
 
 
 
-
-

@@ -5,7 +5,7 @@
 
 Estrutura do** pavilhão da orelha**:  
 Trago, incisura antitrágica, antitrgao, antélice e ramos da antélice, concha, fossa triangular, escafa, lóbulo, hélice.  
-É irrigada pelas **Aa. auricular post. e temporal superficial.                                        
+É irrigada pelas **Aa. auricular post. e temporal superficial.                                          
 **Drenagem linfática: Linfonodos parotídeos superficiais, mastóideos, cervicais profundos.
 
 #### Meato acústico externo
@@ -46,7 +46,7 @@ Vão da mem. timp. até a **janela do vestíbulo. **
 
 Contém o **órgão vestibulococlear, **embutido na parte petrosa do temporal,** **relacionado com recepção dos sons e a manutenção do equilíbrio.
 
-L**abirinto Ósseo**
+**Labirinto Ósseo**
 
 É formado pela** cóclea, vestíbulo e canais semicirculares.** Contidos na **cápsula ótica** da parte petrosa do temporal. O LABIRINTO ÓSSEO É A PARTE CHEIA DE PERILINFA CIRCUNDADA PELA CÁPSULA ÓTICA.
 
@@ -76,8 +76,4 @@ Os **ductos semicirculares **abrem-se para o utrículo através de 5 aberturas. 
 **MÁCULAS: **Epitélios sensitivo especializado \(células ciliadas\), inervados pelo N. vestibulococlear.
 
 **Meato acústico interno: **Por onda passam o N. Facial e o N. vestibulococlear. \(póro acústico interno\).
-
-
-
-
 
