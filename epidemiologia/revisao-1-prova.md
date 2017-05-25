@@ -174,10 +174,10 @@ Medidas de morbidade expressam a  frequência das doenças e agravos à saúde e
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência  
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência    
 **
 
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência  
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência    
 **
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
@@ -224,7 +224,16 @@ Ministério da Saúde imprime e envia aos estados, SESAPI distribui para os muni
 
 **Causa Intermediária da Morte:** Doença, lesão, complicação que ocorreu em algum momento entre a causa básica e a causa imediata da morte.
 
+**Fontes de informações:**
 
+* Registros médicos no prontuário do paciente
+* O médico assistente e/ou médico que fez a constatação
+* Relatório de necrópsia \( se disponível \)
+* Outras fontes que tenham conhecimento da história médica ou pessoal do falecido
+
+É VEDADO AO MÉDICO ATESTAR ÓBITO QUANDO NÃO O TENHA VERIFICADO PESSOALMENTE, OU QUANDO NÃO TENHA PRESTADO ASSISTÊNCIA AO PACIENTE, SALVO NO ÚLTIMO CASO, SE O FIZER COMO PLANTONISTA, MÉDICO SUBSTITUTO OU EM CASO DE NECROPSIA E VERIFICAÇÃO MÉDICO-LEGAL.
+
+DEIXAR DE ATESTAR ÓBITO DE PACIENTE AO QUAL VINHA PRESTANDO ASSISTÊNCIA, EXCETO QUANDO HOUVER INDÍCIOS DE MORTE VIOLENTA.
 
 
 
