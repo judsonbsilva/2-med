@@ -21,3 +21,7 @@ Surgimento da classe operária, instalação da contradição, com posterior rei
 
 Marco inicial da Previdência Social no Brasil. As CAP's funcionavam por instituição, o financiamento é bipartide, feita pelo trabalhador e empregado, e a gestão é feita pela empresa. A saúde do país iniciou-se voltada para o trabalhador.
 
+#### Segundo modelo de saúde: médico-assistencialista
+
+
+
