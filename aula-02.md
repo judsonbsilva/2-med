@@ -25,5 +25,3 @@ Marco inicial da Previdência Social no Brasil. As CAP's funcionavam por institu
 
 Envolve apenas a parcela trabalhadora do país.
 
-
-
