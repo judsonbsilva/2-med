@@ -14,5 +14,10 @@ Febre amarela, Varíola, Tuberculose, Sífilis, Endemias rurais.
 
 A obrigatoriedade da vacinação causou resistência pela população culminando na revolta da vacina. No cenário político-econômico há a instalação do capitalismo no Brasil. Excedente econômico, primeiras indústrias, investimento estrangeiro.
 
-Surgimento da classe operária, instalação da contradição, com posterior reinvidicação pelos direitos trabalhistas.
+Surgimento da classe operária, instalação da contradição, com posterior reinvidicação pelos direitos trabalhistas. Lei Eloy Chaves 1923 criação e organização das CAP's.
+
+* 1923 - CAP dos Ferroviários
+* 1926 - Portuários e Marítmos  
+
+Marco inicial da Previdência Social no Brasil.
 
