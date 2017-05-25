@@ -31,3 +31,11 @@ Predomínio das doenças da pobreza \(DIP\) e aparecimento das doenças da moder
 
 Revolução dos meios de produção com surgimento das repartição da linha de produção.
 
+**Fracionamento da assistência**
+
+* Medicina liberal
+* Hospital beneficente ou filantrópico
+* Hospital lucrativo \(empresas médicas\)
+
+
+
