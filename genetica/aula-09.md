@@ -14,5 +14,5 @@ Os tumores que se desenvolvem mostram, em sua maioria, uma perda da heterozigoze
 
 Via de sinalização TGFb. Responsável por inibir a proliferação celular. Há genes dessa via que, quando mutados, ocasionam em câncer.
 
-
+Rb.
 
