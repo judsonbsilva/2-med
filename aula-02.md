@@ -43,3 +43,9 @@ Por categorias: marítimos \(IAPM\), comerciários \(IAPC\), bancários \(IAPB\)
 
 Financiamento: 3 entes \(Estado entra\). Gerenciamento estatal.
 
+### Ditadura Militar \(1964\)
+
+Condições da saúde continuam críticas: aumento da mortalidade infantil, tuberculose, malária, Chagas, acidentes de trabalho, etc. Predomínio de doenças da modernidade e ainda presença ainda das DIP. 
+
+
+
