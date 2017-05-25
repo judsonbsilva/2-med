@@ -174,10 +174,10 @@ Medidas de morbidade expressam a  frequência das doenças e agravos à saúde e
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência          
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência            
 **
 
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência          
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência            
 **
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
@@ -250,7 +250,84 @@ Generalização da HND
   * Fatores econômicos, socioculturais, genéticos
 
 * Patogênese
+
   * Doenças presente mesmo de forma subclínica
+  * Sinais e sintomas: evoluem para cura, cronicidade, invalidez ou morte
+  * Possui duas fases
+    * Pré-clínica
+    * Clínica
+
+#### Prevenção
+
+Em saúde pública: Ação antecipada para evitar ocorrência de doenças ou interceptar sua evolução.
+
+HND: Permite conhecer os fatores envolvidos para atuar sobre eles.
+
+**Objetivos:**
+
+1. Evitar a ocorrência da doença
+2. Reduzir intensidade e duração dos danos provocados
+3. Evitar a disseminação das doenças
+4. Evitar defeitos \(sequelas\)
+5. Evitar o óbito
+
+**Classificação:**
+
+* Primária
+  * Período pré-patogênico
+  * Interceptar fatores causadores ou predisponentes
+* Secundária
+  * Período patogênico
+  * Curar ou evitar complicações e sequelas
+* Terciária
+  * Período patogênico
+  * Depois de instaladas sequelas \(reabilitação\)
+
+#### Prevenção Primária
+
+Promoção da saúde: medidas de ordem geral ou proteção específica: medidas para prevenir doenças ou grupos de doenças específicos.
+
+**Promoção da saúde**
+
+* Habitação e alimentação adequadas
+* Educação
+* Emprego e salários adequados
+* Saneamento básico
+* Áreas de lazer
+
+**Proteção específica**
+
+* Vacinação
+* Exame pré-natal
+* Proteção contra acidentes
+* Proteção contra riscos ocupacionais
+* Controle de vetores
+  * Ex: mosquito da dengue, barbeiro
+* Proteção Individual
+  * Botas, luvas
+  * Telas, repelentes
+
+#### Prevenção Secundária
+
+Diagnóstico e tratamento precoces, curar completa quando possível. Evitar a disseminação da doença. Detectar doenças em fase pré-clínica. Limitação do dano.
+
+**Diagnóstico e Tratamento Precoce**
+
+* Exames médicos periódicos \(screening\). Subgrupos da população sob maior risco \(CA, HAS, DM\)
+* Inquéritos para descoberta de casos
+* Isolamento e tratamento de pacientes com doenças transmissíveis
+
+**Limitação da Incapacidade**
+
+* Facilitar acesso dos doentes aos serviços de saúde
+* Tratamento médico ou cirúrgico adequados
+* Hospitalização quando necessário
+
+#### Prevenção Terciária
+
+Reabilitação: impedir a incapacidade total. Fisioterapia. Terapia ocupacional. Reintegração do reabilitado na família, sociedade e trabalho.
+
+![](/assets/prevencao.png)
 
 ---
 
