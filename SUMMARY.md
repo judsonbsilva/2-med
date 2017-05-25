@@ -41,6 +41,7 @@
   * [Aula 03](epidemiologia/aula-03.md)
   * [Aula 04](epidemiologia/aula-04.md)
   * [Aula 05](epidemiologia/aula-05.md)
+  * [Revisão 1ª Prova](epidemiologia/revisao-1-prova.md)
 * [Embriologia](embriologia.md)
   * [Aula 01](embriologia/aula-01.md)
   * [Aula 02](embriologia/aula-02.md)
