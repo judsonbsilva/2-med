@@ -5,7 +5,7 @@
 Etimologicamente "epidemiologia" seria a junção do radical "epi" \(sobre, a cima de\), "demos" \(povo\), "logos" \(estudo\).  
 **"Ciência do que ocorre sobre o povo"**
 
-PEREIRA, 1995 - Ramo das ciências da saúde que estuda, na população, a ocorrência, a distribuição e os fatores determinantes dos eventos relacionados com a saúde.
+**PEREIRA, 1995** - Ramo das ciências da saúde que estuda, na população, a ocorrência, a distribuição e os fatores determinantes dos eventos relacionados com a saúde.
 
 **Endemia: **É a presença contínua de uma enfermidade ou de um agente infeccioso dentro de uma zona geográfica determinada
 
@@ -86,10 +86,20 @@ Mede o risco de morte por todas as causas
 
 \(N. de óbitos em dado local e período / População do mesmo local e período\) x 1000
 
+
+
 **CMC** = Coeficiente de Mortalidade por Causa  
 Mede o risco de morte de determinada causa
 
 \(N. de óbitos por dada doença, local e período / População exposta ao risco\) x 10 ^ n
+
+
+
+**CMP = **O percentual de mortes por dada causa em relação a todos os óbitos ocorridos em dado local e período
+
+\(N. de óbitos pela causa analisada na população / N. total de óbtidos na população\)
+
+
 
 **CL = **Coeficiente de Letalidade  
 Mede o poder da doença específica em determinar a morte e também informar sobre a qualidade da assistência médica prestada para esta doença
@@ -176,10 +186,10 @@ Medidas de morbidade expressam a  frequência das doenças e agravos à saúde e
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência                
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência                  
 **
 
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência                
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência                  
 **
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
