@@ -55,7 +55,7 @@ Em 1966 unificação dos IAP's no INPS \(Instituto Nacional de Previdência Soci
 
 1984 - Fim da ditadura
 
-1986 - 8ª Conferência da Saúde
+1986 - 8ª Conferência da Saúde Nacional
 
 1988 - Constituição Federal
 
