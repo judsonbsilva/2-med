@@ -22,5 +22,5 @@ Numa mutação do gene da proteíina Bcl2, por uma translocação cromossômica,
 
 Mutações no gene p53 permitem que as células cancerosas sobrevivam e proliferem apesar das lesões no DNA. Pois esse gene está relacionado à proliferação celular, estabilidade genética, apoptose, senescência celular replicativa.
 
-Em células normais privadas de O² ou expostas a tratamentos que lesionam o DNA, aumentam a concentração de p53. A proteína p53 estimula a celula à apoptose na presença de sinais como: hiperproliferação, lesão de DNA, encurtamento dos telômeros, hipoxia. O mecanismo de estímulo à apoptose se dá pelo aumenta da transcrição de genes de proteínas pró-apoptóticas.
+Em células normais privadas de O² ou expostas a tratamentos que lesionam o DNA, aumentam a concentração de p53. A proteína p53 estimula a celula à apoptose na presença de sinais como: hiperproliferação, lesão de DNA, encurtamento dos telômeros, hipoxia. O mecanismo de estímulo à apoptose se dá pelo aumenta da transcrição de genes de proteínas pró-apoptóticas.  \(Senescência, Apoptose, Detenção do ciclo celular \).
 
