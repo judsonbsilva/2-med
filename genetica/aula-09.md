@@ -26,7 +26,7 @@ Em células normais privadas de O² ou expostas a tratamentos que lesionam o DNA
 
 ---
 
-**IMPORTANTE! REVISAR LOD\(Z\)! **
+**IMPORTANTE! REVISAR LOD\(Z\)! MARCADOR RFLP! QUI-QUADRADO! **
 
 Marcador RFLP
 
