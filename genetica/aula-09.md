@@ -53,5 +53,11 @@ Nos meninos, o teste de mutações para éxons ausentes fica claro. Mães portad
 
 Usa-se uma PCR para amplificar a região a ser analisada, dado que o tamanho dos éxons tem menos de 300pb. Dentre os 79 éxons no gene, tem-se pela literatura que 18 éxons são os mais afetados \(98% dos casos\).
 
+Teve 3 deleções.
+
+Quando temos deleções de pares de bases em números múltiplos de 3 não há deslocamento na transcrição do gene, entretanto se apenas 1pb há um deslocamento na **fase de leitura. **
+
+Nesse caso quando há alteração da fase de leitura desenvolve-se DMD, quando não há, desenvolve-se BMD \(forma mais branda da síndrome\) 
+
 
 
