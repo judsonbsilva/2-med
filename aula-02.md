@@ -29,3 +29,5 @@ Envolve apenas a parcela trabalhadora do país.
 
 Predomínio das doenças da pobreza \(DIP\) e aparecimento das doenças da modernidade: hipertensão, depressão, cardiovasculares, VIOLÊNCIA. Início da transição demográfica: envelhecimento da população.
 
+Revolução dos meios de produção com surgimento das repartição da linha de produção.
+
