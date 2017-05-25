@@ -65,7 +65,7 @@ Em 1966 unificação dos IAP's no INPS \(Instituto Nacional de Previdência Soci
 
 1994 - Lançamento SUS
 
+Modelo vigente - SUS
 
-
-Modelo hegemônico de saúde vigente - Hospitalocêntrico
+Modelo hegemônico de saúde vigente - Biomédico Hospitalocêntrico
 
