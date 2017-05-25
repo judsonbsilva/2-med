@@ -67,3 +67,5 @@ Em 1966 unificação dos IAP's no INPS \(Instituto Nacional de Previdência Soci
 
 
 
+Modelo hegemônico de saúde vigente - Hospitalocêntrico
+
