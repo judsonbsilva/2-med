@@ -174,10 +174,10 @@ Medidas de morbidade expressam a  frequência das doenças e agravos à saúde e
 
 Estatísticas de morbidade: informações básicas para o controle de doenças ou agravos à saúde
 
-![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência        
+![](/assets/xablau.png)**Drogas que não promovem cura, mas aumentam a sobrevida: tendem a aumentar os coeficientes de prevalência          
 **
 
-**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência        
+**Drogas que diminuem a duração da doença: tendem a diminuir os coeficientes de prevalência          
 **
 
 Duração de uma doença é o intervalo médio de tempo desde o diagnóstico até a cura, óbito ou emigração do acometido
@@ -216,10 +216,11 @@ Generalização da HND
 **Períodos da HND:**
 
 * Período pré-patogênese
-  * Período de suscetibilidade
-  * Antes de adoecer
+
+  * Conjunto de fatores vinculados ao agente, hospedeiro e ambiente. Incluindo a multifatorialidade das doenças.
+  * Período de suscetibilidade, antes de adoecer
   * Interação preliminar entre agentes potencialmente patogênicos
-  * Hospereiros
+
   * Fatores ambientais
 
     * Físicos
@@ -247,6 +248,7 @@ Generalização da HND
         * Helmintos
 
   * Fatores econômicos, socioculturais, genéticos
+
 * Patogênese
   * Doenças presente mesmo de forma subclínica
 
