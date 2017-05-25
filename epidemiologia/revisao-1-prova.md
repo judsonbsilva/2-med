@@ -99,11 +99,37 @@ Mede a proporção de óbitos de pessoas com 50 anos ou mais em relação ao tot
 
 \(N. de óbitos \(pessoas &gt;= 50 anos\) em dado local e período / Total de óbitos no mesmo local e período  \) x 100
 
-
-
 > Para facilitar usam-se diferentes bases em cada índice para se chegar o mais próximo possível do inteiro.  
 >   
 > Por convenção, nas taxas de mortalidade geral e infantil a base é 10³, porém para CMC o mais adequado é 10^5. CL é expressa em porcentagem
+
+**Morte materna: **Morte da mulher durante a gestação ou dentro de um período de 42 dias após o término da gestação.
+
+**Morte obstétrica direta: **Resultante de complicações na gravidez, parto e puerpério \( Até 42 dias de puerpério \)
+
+**Morte obstétrica indireta: **Resultantes de doenças antes da gravidez ou de doenças que se desenvolvem durante a gravidex, não devidas a causas obstétricas diretas, mas que foram agravadas pelos efeitos fisiológicos da gravidez \( Até 42 dias de puerpério \)
+
+**Morte obstétrica tardia: **Direta ou indireta que ocorre num período superior a 42 dias e inferior a um ano após o término da gravidez. \(não é incluída no RMM\)
+
+**Morte materna não obstétrica: **Não relacionada à gravidez ou ao seu manejo \(não é incluída no RMM\).
+
+**Coeficiente de Mortalidade Materna \(CMM\)**: Mede o risco de morte materna num dado local e período.
+
+\(N. de mortes maternas em dado local e período / N. de nascidos vivos, no mesmo local e período\) x 100.000
+
+> A mortalidade materna continua sendo uma epidemia que atinge os países em desenvolvimento e, em especial, as mulheres de classe econômica menos favorecida
+
+**CMM é importante para estudos epidemiológicos!**
+
+
+
+
+
+
+
+
+
+
 
 
 
