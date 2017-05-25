@@ -17,7 +17,7 @@ PEREIRA, 1995 - Ramo das ciências da saúde que estuda, na população, a ocorr
 
 **Pandemia: **Epidemia de uma doença que afeta pessoas em muitos países.
 
-**Incidência: **É a intensidade com que  estão surgindo novos doentes em uma determinada população. 
+**Incidência: **É a intensidade com que  estão surgindo novos doentes em uma determinada população.
 
 **Coeficiente de incidência: \( **N. de casos NOVOS da doença / N. de pessoas expostas ao risco\) x 10 ^ k
 
@@ -25,13 +25,11 @@ Ex: Numa escola há 100 alunos, entra um aluno novato com catapora, na semana se
 
 **Prevalência: **É a quantidade de pessoas doentes num determinado período
 
-**Coeficiente de prevalência no período: **\( N. de casos de uma doença no período / População exposta naquele período \) 
+**Coeficiente de prevalência no período: **\( N. de casos de uma doença no período / População exposta naquele período \)
 
 > Doenças de longa duração, mesmo com baixa incidência, podem ter alta prevalência
 >
 > A prevalência tem como fatores de influência: casos existentes, casos novos, altas por cura, óbitos.  \(Durante período determinado\)
-
-
 
 **Epidemiologia Descritiva: **Põe em evidência as características da ocorrência das doenças nas populações. A partir dos dados formula hipóteses de trabalho para estudos analíticos.
 
@@ -39,13 +37,7 @@ Ex: Numa escola há 100 alunos, entra um aluno novato com catapora, na semana se
 
 > São importantes na busca da causa \(etiologia\) e o prognóstico \(evolução\) das doenças
 
-
-
-
-
 # A epidemiologia se constitui na principal ciência da informação em saúde e é considerada a ciência básica da  saúde coletiva.
-
-
 
 **Método Epidemiológico:**
 
@@ -100,16 +92,18 @@ Mede o risco de morte de determinada causa
 **CL = **Coeficiente de Letalidade  
 Mede o poder da doença específica em determinar a morte e também informar sobre a qualidade da assistência médica prestada para esta doença
 
-\(N. de óbitos por dada doença, local e período / N. de casos da doença em dado local e período\)
+\(N. de óbitos por dada doença, local e período / N. de casos da doença em dado local e período\) x 100
 
 **RMP = **Razão de Mortalidade Proporcional \( Indicador de Swaroop-Uemura \)  
 Mede a proporção de óbitos de pessoas com 50 anos ou mais em relação ao total de óbitos ocorridos em um dado local e período
 
-\(N. de óbitos \(pessoas &gt;= 50 anos\) em dado local e período / Total de óbitos no mesmo local e período  \)
+\(N. de óbitos \(pessoas &gt;= 50 anos\) em dado local e período / Total de óbitos no mesmo local e período  \) x 100
 
 
 
-
+> Para facilitar usam-se diferentes bases em cada índice para se chegar o mais próximo possível do inteiro.  
+>   
+> Por convenção, nas taxas de mortalidade geral e infantil a base é 10³, porém para CMC o mais adequado é 10^5. CL é expressa em porcentagem
 
 
 
