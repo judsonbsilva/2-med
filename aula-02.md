@@ -49,5 +49,5 @@ Condições da saúde continuam críticas: aumento da mortalidade infantil, tube
 
 Tipos de doenças \(3\): crônicas, contagiosas, causas externas e violência.
 
-Paradigma: preceito estabelecido que funciona como verdade em dado local e tempo.
+Paradigma: preceito estabelecido que funciona como verdade em dado tempo.
 
