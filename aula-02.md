@@ -51,3 +51,5 @@ Tipos de doenças \(3\): crônicas, contagiosas, causas externas e violência.
 
 Paradigma: preceito estabelecido que funciona como verdade em dado tempo.
 
+Em 1966 unificação dos IAP's no INPS \(Instituto Nacional de Previdência Social\).
+
