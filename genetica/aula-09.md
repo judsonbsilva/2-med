@@ -24,3 +24,9 @@ Mutações no gene p53 permitem que as células cancerosas sobrevivam e prolifer
 
 Em células normais privadas de O² ou expostas a tratamentos que lesionam o DNA, aumentam a concentração de p53. A proteína p53 estimula a celula à apoptose na presença de sinais como: hiperproliferação, lesão de DNA, encurtamento dos telômeros, hipoxia. O mecanismo de estímulo à apoptose se dá pelo aumenta da transcrição de genes de proteínas pró-apoptóticas.  \(Senescência, Apoptose, Detenção do ciclo celular \).
 
+---
+
+**IMPORTANTE! REVISAR LOD\(Z\)! **
+
+Marcador RFLP
+
