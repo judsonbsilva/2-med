@@ -45,7 +45,9 @@ Financiamento: 3 entes \(Estado entra\). Gerenciamento estatal.
 
 ### Ditadura Militar \(1964\)
 
-Condições da saúde continuam críticas: aumento da mortalidade infantil, tuberculose, malária, Chagas, acidentes de trabalho, etc. Predomínio de doenças da modernidade e ainda presença ainda das DIP. 
+Condições da saúde continuam críticas: aumento da mortalidade infantil, tuberculose, malária, Chagas, acidentes de trabalho, etc. Predomínio de doenças da modernidade e ainda presença ainda das DIP.
+
+Tipos de doenças \(3\): crônicas, contagiosas, causas externas e violência.
 
 
 
