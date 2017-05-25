@@ -1,19 +1,51 @@
 ### Epidemiologia
 
-#### Conceitos
+#### Conceitos & Usos
 
 Etimologicamente "epidemiologia" seria a junção do radical "epi" \(sobre, a cima de\), "demos" \(povo\), "logos" \(estudo\).  
 **"Ciência do que ocorre sobre o povo"**
 
 PEREIRA, 1995 - Ramo das ciências da saúde que estuda, na população, a ocorrência, a distribuição e os fatores determinantes dos eventos relacionados com a saúde.
 
+**Endemia: **É a presenta contínua de uma enfermidade ou de um agente infeccioso dentro de uma zona geográfica determinada
+
+**Hiperendemia:** Transmissão intensa e persistente
+
+**Holoendemia: ** Um nível elevado de infecção que começa a partir de uma idade precoce e afeta maior parte da população de uma determinada área, como, por exemplo, a malária em algumas regiões do globo.
+
+**Epidemia**: É a manifestação, em uma coletividade ou região, de um grupo de casos de alguma enfermidade que excede claramente a incidência prevista. O número de casos que indica uma epidemia varia com o agente infeccioso.
+
+**Pandemia: **Epidemia de uma doença que afeta pessoas em muitos países.
+
+**Incidência: **É a intensidade com que  estão surgindo novos doentes em uma determinada população. 
+
+**Coeficiente de incidência: \( **N. de casos NOVOS da doença / N. de pessoas expostas ao risco\) x 10 ^ k
+
+Ex: Numa escola há 100 alunos, entra um aluno novato com catapora, na semana seguinte aparecem 8 alunos doentes. A incidência de casos é igual aos 8/101 = 0.079 x 100  -&gt;  7,9 em 100
+
+**Prevalência: **É a quantidade de pessoas doentes num determinado período
+
+**Coeficiente de prevalência no período: **\( N. de casos de uma doença no período / População exposta naquele período \) 
+
+> Doenças de longa duração, mesmo com baixa incidência, podem ter alta prevalência
+>
+> A prevalência tem como fatores de influência: casos existentes, casos novos, altas por cura, óbitos.  \(Durante período determinado\)
+
+
+
+**Epidemiologia Descritiva: **Põe em evidência as características da ocorrência das doenças nas populações. A partir dos dados formula hipóteses de trabalho para estudos analíticos.
+
+**Epidemiologia Analítica: **Formula uma hipótese de trabalho e, utilizando-se métodos estatísticos, buscar a comprovação científica da hipótese formulada.
+
+> São importantes na busca da causa \(etiologia\) e o prognóstico \(evolução\) das doenças
+
+
+
+
+
 # A epidemiologia se constitui na principal ciência da informação em saúde e é considerada a ciência básica da  saúde coletiva.
 
-**Aplicações:**
 
-* Descrever as condições de saúde da população
-* Investigar os fatores determinantes da situação de saúde
-* Avaliar o impacto das ações para alterar a situação de saúde
 
 **Método Epidemiológico:**
 
@@ -21,115 +53,60 @@ PEREIRA, 1995 - Ramo das ciências da saúde que estuda, na população, a ocorr
 * Determinar as causas da ocorrência das doenças
 * Identificar os riscos epidemiológicos e as medidas de controle
 
-Objetivos da epidemiologia
+**Objetivo Geral: **Reduzir os problemas de saúde na população
 
-&lt;!--  
-br  
-{  
-mso-data-placement:same-cell;  
-}  
-table  
-{  
-mso-displayed-decimal-separator:"\.";  
-mso-displayed-thousand-separator:"\, ";  
-}  
-tr  
-{  
-mso-height-source:auto;  
-mso-ruby-visibility:none;  
-}  
-td  
-{  
-border:.5pt solid windowtext;  
-}  
-.NormalTable{cellspacing:0;cellpadding:10;border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid windowtext .75pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt; mso-border-insideh:.75pt solid windowtext;mso-border-insidev:.75pt solid windowtext}  
-.fontstyle0  
-{  
-	font-family:ArialMT;  
-	font-size:24pt;  
-	font-style:normal;  
-	font-weight:normal;  
-	color:rgb\(0,51,102\);  
-}  
-.fontstyle1  
-{  
-	font-size:12pt;  
-	font-style:normal;  
-	font-weight:normal;  
-	color:rgb\(0,0,0\);  
-}  
-.fontstyle2  
-{  
-	font-family:Tahoma;  
-	font-size:24pt;  
-	font-style:normal;  
-	font-weight:normal;  
-	color:rgb\(0,51,102\);  
-}  
---&gt;  
+**Objetivos Específicos:**
 
+* Identificar o agente causal ou fatores relacionados à causa dos agravos à saúde
+* Entender a causação dos agravos à saúde
+* Definir os modos de transmissão
+* Definir e determinar os fatores contribuintes aos agravos à saúde
+* Identificar e explicar os padrões de distribuição geográfica das doenças
+* Estabelecer os métodos e estratégias de controle dos agravos à saúde
+* Estabelecer medidas preventivas
+* Auxiliar o planejamento e desenvolvimento de serviços de saúde
+* Prover dados para a administração e avaliação de serviços de saúde
 
-•
+**Aplicações:**
 
-identificar o agente causal ou fatores relacionados à causa dos agravos à saúde;
+* Análise da situação de saúde
+* Identificação de perfis e fatores de risco
+* Avaliação epidemiológica de serviços
+* Vigilância em saúde pública
+* Descrever as condições de saúde da população
+* Investigar os fatores determinantes da situação de saúde
+* Avaliar o impacto das ações para alterar a situação de saúde
 
-  
+---
 
+### Mortalidade
 
-•
+Está sempre relacionada a indivíduos de um determinado território que morreram num dado intervalo do tempo, neste rerritório. Em epidemiologia pode-se calcular o coeficiente de mortalidade que indicará a probabilidade de uma pessoa de dada população morrer em decorrência de uma doença.
 
-entender a causação dos agravos à saúde;
+**SIM **= Sistema de Informação Sobre Mortalidade.
 
-  
+> De 1975. É produto da unificação de mais de quarenta modelos de instrumentos utilizados para coletar dados sobre mortalidade no país.
 
+**CMG** = Coeficiente de Mortalidade Geral  
+Mede o risco de morte por todas as causas
 
-•
+\(N. de óbitos em dado local e período / População do mesmo local e período\) x 1000
 
-definir os modos de transmissão;
+**CMC** = Coeficiente de Mortalidade por Causa  
+Mede o risco de morte de determinada causa
 
-  
+\(N. de óbitos por dada doença, local e período / População exposta ao risco\) x 10 ^ n
 
+**CL = **Coeficiente de Letalidade  
+Mede o poder da doença específica em determinar a morte e também informar sobre a qualidade da assistência médica prestada para esta doença
 
-•
+\(N. de óbitos por dada doença, local e período / N. de casos da doença em dado local e período\)
 
-definir e determinar os fatores contribuintes aos agravos à saúde;
+**RMP = **Razão de Mortalidade Proporcional \( Indicador de Swaroop-Uemura \)  
+Mede a proporção de óbitos de pessoas com 50 anos ou mais em relação ao total de óbitos ocorridos em um dado local e período
 
-  
+\(N. de óbitos \(pessoas &gt;= 50 anos\) em dado local e período / Total de óbitos no mesmo local e período  \)
 
-
-•
-
-identificar e explicar os padrões de distribuição geográfica das doenças;
-
-  
-
-
-•
-
-estabelecer os métodos e estratégias de controle dos agravos à saúde;
-
-  
-
-
-•
-
-estabelecer medidas preventivas;
-
-  
-
-
-•
-
-auxiliar o planejamento e desenvolvimento de serviços de saúde;
-
-  
-
-
-•
-
-prover dados para a administração e avaliação de serviços de saú
-
-  
 
 
 
