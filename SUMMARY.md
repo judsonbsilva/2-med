@@ -9,7 +9,7 @@
   * [Aula 05](chapter1/aula-05.md)
   * [Aula 06](chapter1/aula-06.md)
   * [Aula 07](chapter1/aula-07.md)
-  * [Revisão Músculo Liso](chapter1/revisao-musculo-liso.md)
+  * [Revisão Prova - 1](chapter1/revisao-prova-1.md)
 * [Genética Médica](genetica.md)
   * [Terminologia](genetica/terminologia.md)
   * [Aula 01](genetica/aula-1.md)
