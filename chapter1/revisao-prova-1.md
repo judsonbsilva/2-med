@@ -162,6 +162,14 @@ Não há uma degradação imediata após a liberação na fenda sináptica e, si
 
 São poucos, entretanto desempenham função importante na regulação do humor, sono e comportamento emocional. A serotonina \(5-HT\) é derivada do triptofano e sua síntese está ligada à disponibilidade de triptofano disponível no meio extracelular. O triptofano circulante é conseguido na dieta. A recaptação de serotonina está sujeita à ação de diversas drogas como a fluoxetina \( Prozac \).
 
+#### Neurônios Aminoacidérgicos
+
+Glutamato, Glicina e GABA servem como neurotransmissores em diversas vias do SNC. Desses, apenas o GABA não é um aminoácido primários na sintetização de proteínas, sendo encontrado em grandes quantidades apenas em neurônios GABAérgicos. 
+
+O glutamato é o principal neurotransmissor excitatório do SNC. O GABA é sintetizado a partir do glutamato pela enzima glutamato-descarboxilase \(GAD\), sendo o principal neurotransmissor inibidor do SNC. É metabolizado pela GABA transaminase.
+
+Sua recaptação é feito por co-transporte com Na+ pelo terminal pré-sináptico ou pelas células da glia.
+
 
 
 ---
