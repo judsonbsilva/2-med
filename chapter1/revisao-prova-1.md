@@ -210,7 +210,7 @@ Existe uma série de receptores que mantêm o **estímulo constante por um grand
 
 #### Transmissão e processamento de sinais em grupamentos neuronais
 
-A área neuronal estimulada por cada fibra nervosa aferente é chamada de **campo estimulatório**. Qualquer estímulo transmitido de um neurônio para o campo estimulatório de outro que esteja acima da limiar de terminações a ponto de causar a excitação do neurônio estimulado, chama-se **estímulo excitatório ou estímulo supralimiar. **Caso o estímulo do neurônio não seja suficiente para excitar o outro, chama-se **estímulo sublimiar** e os neurônios estão no **estado facilitado. **
+A área neuronal estimulada por cada fibra nervosa aferente é chamada de **campo estimulatório**. Qualquer estímulo transmitido de um neurônio para o campo estimulatório de outro que esteja acima da limiar de terminações a ponto de causar a excitação do neurônio estimulado, chama-se **estímulo excitatório ou estímulo supralimiar. **Caso o estímulo do neurônio não seja suficiente para excitar o outro, chama-se **estímulo sublimiar** e os neurônios estão no **estado facilitado. **O estímulo supralimiar chega até a **zona de descarga / zona excitada / zona limiar ** e os sublimiares chegam até a **zona facilitada / zona sublimiar. **
 
 ---
 
