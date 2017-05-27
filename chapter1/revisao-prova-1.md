@@ -100,7 +100,17 @@ O **córtex** é responsável principalmente pelo armazenamento de memórias, pr
 
 #### Tipos de sinapses
 
-A elétrica se dá através de junções gap e são pouco encontradas no SN. As químicas são medianas por neurotransmissores que ocorre de forma unidirecional com neurônios pré e pós sináptico. Em sinapses elétricas o sinal pode ser bidirecional. Geralmente ocorrem via junção axônio-dendrito em 80-95% dos casos. Os 5% restantes sedão pela ligação axônio-soma.
+A **elétrica **se dá através de junções gap e são pouco encontradas no SN. As **químicas **são medianas por neurotransmissores que ocorre de forma **unidirecional **com neurônios pré e pós sináptico. Em sinapses elétricas o sinal pode ser **bidirecional**. Geralmente ocorrem via junção axônio-dendrito em 80-95% dos casos. Os 5% restantes sedão pela ligação axônio-soma. Na membrana do neurônio pré-sináptico há grande quantidade de **canais de Ca+ dependentes de voltagem. **Suspeita-se que o mecanismo de liberação de neurotransmissores ocorra assim: Há uma despolarização do terminal pré-sináptico, Abrem-se os canais de Ca+, O Ca+ penetra no neurônio ligando-se à sítio de liberação, Vesículas liberam seus conteúdo através da membrana na fenda sináptica. Os receptores no terminal pós-sináptico podem acionar: canais iônicos ou mecanismo 2ª mensageiro.
+
+#### Canais iônicos
+
+No terminal pós-sináptico, os canais iônicos podem ser: catiônicos ou aniônicos . Os catiônicos são eletronegativos atraindo íons de Na+ que entram na célula quando os canais são abertos **despolarizando** a célula. Os aniônicos permitem entrada de íons cloreto, negativamente carregados, **polarizando **a célula. Se um transmissor estimula abertura de canais catiônios chama-se **transmissor excitatório**, se estimula canais aniônicos chama-se **transmissor inibitório.** 
+
+ 
+
+
+
+
 
 ---
 
