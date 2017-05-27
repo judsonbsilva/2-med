@@ -72,6 +72,8 @@ O tônus do simpático é mantido com colaboração da secreção basal na medul
 
 ### Sistema Nervoso Central
 
+_Guyton 45_
+
 Os neurônios são a unidade funcional básica. Cada neurônio geralmente recebe os sinais aferentes através dos dendritos e envia um único sinal através de seu axônio para outras regiões do SN ou para a periferia do corpo.
 
 #### Os receptores sensorias
@@ -109,6 +111,38 @@ No terminal pós-sináptico, os canais iônicos podem ser: catiônicos ou aniôn
 #### **Sistema 2ª Mensageiro**
 
 Nos neurônios, há necessidade de certas transmissões causarem efeitos lentos ou prolongados, uma impossibilidade para os canais iônicos. Nesse mecanismo há uma mediação da transmissão e a efetuação, excitatória ou inibitória, pela proteína G. Pode-se: gerar AMPc ou GMPc, Abrir canais iônicos, ativas enzimas intracelulares, ativar a transcrição gênica.
+
+---
+
+#### Neurotransmissores
+
+Guyton 45 \( Parte 2 \)
+
+Bear 6.
+
+Existe uma subdivisão básica entre as substâncias que atuam como neurotransmissores: neurotransmissores com moléculas pequenas e de ação rápida e neuropeptídeos grandes de ação lenta. Quando dois neurotransmissores são liberados na fenda sináptica de um dado neurônio, chamam-se **co-transmissores.**
+
+
+
+#### **Classes de neurotransmissores:**
+
+1. **Classe: Acetilcolina **
+2. **Classe: Aminas**
+   1. Norepinefrina
+   2. Epinefrina
+   3. Dopamina
+   4. Serotonina
+   5. Histamina
+3. **Classe: Aminoácidos**
+   1. Ácido gama-aminobutírico \(GABA\)
+   2. Glicina
+   3. Glutamato
+   4. Aspartato
+4. **Classe: Óxino nítrico**
+
+#### Neurotransmissores de moléculas pequenas
+
+
 
 ---
 
