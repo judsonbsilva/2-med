@@ -47,7 +47,7 @@ A acetilcolina ativa receptores **nicotínicos e muscarínicos. **Os receptores 
 
 **Receptores de Adrenalina**
 
-Os alpha, beta e suas subclassificações. A **norepinefrina** exita principalmente receptores alpha e em menor grau beta. A **adrenalina **excita tanto alpha como beta igualmente. Uma substância sinteticamente semelhante à epinefrina é o _isopropil norepinefrina, _que tem ação forte em receptores beta, porém nenhuma em alpha. 
+Os alpha, beta e suas subclassificações. A **norepinefrina** exita principalmente receptores alpha e em menor grau beta. A **adrenalina **excita tanto alpha como beta igualmente. Uma substância sinteticamente semelhante à epinefrina é o \_isopropil norepinefrina, \_que tem ação forte em receptores beta, porém nenhuma em receptores alpha.
 
 ---
 
