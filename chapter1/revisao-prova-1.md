@@ -57,6 +57,10 @@ No estímulo simpático generalizado ao corpo inteiro há duas etapas: estímulo
 
 Ambos, simpático e parassimpático estão continuamente ativos garantindo a capacidade do SNA de estimular e diminuir a atividade do órgão estimulado. Por exemplo, no sistema circulatório a atuação do simpático mantém as artérias em dado diâmetro, com o aumento da atividade simpática tais artérias se contraem mais e sob baixa atividade do simpático as artérias dilatam.
 
+O tônus do simpático é mantido com colaboração da secreção basal na medula adrenal sob estado de normalidade, que secreta cerca de 0,0002mg/kg/min.
+
+
+
 ---
 
 ### Contração de Músculo Liso
