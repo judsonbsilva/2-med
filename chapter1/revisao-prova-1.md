@@ -117,7 +117,7 @@ Nos neurônios, há necessidade de certas transmissões causarem efeitos lentos 
 ### Neurotransmissores
 
 _Guyton 45 \( Parte 2 \)  
-Bear 6_
+Bear 6 \( Até pag. 152 \)_
 
 Existe uma subdivisão básica entre as substâncias que atuam como neurotransmissores: neurotransmissores com moléculas pequenas e de ação rápida e neuropeptídeos grandes de ação lenta. Quando dois neurotransmissores são liberados na fenda sináptica de um dado neurônio, chamam-se **co-transmissores.**
 
