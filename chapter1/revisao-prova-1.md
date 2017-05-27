@@ -212,7 +212,9 @@ Existe uma série de receptores que mantêm o **estímulo constante por um grand
 
 A área neuronal estimulada por cada fibra nervosa aferente é chamada de **campo estimulatório**. Qualquer estímulo transmitido de um neurônio para o campo estimulatório de outro que esteja acima da limiar de terminações a ponto de causar a excitação do neurônio estimulado, chama-se **estímulo excitatório ou estímulo supralimiar. **Caso o estímulo do neurônio não seja suficiente para excitar o outro, chama-se **estímulo sublimiar** e os neurônios estão no **estado facilitado. **O estímulo supralimiar chega até a **zona de descarga / zona excitada / zona limiar ** e os sublimiares chegam até a **zona facilitada / zona sublimiar. **Se o pré-neurônio for inibidir chamase **zona inibitória.**
 
-A transmissão do sinal pode divergir de duas formas: **divergência amplificadora, divergência em tratos múltiplos**. Na amplificadora, o sinal se espalha pra um número progressivamente maior de neurônios no decorrer da cadeia de transmissão. Na de tratos múltiplos, o sinal é transmitidos pra duas ou mais direções. 
+A transmissão do sinal pode **divergir** de duas formas: **divergência amplificadora, divergência em tratos múltiplos**. Na amplificadora, o sinal se espalha pra um número progressivamente maior de neurônios no decorrer da cadeia de transmissão. Na de tratos múltiplos, o sinal é transmitidos pra duas ou mais direções.
+
+Há duas forma de **convergência **na transmissão do sinal: de fonte única, de múltiplas fontes. Na **convergência de fonte única** a fonte transmissora do sinal é um único neurônio. Já na **convergência de fontes múltiplas, **o sinal vem de diversos neurônios para um só.
 
 ---
 
