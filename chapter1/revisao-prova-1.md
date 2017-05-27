@@ -72,9 +72,15 @@ O tônus do simpático é mantido com colaboração da secreção basal na medul
 
 ### Sistema Nervoso Central
 
-Os neurônios são a unidade funcional básica.
+Os neurônios são a unidade funcional básica. Cada neurônio geralmente recebe os sinais aferentes através dos dendritos e envia um único sinal através de seu axônio para outras regiões do SN ou para a periferia do corpo. 
 
- 
+#### Os receptores sensorias
+
+Muitas atividades do SN se iniciam pela experiência sensorial advinda dos **receptores sensoriais**, podendo ocasionar numa ação imediata ou ser armazenada em forma de memória por minutos ou até anos determinando futuras reações do organismo.
+
+#### Os efetores
+
+São ações estimuladas pelo SN podendo ser: contração muscular esquelética em todo o corpo, contração muscular lisa em visceras ou secreção de substâncias pelas glândulas. Denominam-se funções motoras.  
 
 ---
 
