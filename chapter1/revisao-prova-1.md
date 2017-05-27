@@ -154,9 +154,9 @@ A colina é recaptada por um transportador no terminal pré-sináptico, sendo es
 Tais neurônios são encontrados em regiões do SN envolvidas na regulação do movimento, humor, atenção e funções viscerais.  
 O aminoácido tirosina é o precursos das catecolaminas: dopamina \(DA\), noradrenalina \(NA\) e adrenalina. Todos os neurônios catecolaminérgicos tem a enzima tirosina-hidroxilase \(TH\) que catalisa o primeiro passo na síntese dos neutransmissores, sendo sua atividade aumentada pelo aumento de Ca++ no citosol.
 
+Na doença de Parkinson, há degeneração de neurônios dopaminérgicos. Pode ser tratada pela administração de dopa, que causa um aumento na síntese de dopamina.
 
-
-
+Não há uma degradação imediata após a liberação na fenda sináptica e, sim, uma recaptação por cotransporte com Na+. 
 
 ---
 
