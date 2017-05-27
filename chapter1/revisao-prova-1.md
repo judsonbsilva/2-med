@@ -143,6 +143,14 @@ A acetilcolina \(ACo\) é o neurotransmissor na junção neuromuscular, logo é 
 
 Acetil CoA + Colina + CoAT = ACo.
 
+Para a degradação é necessária Acetilcolinesterase \(ACoE\) para formar ácido acético e colina.
+
+ACoE + ACo = Ácido Cético + Colina
+
+A colina é recaptada por um transportador no terminal pré-sináptico, sendo essa etapa decisiva na velocidade dos estímulos colinérgicos.
+
+
+
 ---
 
 ### Contração de Músculo Liso
