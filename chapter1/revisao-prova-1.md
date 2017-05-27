@@ -39,7 +39,11 @@ Com o ligamento dos neurotransmissores nos receptores da celulas efetoras, pode-
 
 #### Tipos de Receptores
 
+**Receptores de Acetilcolina**
+
 A acetilcolina ativa receptores **nicotínicos e muscarínicos. **Os receptores muscarínicos estão nas celulas efetores do SNA parassimpático. Os receptores nicotínicos estão em todo neurônio pós-ganglionar e em células efetores do simpático.
+
+**Receptores de Adrenalina**
 
 
 
