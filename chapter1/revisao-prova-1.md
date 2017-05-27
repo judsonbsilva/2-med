@@ -1,4 +1,4 @@
-### Sistema Nervoso Autônomo
+## Sistema Nervoso Autônomo
 
 _Guyton 60_
 
@@ -70,7 +70,7 @@ O tônus do simpático é mantido com colaboração da secreção basal na medul
 
 ---
 
-### Sistema Nervoso Central
+## Sistema Nervoso Central
 
 _Guyton 45_
 
@@ -114,7 +114,7 @@ Nos neurônios, há necessidade de certas transmissões causarem efeitos lentos 
 
 ---
 
-### Neurotransmissores
+## Neurotransmissores
 
 _Guyton 45 \( Parte 2 \)  
 Bear 6 \( Até pag. 152 \)_
@@ -186,15 +186,21 @@ O NO é sintetizado a partir do aminoácido arginina em diversas células do cor
 
 ---
 
-#### Receptores Sensoriais e Circuitos Neuronais
+## Receptores Sensoriais e Circuitos Neuronais
 
 _Guyton 46_
 
-As informações sobre o ambiente são providas para o sistema nervoso pelos receptores sensoriais.
+As informações sobre o ambiente são providas para o sistema nervoso pelos receptores sensoriais. Os receptores sensoriais podem ser: mecanorreceptores, quimiorreceptores, receptores eletromagnéticos, nociorreceptores e etc. Cada um desses receptores é bastante sensível ao estímulo de sua **modalidade sensorial** e praticamente insensível para outros estímulos.
+
+O tipo de sensação percebido no estímulo varia conforme a área do SNC em que termina as fibras que o conduz. A especificidade das fibras nervosas em transmitir apenas uma modalidade sensorial é chamado de **princípio das vias rotuladas**. Todos receptor, na presença de estímulo, **altera o potencial elétrico de sua membrana** para o início da transmissão desse estímulo, essa alteração de potencial se chama **potencial de membrana**.
+
+
+
+
 
 ---
 
-### Contração de Músculo Liso
+## Contração de Músculo Liso
 
 A força de contração no músculo liso é, em assência a atração entre actinina e miosina, a mesma do músculo esquelético, entretanto o arranjo físico interno das fibras musculares lisas é diferente.
 
