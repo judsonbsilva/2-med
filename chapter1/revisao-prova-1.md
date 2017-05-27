@@ -90,9 +90,17 @@ Os neurônios formam redes complexas de interação sendo que cada neurônio pod
 
 #### Níveis do SN
 
-Cerebral superior ou cortical, subcortial ou cerebral inferior, nível da medula espinhal. 
+Cerebral superior ou cortical, subcortial ou cerebral inferior, nível da medula espinhal.
+
+O **nível medualar** tem autonomia suficiente para efetuar uma série de ações essenciais como: movimentos de marcha, reflexos que afastam partes do corpo da dor, reflexos de enrigecem as pernas para sustentação, controle de vasos sanguíneos locais, funções gastrointestinais, de excreção urinária, e etc.
+
+A maior parte das atividades subconscientes são controladas por **regiões subcorticais**. Respiração, pressão arterial, equilíbrio, reflexos alimentares, reação a dor, prazer, resposta sexual, etc. São funções deste.
+
+O **córtex** é responsável principalmente pelo armazenamento de memórias, processamento mental e coordenação dos níveis subcortical e medular. Não possui anatomia funcional sozinho necessitando do acompanhamento dos demais níveis para o mantimento da homeoestase.
 
 
+
+ 
 
 ---
 
