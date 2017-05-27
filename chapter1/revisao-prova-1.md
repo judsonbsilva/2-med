@@ -100,9 +100,7 @@ O **córtex** é responsável principalmente pelo armazenamento de memórias, pr
 
 #### Tipos de sinapses
 
-A elétrica se dá através de junções gap e são pouco encontradas no SN. As químicas são medianas por neurotransmissores que ocorre de forma unidirecional com neurônios pré e pós sináptico. Em sinapses elétricas o sinal pode ser bidirecional.
-
-
+A elétrica se dá através de junções gap e são pouco encontradas no SN. As químicas são medianas por neurotransmissores que ocorre de forma unidirecional com neurônios pré e pós sináptico. Em sinapses elétricas o sinal pode ser bidirecional. Geralmente ocorrem via junção axônio-dendrito em 80-95% dos casos. Os 5% restantes sedão pela ligação axônio-soma.
 
 ---
 
