@@ -2,17 +2,21 @@
 
 _Guyton 60_
 
-
-
-Simpático
-
-* * O corpo celular faz sinapse num gânglio \(paravertebral\) próximo de sua origem e parte para as visceras
+* Simpático
+  * O corpo celular faz sinapse num gânglio \(paravertebral\) próximo de sua origem e parte para as visceral
   * **Neurônios pós-ganglionares adrenérgicos e noradrenérgicos**
-  * A única fibra pós-ganglionar colinérgica que chega num receptor nicotínico em músculo esquelético vai para as
-    **glândulas sudoríparas**
 * Parassimpático
   * O corpo celular faz sinapse num gânglio de localização variável e parte para as vísceras, onde vez ou outra vai estar o gânglio, no próprio órgão
   * **Neurônios pós-ganglionares colinérgicos**
+
+
+
+#### Acetilcolina
+
+Síntese: Acetil CoA +  colina acetil-transferase  + Colina = Acetilcolina
+
+Degradação: Acetilcolinesterase + Aceltilcolina = Acetil CoA + Colina  
+A colina vai ser recaptada pelos receptores.
 
 ---
 
