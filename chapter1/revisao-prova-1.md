@@ -28,6 +28,8 @@ A colina vai ser recaptada pelos receptores.
   * Monoamina Oxidase, nas terminações nervosas
   * Catecol-O-metil transferase, presente difusamente em todos os tecidos
 
+Nas terminações nervosas sua atividade é relativamente rápida, alguns segundos. No sangue, continuam ativas até sofrerem difusão para algum tecido, principalmente no fígado, e serem degradadas.
+
 
 
 ---
