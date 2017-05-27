@@ -116,13 +116,10 @@ Nos neurônios, há necessidade de certas transmissões causarem efeitos lentos 
 
 #### Neurotransmissores
 
-Guyton 45 \( Parte 2 \)
-
-Bear 6.
+_Guyton 45 \( Parte 2 \)  
+Bear 6_
 
 Existe uma subdivisão básica entre as substâncias que atuam como neurotransmissores: neurotransmissores com moléculas pequenas e de ação rápida e neuropeptídeos grandes de ação lenta. Quando dois neurotransmissores são liberados na fenda sináptica de um dado neurônio, chamam-se **co-transmissores.**
-
-
 
 #### **Classes de neurotransmissores:**
 
@@ -140,9 +137,11 @@ Existe uma subdivisão básica entre as substâncias que atuam como neurotransmi
    4. Aspartato
 4. **Classe: Óxino nítrico**
 
-#### Neurotransmissores de moléculas pequenas
+#### Neurônios Colinérgicos
 
+A acetilcolina \(ACo\) é o neurotransmissor na junção neuromuscular, logo é sintetizado por todo neurônio motor na medula e no tronco encefálico. Para sua síntese é necessária a enzima colina acetiltransferase \(CoAT\), que transfere um grupo acetila do ACoA para a colina.
 
+Acetil CoA + Colina + CoAT = ACo.
 
 ---
 
