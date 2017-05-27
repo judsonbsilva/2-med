@@ -206,9 +206,11 @@ Quanto maior o estímulo recebido maior é a frequência dos **potenciais de aç
 Existe uma série de receptores que mantêm o **estímulo constante por um grande período de tempo**, como: nociorreceptores, barorreceptores do leito arterial, aparelhos tendinosos de Golgi, quimiorreceptores do corpo carotídeo.  **Receptores fásicos** ou receptores de transição de estímulo são aqueles que se adaptam rapidamente. Alguns desses receptores fásicos são de suma importância para o funcionamento perfeito de alguma atividade realiza, como correr, onde há uma predição de quais movimentos devem ser feitos através da rápida informação trazida pelos canais semicirculares.
 
 **Somação espacial: **Aumento progressivo da intensidade do sinal transmitido devido ao aumento no número de fibras do **campo receptor **\(** **área com diversas terminações de fibras nervosas \).  
-**Somação temporal: **É o aumento da frequência de estímulos transmitidos.** **
+**Somação temporal: **É o aumento da frequência de estímulos transmitidos.
 
+#### Transmissão e processamento de sinais em grupamentos neuronais
 
+A área neuronal estimulada por cada fibra nervosa aferente é chamada de **campo estimulatório**. Qualquer estímulo transmitido de um neurônio para o campo estimulatório que esteja acima da limiar de terminações a ponto de causar a excitação do neurônio estimulado, chama-se **estimulo excitatório ou estímulo supralimiar. **
 
 ---
 
