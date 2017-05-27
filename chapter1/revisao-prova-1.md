@@ -49,7 +49,13 @@ A acetilcolina ativa receptores **nicotínicos e muscarínicos. **Os receptores 
 
 Os alpha, beta e suas subclassificações. A **norepinefrina** exita principalmente receptores alpha e em menor grau beta. A **adrenalina **excita tanto alpha como beta igualmente. Uma substância sinteticamente semelhante à epinefrina é o isopropil norepinefrina, que tem ação forte em receptores beta, porém nenhuma em receptores alpha.
 
-A adrenalina também é liberada pela medula adrenal sob estímulo simpático levando ao sangue adrenalina \(80%\) e noradrenalina \(20%\). A adrenalina tem efeito cerca de 10 vezes maior que a noradrenalina devido a sua afinidade maior por receptores beta.
+A adrenalina também é liberada pela medula adrenal sob estímulo simpático levando ao sangue adrenalina \(80%\) e noradrenalina \(20%\), atuando de forma análoga do neurotransmissor, entretanto com duração de estímulo muito maior, 2 a 4 minutos. A adrenalina tem efeito cerca de 10 vezes maior que a noradrenalina devido a sua afinidade maior por receptores beta.
+
+No estímulo simpático generalizado ao corpo inteiro há duas etapas: estímulo simpático direto e estímulo "hormonal" pela medula adrenal ou indireto. A adrenalina causa aumento no metabolismo da célula efetora.
+
+ 
+
+
 
 ---
 
