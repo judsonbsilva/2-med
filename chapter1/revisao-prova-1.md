@@ -1,10 +1,18 @@
 ### Sistema Nervoso Autônomo
 
-Guyton 60.
+_Guyton 60_
 
 
 
+Simpático
 
+* * O corpo celular faz sinapse num gânglio \(paravertebral\) próximo de sua origem e parte para as visceras
+  * **Neurônios pós-ganglionares adrenérgicos e noradrenérgicos**
+  * A única fibra pós-ganglionar colinérgica que chega num receptor nicotínico em músculo esquelético vai para as
+    **glândulas sudoríparas**
+* Parassimpático
+  * O corpo celular faz sinapse num gânglio de localização variável e parte para as vísceras, onde vez ou outra vai estar o gânglio, no próprio órgão
+  * **Neurônios pós-ganglionares colinérgicos**
 
 ---
 
