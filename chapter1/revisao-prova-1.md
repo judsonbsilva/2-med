@@ -192,7 +192,16 @@ _Guyton 46_
 
 As informações sobre o ambiente são providas para o sistema nervoso pelos receptores sensoriais. Os receptores sensoriais podem ser: mecanorreceptores, quimiorreceptores, receptores eletromagnéticos, nociorreceptores e etc. Cada um desses receptores é bastante sensível ao estímulo de sua **modalidade sensorial** e praticamente insensível para outros estímulos.
 
-O tipo de sensação percebido no estímulo varia conforme a área do SNC em que termina as fibras que o conduz. A especificidade das fibras nervosas em transmitir apenas uma modalidade sensorial é chamado de **princípio das vias rotuladas**. Todos receptor, na presença de estímulo, **altera o potencial elétrico de sua membrana** para o início da transmissão desse estímulo, essa alteração de potencial se chama **potencial de membrana**.
+O tipo de sensação percebido no estímulo varia conforme a área do SNC em que termina as fibras que o conduz. A especificidade das fibras nervosas em transmitir apenas uma modalidade sensorial é chamado de **princípio das vias rotuladas**. Todos receptor, na presença de estímulo, **altera o potencial elétrico de sua membrana** para o início da transmissão desse estímulo, essa alteração de potencial se chama **potencial receptor**. Os meios de gerar um potencial receptor são: 
+
+1. Deformação mecânica -&gt; canais iônicos
+2. Pela aplicação de substância química -&gt; canais iônicos
+3. Pela alteração da temperatura -&gt; alterar a permeabilidade da membrana
+4. Pelo efeito de radiação magnética de modo -&gt; alterar a permeabilidade da membrana
+
+Quando o potencial receptor ultrapassa a limiar elétrica é gerado um potencial de ação na fibra nervosa conectada.
+
+Quanto maior o estímulo recebido, maior é a frequência dos potenciais de membrana gerados.
 
 
 
