@@ -190,7 +190,7 @@ O NO é sintetizado a partir do aminoácido arginina em diversas células do cor
 
 _Guyton 46_
 
-
+As informações sobre o ambiente são providas para o sistema nervoso pelos receptores sensoriais.
 
 ---
 
