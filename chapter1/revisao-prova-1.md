@@ -201,7 +201,9 @@ O tipo de sensação percebido no estímulo varia conforme a área do SNC em que
 
 Quando o potencial receptor ultrapassa a limiar elétrica é gerado um potencial de ação na fibra nervosa conectada.
 
-Quanto maior o estímulo recebido, maior é a frequência dos **potenciais de ação** gerados. Caso o estímulo seja constante, há uma **adaptação parcial ou completa**. Essa adaptação, quando ocorre, se dá em diferente períodos de tempo para cada tipo de receptor. 
+Quanto maior o estímulo recebido, maior é a frequência dos **potenciais de ação** gerados. Caso o estímulo seja constante, há uma **adaptação parcial ou completa**. Essa adaptação, quando ocorre, se dá em diferente períodos de tempo para cada tipo de receptor e pode ser decorrente de alguma característica própria do receptor, como o Corpúsculo de Pacini, ou devido a **acomodação.** A acomodação consiste na inativação progressiva dos canais de Na+ na membrana da fibra nervosa, mantendo o neurônio polarizado.
+
+
 
 ---
 
