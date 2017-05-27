@@ -61,7 +61,20 @@ O tônus do simpático é mantido com colaboração da secreção basal na medul
 
 **Uma secção de nervo simpático ou parassimpático causa perca do tônus** podendo haver recuperação posterior por adaptação fisiológica ou danos irreversíveis.
 
+#### Reflexos Simpáticos
 
+* Descarga em massa ou resposta alerta
+  * Quando há descarga do SNA Simpático simultaneamente como unidade completa
+* Reflexos locais
+  * Estímulo de vaso dilatação local para esfriamento de um dedo colocado na água quente
+
+---
+
+### Sistema Nervoso Central
+
+Os neurônios são a unidade funcional básica.
+
+ 
 
 ---
 
