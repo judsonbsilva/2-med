@@ -59,6 +59,8 @@ Ambos, simpático e parassimpático estão continuamente ativos garantindo a cap
 
 O tônus do simpático é mantido com colaboração da secreção basal na medula adrenal sob estado de normalidade, que secreta cerca de 0,0002mg/kg/min.
 
+**Uma secção de nervo simpático ou parassimpático causa perca do tônus** podendo haver recuperação posterior por adaptação fisiológica ou danos irreversíveis.
+
 
 
 ---
