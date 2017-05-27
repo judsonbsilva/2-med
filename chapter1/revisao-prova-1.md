@@ -176,9 +176,7 @@ Diversas moléculas pequenas também podem servir como neurotransmissor. O ATP t
 
 **Mensageiros retrógrados**
 
-Endocanabinóides, pequenas moléculas lipídicas que realizam a sinalização retrógrada em algumas transmissões sinápticas. São sintetizadas rapidamente durante o potencial de ação no neurônio pós-sináptico, difundindo-se pela membrana até o neurônio pré-sináptico onde se liga a receptores específicos que, por meio da proteína G, irão diminuir a abertura de canais de cálcio.
-
-
+Endocanabinóides, pequenas moléculas lipídicas que realizam a sinalização retrógrada em algumas transmissões sinápticas. São sintetizadas rapidamente durante o potencial de ação no neurônio pós-sináptico, difundindo-se pela membrana até o neurônio pré-sináptico onde se liga a receptores específicos, canabinóide, que, por meio da proteína G, irão diminuir a abertura de canais de cálcio.
 
 ---
 
