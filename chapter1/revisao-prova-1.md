@@ -149,6 +149,13 @@ ACoE + ACo = Ácido Cético + Colina
 
 A colina é recaptada por um transportador no terminal pré-sináptico, sendo essa etapa decisiva na velocidade dos estímulos colinérgicos.
 
+#### Neurônios Catecolaminérgicos
+
+Tais neurônios são encontrados em regiões do SN envolvidas na regulação do movimento, humor, atenção e funções viscerais.  
+O aminoácido tirosina é o precursos das catecolaminas: dopamina \(DA\), noradrenalina \(NA\) e adrenalina. Todos os neurônios catecolaminérgicos tem a enzima tirosina-hidroxilase \(TH\) que catalisa o primeiro passo na síntese dos neutransmissores, sendo sua atividade aumentada pelo aumento de Ca++ no citosol.
+
+
+
 
 
 ---
