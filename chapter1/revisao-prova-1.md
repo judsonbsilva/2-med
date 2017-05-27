@@ -88,6 +88,12 @@ Cerca de 99% das informações sensoriais são descartadas, sendo canalizadas pa
 
 Os neurônios formam redes complexas de interação sendo que cada neurônio pode ser facilitador ou inibidor do sinal recebido, que é passado para o próximo. A memória é o mecanismo de facilitação de uma via neuronal advinda da repetição de transmissões pela via em questão, daí torna-se possível que essa via seja estimulada mesmo na ausência de sinal aferente. Tais informações armazenadas através da memória passam a compor parte do processamento do cérebro sob forma de "pensamento". Há uma interação comparativa entre o que é novo e o que está armazenado na memória, que ajudará a canalizar informações relevantes para gerar respostas efetoras imediatas ou para usos motores no futuro.
 
+#### Níveis do SN
+
+Cerebral superior ou cortical, subcortial ou cerebral inferior, nível da medula espinhal. 
+
+
+
 ---
 
 ### Contração de Músculo Liso
