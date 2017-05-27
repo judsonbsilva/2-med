@@ -72,7 +72,7 @@ O tônus do simpático é mantido com colaboração da secreção basal na medul
 
 ### Sistema Nervoso Central
 
-Os neurônios são a unidade funcional básica. Cada neurônio geralmente recebe os sinais aferentes através dos dendritos e envia um único sinal através de seu axônio para outras regiões do SN ou para a periferia do corpo. 
+Os neurônios são a unidade funcional básica. Cada neurônio geralmente recebe os sinais aferentes através dos dendritos e envia um único sinal através de seu axônio para outras regiões do SN ou para a periferia do corpo.
 
 #### Os receptores sensorias
 
@@ -80,7 +80,15 @@ Muitas atividades do SN se iniciam pela experiência sensorial advinda dos **rec
 
 #### Os efetores
 
-São ações estimuladas pelo SN podendo ser: contração muscular esquelética em todo o corpo, contração muscular lisa em visceras ou secreção de substâncias pelas glândulas. Denominam-se funções motoras.  
+São ações estimuladas pelo SN podendo ser: contração muscular esquelética em todo o corpo, contração muscular lisa em visceras ou secreção de substâncias pelas glândulas. Denominam-se funções motoras.
+
+#### Processamento de informação
+
+Cerca de 99% das informações sensoriais são descartadas, sendo canalizadas para regiões integrativas, afim de produzir respostas adequadas, apenas as informações consideradas relevantes.
+
+Os neurônios formam redes complexas de interação sendo que cada neurônio pode ser facilitador ou inibidor do sinal recebido. A memória é o mecanismo de facilitação de uma via neuronal advinda da repetição de transmissões pela via em questão, daí torna-se possível que essa via seja estimulada mesmo na ausência de sinal aferente.
+
+ 
 
 ---
 
