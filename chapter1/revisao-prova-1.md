@@ -30,7 +30,16 @@ A colina vai ser recaptada pelos receptores.
 
 Nas terminações nervosas sua atividade é relativamente rápida, alguns segundos. No sangue, continuam ativas até sofrerem difusão para algum tecido, principalmente no fígado, e serem degradadas.
 
+Com o ligamento dos neurotransmissores nos receptores da celulas efetoras, pode-se excita-las através de:
 
+* Mudança na permeabilidade da membrana
+  * Abertura de canais iônicos causando despolarização
+*  Usando via 2ª mensageiro
+  * Enzima geralmente ligada a proteína receptora
+
+#### Tipos de Receptores
+
+A acetilcolina ativa receptores **nicotínicos e muscarínicos.** 
 
 ---
 
