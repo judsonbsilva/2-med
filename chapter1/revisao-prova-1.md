@@ -201,7 +201,12 @@ O tipo de sensação percebido no estímulo varia conforme a área do SNC em que
 
 Quando o potencial receptor ultrapassa a limiar elétrica é gerado um potencial de ação na fibra nervosa conectada.
 
-Quanto maior o estímulo recebido, maior é a frequência dos **potenciais de ação** gerados. Caso o estímulo seja constante, há uma **adaptação parcial ou completa**. Essa adaptação, quando ocorre, se dá em diferente períodos de tempo para cada tipo de receptor e pode ser decorrente de alguma característica própria do receptor, como o Corpúsculo de Pacini, ou devido a **acomodação.** A acomodação consiste na inativação progressiva dos canais de Na+ na membrana da fibra nervosa, mantendo o neurônio polarizado.
+Quanto maior o estímulo recebido maior é a frequência dos **potenciais de ação** gerados. Caso, o estímulo seja constante, há uma **adaptação parcial ou completa**. Essa adaptação, quando ocorre, se dá em diferentes períodos de tempo para cada tipo de receptor e pode ser decorrente de alguma característica própria do receptor, como o Corpúsculo de Pacini, ou devido a **acomodação.** A acomodação consiste na inativação progressiva dos canais de Na+ na membrana da fibra nervosa, mantendo o neurônio polarizado.
+
+Existe uma série de receptores que mantêm o **estímulo constante por um grande período de tempo**, como: nociorreceptores, barorreceptores do leito arterial, aparelhos tendinosos de Golgi, quimiorreceptores do corpo carotídeo.  **Receptores fásicos** ou receptores de transição de estímulo são aqueles que se adaptam rapidamente. Alguns desses receptores fásicos são de suma importância para o funcionamento perfeito de alguma atividade realiza, como correr, onde há uma predição de quais movimentos devem ser feitos através da rápida informação trazida pelos canais semicirculares.
+
+**Somação espacial: **Aumento progressivo da intensidade do sinal transmitido devido ao aumento no número de fibras do **campo receptor **\(** **área com diversas terminações de fibras nervosas \).  
+**Somação temporal: **É o aumento da frequência de estímulos transmitidos.** **
 
 
 
