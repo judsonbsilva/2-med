@@ -98,9 +98,11 @@ A maior parte das atividades subconscientes são controladas por **regiões subc
 
 O **córtex** é responsável principalmente pelo armazenamento de memórias, processamento mental e coordenação dos níveis subcortical e medular. Não possui anatomia funcional sozinho necessitando do acompanhamento dos demais níveis para o mantimento da homeoestase.
 
+#### Tipos de sinapses
+
+A elétrica se dá através de junções gap e são pouco encontradas no SN. As químicas são medianas por neurotransmissores que ocorre de forma unidirecional com neurônios pré e pós sináptico. Em sinapses elétricas o sinal pode ser bidirecional.
 
 
- 
 
 ---
 
