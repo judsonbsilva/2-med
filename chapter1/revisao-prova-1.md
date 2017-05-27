@@ -34,12 +34,14 @@ Com o ligamento dos neurotransmissores nos receptores da celulas efetoras, pode-
 
 * Mudança na permeabilidade da membrana
   * Abertura de canais iônicos causando despolarização
-*  Usando via 2ª mensageiro
+* Usando via 2ª mensageiro
   * Enzima geralmente ligada a proteína receptora
 
 #### Tipos de Receptores
 
-A acetilcolina ativa receptores **nicotínicos e muscarínicos.** 
+A acetilcolina ativa receptores **nicotínicos e muscarínicos. **Os receptores muscarínicos estão nas celulas efetores do SNA parassimpático. Os receptores nicotínicos estão em todo neurônio pós-ganglionar e em células efetores do simpático.
+
+
 
 ---
 
