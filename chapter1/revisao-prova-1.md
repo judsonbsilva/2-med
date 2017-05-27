@@ -172,11 +172,17 @@ Sua recaptação é feito por co-transporte com Na+ pelo terminal pré-sináptic
 
 #### Outros neurotransmissores
 
-Diversas moléculas pequenas também podem servir como neurotransmissor. O ATP também é liberado com as catecolaminas, excitando diretamente alguns neurônios pela abertura de canais catiônicos. O ATP se liga a receptores purinérgicos, que podem estar associados a canais iônicos ou a proteína G.
+**ATP**
+
+O ATP também é liberado com algumas catecolaminas, excitando diretamente alguns neurônios pela abertura de canais catiônicos. O ATP se liga a receptores purinérgicos, que podem estar associados a canais iônicos ou a proteína G.
 
 **Mensageiros retrógrados**
 
 Endocanabinóides, pequenas moléculas lipídicas que realizam a sinalização retrógrada em algumas transmissões sinápticas. São sintetizadas rapidamente durante o potencial de ação no neurônio pós-sináptico, difundindo-se pela membrana até o neurônio pré-sináptico onde se liga a receptores específicos, canabinóide, que, por meio da proteína G, irão diminuir a abertura de canais de cálcio.
+
+**Óxido nítrico \(NO\)**
+
+O NO é sintetizado a partir do aminoácido arginina em diversas células do corpo e possui grande influência na regulação local do fluxo sanguíneo. É pequeno e permeável a membranas semelhante ao endocanabinóide. Pode se distribuir ao longo de uma região pequena no tecido. O NO é constantimente estudado.
 
 ---
 
