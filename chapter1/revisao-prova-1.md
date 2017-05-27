@@ -53,9 +53,9 @@ A adrenalina também é liberada pela medula adrenal sob estímulo simpático le
 
 No estímulo simpático generalizado ao corpo inteiro há duas etapas: estímulo simpático direto e estímulo "hormonal" pela medula adrenal ou indireto. A adrenalina causa aumento no metabolismo da célula efetora.
 
- 
+#### Tônus simpático e parassimpático
 
-
+Ambos, simpático e parassimpático estão continuamente ativos garantindo a capacidade do SNA de estimular e diminuir a atividade do órgão estimulado. Por exemplo, no sistema circulatório a atuação do simpático mantém as artérias em dado diâmetro, com o aumento da atividade simpática tais artérias se contraem mais e sob baixa atividade do simpático as artérias dilatam.
 
 ---
 
