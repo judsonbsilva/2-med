@@ -45,7 +45,7 @@ A acetilcolina ativa receptores **nicotínicos e muscarínicos. **Os receptores 
 
 **Receptores de Adrenalina**
 
-
+Alpha e beta.
 
 ---
 
