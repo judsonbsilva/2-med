@@ -104,13 +104,11 @@ A **elétrica **se dá através de junções gap e são pouco encontradas no SN.
 
 #### Canais iônicos
 
-No terminal pós-sináptico, os canais iônicos podem ser: catiônicos ou aniônicos . Os catiônicos são eletronegativos atraindo íons de Na+ que entram na célula quando os canais são abertos **despolarizando** a célula. Os aniônicos permitem entrada de íons cloreto, negativamente carregados, **polarizando **a célula. Se um transmissor estimula abertura de canais catiônios chama-se **transmissor excitatório**, se estimula canais aniônicos chama-se **transmissor inibitório.** 
+No terminal pós-sináptico, os canais iônicos podem ser: catiônicos ou aniônicos . Os catiônicos são eletronegativos atraindo íons de Na+ que entram na célula quando os canais são abertos **despolarizando** a célula. Os aniônicos permitem entrada de íons cloreto, negativamente carregados, **polarizando **a célula. Se um transmissor estimula abertura de canais catiônios chama-se **transmissor excitatório**, se estimula canais aniônicos chama-se **transmissor inibitório. **A abertura e o fechamento desses canais ocorre de forma imediata e **RÁPIDA**.
 
- 
+#### **Sistema 2ª Mensageiro**
 
-
-
-
+Nos neurônios, há necessidade de certas transmissões causarem efeitos lentos ou prolongados, uma impossibilidade para os canais iônicos. Nesse mecanismo há uma mediação da transmissão e a efetuação, excitatória ou inibitória, pela proteína G. Pode-se: gerar AMPc ou GMPc, Abrir canais iônicos, ativas enzimas intracelulares, ativar a transcrição gênica.
 
 ---
 
