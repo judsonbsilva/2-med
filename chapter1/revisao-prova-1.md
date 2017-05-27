@@ -156,9 +156,7 @@ O aminoácido tirosina é o precursos das catecolaminas: dopamina \(DA\), noradr
 
 Na doença de Parkinson, há degeneração de neurônios dopaminérgicos. Pode ser tratada pela administração de dopa, que causa um aumento na síntese de dopamina.
 
-Não há uma degradação imediata após a liberação na fenda sináptica e, sim, uma recaptação por cotransporte com Na+. Existem diversas drogas que vão agir inibindo essa recaptação, como, por exemplo, anfetaminas.
-
-
+Não há uma degradação imediata após a liberação na fenda sináptica e, sim, uma recaptação por cotransporte com Na+. Entretanto existe uma enzima de degradação de catecolaminérgicos chamada monoaminaoxidase \(MAO\). Existem diversas drogas que vão agir inibindo essa recaptação, como, por exemplo, anfetaminas.
 
 ---
 
