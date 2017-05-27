@@ -86,9 +86,7 @@ São ações estimuladas pelo SN podendo ser: contração muscular esquelética 
 
 Cerca de 99% das informações sensoriais são descartadas, sendo canalizadas para regiões integrativas, afim de produzir respostas adequadas, apenas as informações consideradas relevantes.
 
-Os neurônios formam redes complexas de interação sendo que cada neurônio pode ser facilitador ou inibidor do sinal recebido. A memória é o mecanismo de facilitação de uma via neuronal advinda da repetição de transmissões pela via em questão, daí torna-se possível que essa via seja estimulada mesmo na ausência de sinal aferente.
-
- 
+Os neurônios formam redes complexas de interação sendo que cada neurônio pode ser facilitador ou inibidor do sinal recebido, que é passado para o próximo. A memória é o mecanismo de facilitação de uma via neuronal advinda da repetição de transmissões pela via em questão, daí torna-se possível que essa via seja estimulada mesmo na ausência de sinal aferente.
 
 ---
 
