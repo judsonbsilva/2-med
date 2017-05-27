@@ -114,14 +114,14 @@ Nos neurônios, há necessidade de certas transmissões causarem efeitos lentos 
 
 ---
 
-#### Neurotransmissores
+### Neurotransmissores
 
 _Guyton 45 \( Parte 2 \)  
 Bear 6_
 
 Existe uma subdivisão básica entre as substâncias que atuam como neurotransmissores: neurotransmissores com moléculas pequenas e de ação rápida e neuropeptídeos grandes de ação lenta. Quando dois neurotransmissores são liberados na fenda sináptica de um dado neurônio, chamam-se **co-transmissores.**
 
-#### **Classes de neurotransmissores:**
+**Classes de neurotransmissores:**
 
 1. **Classe: Acetilcolina **
 2. **Classe: Aminas**
@@ -157,6 +157,12 @@ O aminoácido tirosina é o precursos das catecolaminas: dopamina \(DA\), noradr
 Na doença de Parkinson, há degeneração de neurônios dopaminérgicos. Pode ser tratada pela administração de dopa, que causa um aumento na síntese de dopamina.
 
 Não há uma degradação imediata após a liberação na fenda sináptica e, sim, uma recaptação por cotransporte com Na+. Entretanto existe uma enzima de degradação de catecolaminérgicos chamada monoaminaoxidase \(MAO\). Existem diversas drogas que vão agir inibindo essa recaptação, como, por exemplo, anfetaminas.
+
+#### Neurônios Serotoninérgicos
+
+São poucos, entretanto desempenham função importante na regulação do humor, sono e comportamento emocional. A serotonina \(5-HT\) é derivada do triptofano e sua síntese está ligada à disponibilidade de triptofano disponível no meio extracelular. O triptofano circulante é conseguido na dieta. A recaptação de serotonina está sujeita à ação de diversas drogas como a fluoxetina \( Prozac \).
+
+
 
 ---
 
