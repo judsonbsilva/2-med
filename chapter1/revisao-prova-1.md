@@ -186,6 +186,14 @@ O NO é sintetizado a partir do aminoácido arginina em diversas células do cor
 
 ---
 
+#### Receptores Sensoriais e Circuitos Neuronais
+
+_Guyton 46_
+
+
+
+---
+
 ### Contração de Músculo Liso
 
 A força de contração no músculo liso é, em assência a atração entre actinina e miosina, a mesma do músculo esquelético, entretanto o arranjo físico interno das fibras musculares lisas é diferente.
