@@ -164,11 +164,19 @@ São poucos, entretanto desempenham função importante na regulação do humor,
 
 #### Neurônios Aminoacidérgicos
 
-Glutamato, Glicina e GABA servem como neurotransmissores em diversas vias do SNC. Desses, apenas o GABA não é um aminoácido primários na sintetização de proteínas, sendo encontrado em grandes quantidades apenas em neurônios GABAérgicos. 
+Glutamato, Glicina e GABA servem como neurotransmissores em diversas vias do SNC. Desses, apenas o GABA não é um aminoácido primários na sintetização de proteínas, sendo encontrado em grandes quantidades apenas em neurônios GABAérgicos.
 
 O glutamato é o principal neurotransmissor excitatório do SNC. O GABA é sintetizado a partir do glutamato pela enzima glutamato-descarboxilase \(GAD\), sendo o principal neurotransmissor inibidor do SNC. É metabolizado pela GABA transaminase.
 
 Sua recaptação é feito por co-transporte com Na+ pelo terminal pré-sináptico ou pelas células da glia.
+
+#### Outros neurotransmissores
+
+Diversas moléculas pequenas também podem servir como neurotransmissor. O ATP também é liberado com as catecolaminas, excitando diretamente alguns neurônios pela abertura de canais catiônicos. O ATP se liga a receptores purinérgicos, que podem estar associados a canais iônicos ou a proteína G.
+
+**Mensageiros retrógrados**
+
+Endocanabinóides, pequenas moléculas lipídicas que realizam a sinalização retrógrada em algumas transmissões sinápticas. São sintetizadas rapidamente durante o potencial de ação no neurônio pós-sináptico, difundindo-se pela membrana até o neurônio pré-sináptico onde se liga a receptores específicos que, por meio da proteína G, irão diminuir a abertura de canais de cálcio.
 
 
 
