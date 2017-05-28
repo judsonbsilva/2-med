@@ -238,9 +238,24 @@ Agloba as sensações que estão presentes no corpo inteiro, excluindo-se os sen
 
 Quase todas as informações sensoriais dos segmentos somáticos do corpo entram na medula espinal pelas raízes dorsais no nervos espinhais \(posteriormente\). A informação sensorial pode chegar ao encéfalo a partir de duas vias sensoriais: **sistema da coluna dorsal-lemnisco medial, sistema anterolateral. **Ambas se juntam parcialmente **no tálamo.**
 
+#### Transmissão até o SNC
+
 O **sistema coluna dorsal-lemnisco medial **inicia-se pela entrada da fibra nervosa pelas raízes dorsais da medula seguindo pelas **colunas dorsais, **fascículos grácil e cuneiforme, até a parte inferior do bulbo pelos núcleos das colunas dorsais onde vai decussar e seguir até o tálamo pelo **lemnisco medial.**
 
 No **sistema anterolateral, **a fibra entra na medula pelas raízes dorsais, faz sinápse no corno doral da substância cinzenta, decussam e ascendem pelas colunas anterior e lateral da medula \( tratos espinotalâmicos \) terminando em toos os níveis do tronco encefálico.
+
+Sensações transmitidas:
+
+* **Coluna dorsal-lemnisco medial**
+  * Tato epicrítico
+  * Sensibilidade vibratória
+  * Propriocepção insconsciente 
+* **Anterolateral**
+  * Dor
+  * Temperatura
+  * Cócegas e puridos
+  * Sensações sexuais
+  * Tato protopático
 
 
 
