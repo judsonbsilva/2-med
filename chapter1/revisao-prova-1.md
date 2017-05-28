@@ -240,7 +240,9 @@ Quase todas as informações sensoriais dos segmentos somáticos do corpo entram
 
 O **sistema coluna dorsal-lemnisco medial **inicia-se pela entrada da fibra nervosa pelas raízes dorsais da medula seguindo pelas **colunas dorsais, **fascículos grácil e cuneiforme, até a parte inferior do bulbo pelos núcleos das colunas dorsais onde vai decussar e seguir até o tálamo pelo **lemnisco medial.**
 
-No **sistema anterolateral, **a fibra entra na medula pelas raízes dorsais, faz sinápse no corno doral da substância cinzenta, decussam e ascendem pelas colunas anterior e lateral da medula \( tratos espinotalâmicos \) terminando em toos os níveis do tronco encefálico.  
+No **sistema anterolateral, **a fibra entra na medula pelas raízes dorsais, faz sinápse no corno doral da substância cinzenta, decussam e ascendem pelas colunas anterior e lateral da medula \( tratos espinotalâmicos \) terminando em toos os níveis do tronco encefálico.
+
+
 
 ---
 
