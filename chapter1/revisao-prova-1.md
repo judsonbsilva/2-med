@@ -257,6 +257,10 @@ Sensações transmitidas:
   * Sensações sexuais
   * Tato protopático
 
+**Córtex somatossensorail**
+
+Encontrada no giro pós-central e subdividida em: **área somatossensorial I, área somatossensorial II.**
+
 
 
 ---
