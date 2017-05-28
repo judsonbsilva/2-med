@@ -224,7 +224,11 @@ O prolongamento do sinal transmitido pode ocorrem por: circuito reverberante.
 
 **Circuito reverberante **é um feedback positivo na transmissão de sinal. Uma vez estimulado o circuito pode descarregar-se repetidamente por longo período. Tais circuitos podem ter fibras facilitadoras que estimulam a intensidade da frequência da reverberação, enquanto o sinal inibitório reduz ou encerra a reverberação. A reverberação pode sofrer uma cessação súbita devido a **fadiga** das junções sinápticas.
 
-O sinal eferente pode ser transmitido na ausência de sinal aferente pelos mecanismos de: **descarga neuronal contínua intríseca, sinais reverberatórios contínuos. **O SNA controla o tônus vascular, tônus intestinal, frequência caríada e etc. Através de sinal reverberatório contínuo com influência aferente do tipo **onda carregadora.**
+O sinal eferente pode ser transmitido na ausência de sinal aferente pelos mecanismos de: **descarga neuronal contínua intríseca, sinais reverberatórios contínuos. **O SNA controla o tônus vascular, tônus intestinal, frequência caríada e etc. Através de sinal reverberatório contínuo com influência aferente do tipo **onda carregadora. **Todos os **sinais rítmicos** estudados são consequência de circuitos reverbetarórios. 
+
+Dado que cada área do cérebro está interconectada a todas as outras, direta ou indiretamente, uma excitação sem inibição ocasionaria numa super excitação de todo o cérebro como ocorre numa **convulsão epiléptica.**
+
+
 
 ---
 
