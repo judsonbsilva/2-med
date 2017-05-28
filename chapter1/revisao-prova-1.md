@@ -216,6 +216,18 @@ A transmissão do sinal pode **divergir** de duas formas: **divergência amplifi
 
 Há duas forma de **convergência **na transmissão do sinal: de fonte única, de múltiplas fontes. Na **convergência de fonte única** a fonte transmissora do sinal é um único neurônio. Já na **convergência de fontes múltiplas, **o sinal vem de diversos neurônios para um só.
 
+Uma mesma via de transmissão pode, ao mesmo tempo, transmitir um sinal excitatório eferente por uma via e inibitório por outra. Assim funciona nos movimentos de músculo com antagonistas. A esse circuita dá-se o nome de **circuito de inibição recíproca.** 
+
+#### Prolongamento de sinal
+
+O prolongamento do sinal transmitido pode ocorrem por: circuito reverberante.
+
+**Circuito reverberante **é um feedback positivo na transmissão de sinal. Uma vez estimulado o circuito pode descarregar-se repetidamente por longo período. Tais circuitos podem ter fibras facilitadoras que estimulam a intensidade da frequência da reverberação, enquanto o sinal inibitório reduz ou encerra a reverberação. A reverberação pode sofrer uma cessação súbita devido a **fadiga** das junções sinápticas.
+
+O sinal eferente pode ser transmitido na ausência de sinal aferente pelos mecanismos de: **descarga neuronal contínua intríseca, sinais reverberatórios contínuos.**
+
+
+
 ---
 
 ## Contração de Músculo Liso
