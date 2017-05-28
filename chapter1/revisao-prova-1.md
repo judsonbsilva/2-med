@@ -230,6 +230,20 @@ Dado que cada área do cérebro está interconectada a todas as outras, direta o
 
 ---
 
+## Sensações Somáticas
+
+Agloba as sensações que estão presentes no corpo inteiro, excluindo-se os sentidos especiais. Pode ser dividido em: sensações somáticas mecanorreceptivas, sensações termorreceptivas, sensação da dor. Há também uma segunda classificação: exterorreceptores, proprioceptivas, viscerais e profundas.
+
+**Receptores Táteis: **Terminações nervosas livres, Corpúsculos de Meissner, Discos de Merkel, etc.
+
+Quase todas as informações sensoriais dos segmentos somáticos do corpo entram na medula espinal pelas raízes dorsais no nervos espinhais \(posteriormente\). A informação sensorial pode chegar ao encéfalo a partir de duas vias sensoriais: **sistema da coluna dorsal-lemnisco medial, sistema anterolateral. **Ambas se juntam parcialmente **no tálamo.**
+
+O **sistema coluna dorsal-lemnisco medial **inicia-se pela entrada da fibra nervosa pelas raízes dorsais da medula seguindo pelas **colunas dorsais, **fascículos grácil e cuneiforme, até a parte inferior do bulbo pelos núcleos das colunas dorsais onde vai decussar e seguir até o tálamo pelo **lemnisco medial.**
+
+No **sistema anterolateral, **a fibra entra na medula pelas raízes dorsais, faz sinápse no corno doral da substância cinzenta, decussam e ascendem pelas colunas anterior e lateral da medula \( tratos espinotalâmicos \) terminando em toos os níveis do tronco encefálico.  
+
+---
+
 ## Contração de Músculo Liso
 
 A força de contração no músculo liso é, em assência a atração entre actinina e miosina, a mesma do músculo esquelético, entretanto o arranjo físico interno das fibras musculares lisas é diferente.
