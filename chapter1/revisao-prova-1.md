@@ -22,7 +22,7 @@ A colina vai ser recaptada pelos receptores.
 
 **Degradação: **
 
-* Recaptação pelos neurônios pro transporte ativo
+* Recaptação pelos neurônios por transporte ativo
 * Difusão para os fluidos corporais adjacentes
 * Destrução em pequenas quantidades por enzimas
   * Monoamina Oxidase, nas terminações nervosas
@@ -260,8 +260,6 @@ Sensações transmitidas:
 **Córtex somatossensorail**
 
 Encontrada no giro pós-central e subdividida em: **área somatossensorial I, área somatossensorial II.**
-
-
 
 ---
 
