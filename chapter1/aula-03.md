@@ -23,7 +23,7 @@ O SNA **simpático** sempre irá agir instintivamente na **fuga ou luta**, na **
 | Sistema digestório | Inibição \(diminuição do peristaltismo, relaxamento da musculatura lisa e contração dos esfincteres\); _**a2**_ | Estimulação do peristaltismo; _**m**_ |
 | Bexiga | Inibição; _**a1**_ | Estimulação; _**m**_ |
 | Rins | Estimulo da filtração; _**b1**_ | Inibição; _**m**_ |
-| Tecido adiposo | Estimula a lipólise; _**b3**_ | Inibição; _**m**_ |
+| Tecido adiposo | Estimula a lipólise; _**b1**_ | Inibição; _**m**_ |
 
 **PS:** Aumento de fluxo sanguínio pode ser: sistêmico ou local. Sistêmico é para o corpo inteiro através de vaso constricção. Local é para um local específico com vaso dilatação local.
 
@@ -73,8 +73,8 @@ _Todos os receptores viscerais, noradrenérgicos e muscarínicos._
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | _**a1, m1**_ | PGq | +  F.C | +  Ip³ | +  PKa | + Na+ | Des |
 | _**a2, m2**_ | PGi | -  A.C | -  AMPc | -  PKa | -  Na+ | Pol |
-| _**b1, b3**_ | PGs | + A.C | + AMPc | -  PKa | + Na++ | Des |
-| _**b2**_ | PGs | +  A.C | + AMPc | +  PKa | +  K+ | Pol |
+| _**b1, b3**_ | PGs | + A.C | + AMPc | + PKa | + Na++ | Des |
+| _**b2**_ | PGs | +  A.C | + AMPc | +  PKa | +  K+ | Hiperpol |
 
 
 
