@@ -18,7 +18,7 @@ O SNA **simpático** sempre irá agir instintivamente na **fuga ou luta**, na **
 | :--- | :--- | :--- |
 | Pupila | Midríase \(abertura da pupila\) ; _**a1**_ | Miose \(fechar a pupilar\) ; _**m**_ |
 | Pulmão | Bronquiodilatação; _**b2**_ | Bronquioconstricção; _**m2**_ |
-| Coração | Aumento de frequência cardíaca; _**b1**_ | Diminuição da frequência cardíaca;   _**m1**_ |
+| Coração | Aumento de frequência cardíaca; _**b1**_ | Diminuição da frequência cardíaca;   _**m2**_ |
 | Vasos | Aumento de pressão arterial; Vaso constricção; _**a1**_ | Diminuição da pressão arterial; Vaso dilatação; _**m**_ |
 | Sistema digestório | Inibição \(diminuição do peristaltismo, relaxamento da musculatura lisa e contração dos esfincteres\); _**a2**_ | Estimulação do peristaltismo; _**m**_ |
 | Bexiga | Inibição; _**a1**_ | Estimulação; _**m**_ |
@@ -74,7 +74,7 @@ _Todos os receptores viscerais, noradrenérgicos e muscarínicos._
 | _**a1, m1**_ | PGq | +  F.C | +  Ip³ | +  PKa | + Na+ | Des |
 | _**a2, m2**_ | PGi | -  A.C | -  AMPc | -  PKa | -  Na+ | Pol |
 | _**b1, b3**_ | PGs | + A.C | + AMPc | + PKa | + Na++ | Des |
-| _**b2**_ | PGs | +  A.C | + AMPc | +  PKa | +  K+ | Hiperpol |
+| _**b2**_ | PGs | +  A.C | + AMPc | +  PKa | -  K+ | Hiperpol |
 
 
 
