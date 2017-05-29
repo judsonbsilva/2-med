@@ -17,8 +17,8 @@ O SNA **simpático** sempre irá agir instintivamente na **fuga ou luta**, na **
 | Órgão | Simpático | Parassimpático |
 | :--- | :--- | :--- |
 | Pupila | Midríase \(abertura da pupila\) ; _**a1**_ | Miose \(fechar a pupilar\) ; _**m**_ |
-| Pulmão | Bronquiodilatação; _**b1**_ | Bronquioconstricção; _**m1**_ |
-| Coração | Aumento de frequência cardíaca; _**b1**_ | Diminuição da frequência cardíaca;   _**m2**_ |
+| Pulmão | Bronquiodilatação; _**b2**_ | Bronquioconstricção; _**m2**_ |
+| Coração | Aumento de frequência cardíaca; _**b1**_ | Diminuição da frequência cardíaca;   _**m1**_ |
 | Vasos | Aumento de pressão arterial; Vaso constricção; _**a1**_ | Diminuição da pressão arterial; Vaso dilatação; _**m**_ |
 | Sistema digestório | Inibição \(diminuição do peristaltismo, relaxamento da musculatura lisa e contração dos esfincteres\); _**a2**_ | Estimulação do peristaltismo; _**m**_ |
 | Bexiga | Inibição; _**a1**_ | Estimulação; _**m**_ |
