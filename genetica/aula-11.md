@@ -25,5 +25,6 @@ Vias de sinalização: **Wnt, Beta catenina.**
 
 ### Genética de Populações
 
-Frequência genotípica. 
+Frequência genotípica, percentual.   
+Frequência alélica -&gt;  Fr\(\) -&gt; D + H/2  ou R + H/2.  \( Homozigotos dominantes mais metade dos heterozigotos ou homozigotos recessivos mais metade dos heterozigotos \). 
 
