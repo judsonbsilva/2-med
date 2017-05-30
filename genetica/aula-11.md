@@ -28,7 +28,5 @@ Vias de sinalização: **Wnt, Beta catenina.**
 CCR5 e DeltaCCR5. \( HIV \)  Portadores do gene mutante tem essa proteína alterada impedindo a entrada do HIV nas células.
 
 Frequência genotípica, percentual.  
-Frequência alélica -&gt;  Fr\(\) -&gt; D + H/2  ou R + H/2.  \( Homozigotos dominantes mais metade dos heterozigotos ou homozigotos recessivos mais metade dos heterozigotos \).
-
-
+Frequência alélica -&gt;  Fr\(D ou H\) -&gt; D + H/2  ou R + H/2.  \( Homozigotos dominantes mais metade dos heterozigotos ou homozigotos recessivos mais metade dos heterozigotos \).
 
