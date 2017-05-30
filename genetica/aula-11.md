@@ -30,3 +30,65 @@ CCR5 e DeltaCCR5. \( HIV \)  Portadores do gene mutante tem essa proteína alter
 Frequência genotípica, percentual.  
 Frequência alélica -&gt;  Fr\(A ou a\) -&gt; D + H/2  ou R + H/2.  \( Homozigotos dominantes mais metade dos heterozigotos ou homozigotos recessivos mais metade dos heterozigotos \).
 
+> **Equlíbrio de WHE**
+>
+> **Dados  
+> **  
+> F\(A\) = p  
+> F\(a\) = q
+>
+> **Então**
+>
+> F\(AA\) = p²  
+> F\(Aa\) = 2pq  
+> F\(aa\) = q²
+
+#### Exemplo 1
+
+MM = 30%. MN = 50%. NN = 20%.
+
+Frequências genotípocas
+
+F\(MM\) = 0.3,  F\(MN\) = 0.5,  F\(NN\) = 0.2.
+
+Frequências alélicas
+
+F\(M\) = 0.3 + 0.5/2 = 0.55.  
+F\(N\) = 0.2 + 0.5/2 = 0.45.
+
+Está no equilíbrio de Hardy-Weinberg? Sim, provavelmente está. 
+
+#### Exemplo 2
+
+**Observados**
+
+Fr do genótipo
+
+F\(MM\) = 490/1000 = 0.49  
+F\(MN\) = 360/1000 = 0.36  
+F\(NN\) = 150/1000 = 0.15
+
+Fr do alelo
+
+F\(M\) = 0.49 + 0.36/2 = 0.67 = p  
+F\(N\) = 0.15 + 0.36/2 =  0.33  = q
+
+**Esperados**
+
+F\(M\) = p² = 0.67² = 0.45  
+F\(N\) = q² = 0.33² = 0.11  
+F\(MN\) = 2pq = 0.1
+
+**Calcula-se o qui-quadrado**
+
+Grau de liberdade = N - 2  
+Dado que há três genótipos, três classes. Logo N = 3.  
+Gau de liberdade = 3 - 2 = 1  
+Alpha = 0.05.
+
+
+
+
+
+
+
