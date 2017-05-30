@@ -13,7 +13,11 @@ Proteínas importantes na carcinogênese: Rb, P53. Vindas dos genes E7 e E6 resp
 
 Os genes codificadores de K-Ras, Apc e P-53 são comuns em cânceres colorretais. Um pólipo no cólon retal pode se tornar um câncer em cerca de 10 anos tomando todo o cólon intestinal, sendo assintomático no decorrer de todo esse tempo.
 
-PROGRESSÃO DA INSTABILIDADE GENÉTICA.
+PROGRESSÃO DA INSTABILIDADE GENÉTICA:
+
+* Inativação do gene APC
+* Mutação ativadoras de K-Ras
+* Perda do Smad 4 e mutações unativadoras de P53
 
 
 
