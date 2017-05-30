@@ -27,12 +27,12 @@ Vias de sinalização: **Wnt, Beta catenina.**
 
 CCR5 e DeltaCCR5. \( HIV \)  Portadores do gene mutante tem essa proteína alterada impedindo a entrada do HIV nas células.
 
-Frequência genotípica, percentual.  
+Frequência genotípica não é percentual.  
 Frequência alélica -&gt;  Fr\(A ou a\) -&gt; D + H/2  ou R + H/2.  \( Homozigotos dominantes mais metade dos heterozigotos ou homozigotos recessivos mais metade dos heterozigotos \).
 
 > **Equlíbrio de WHE**
 >
-> **Dados    
+> **Dados      
 > **  
 > F\(A\) = p  
 > F\(a\) = q
@@ -47,7 +47,7 @@ Frequência alélica -&gt;  Fr\(A ou a\) -&gt; D + H/2  ou R + H/2.  \( Homozigo
 
 MM = 30%. MN = 50%. NN = 20%.
 
-Frequências genotípocas
+Frequências genotípicas
 
 F\(MM\) = 0.3,  F\(MN\) = 0.5,  F\(NN\) = 0.2.
 
@@ -95,6 +95,28 @@ q = 0.3
 p = 0.7
 
 F\(Dominante\) = F\(AA\) + F\(Aa\) = p² + 2pq = 0.7² + 2. 0.3 . 0.7  = 0.91
+
+#### Equilíbrio em alelos múltiplos
+
+**Dados**
+
+F\(A\) = p  
+F\(B\) = q  
+F\(i\) = r
+
+Tipo A     = AA ou Ai = F\(AA\) + F\(Ai\) = p² + 2pr  
+Tipo B     = BB ou Bi = F\(BB\) + F\(Bi\) = q² + 2qr  
+Tipo AB  = AB = F\(AB\) = 2pq  
+Tipo O    = ii = F\(ii\) = r²
+
+**Demonstrando**
+
+F\(i\)  = r = sqrt\( Fr\(ii\) \)  
+
+
+Tipo B + Tipo O = q² + 2qr + r² = polinômio = \(q+r\)²
+
+ 
 
 
 
