@@ -19,5 +19,9 @@ PROGRESSÃO DA INSTABILIDADE GENÉTICA:
 * Mutação ativadoras de K-Ras
 * Perda do Smad 4 e mutações unativadoras de P53
 
+Vias: Wnt, Beta catenina.
+
+---
+
 
 
