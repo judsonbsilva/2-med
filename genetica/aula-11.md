@@ -23,5 +23,7 @@ Vias de sinalização: **Wnt, Beta catenina.**
 
 ---
 
+### Genética de Populações
 
+Frequência genotípica. 
 
