@@ -32,7 +32,7 @@ Frequência alélica -&gt;  Fr\(A ou a\) -&gt; D + H/2  ou R + H/2.  \( Homozigo
 
 > **Equlíbrio de WHE**
 >
-> **Dados  
+> **Dados    
 > **  
 > F\(A\) = p  
 > F\(a\) = q
@@ -56,7 +56,7 @@ Frequências alélicas
 F\(M\) = 0.3 + 0.5/2 = 0.55.  
 F\(N\) = 0.2 + 0.5/2 = 0.45.
 
-Está no equilíbrio de Hardy-Weinberg? Sim, provavelmente está. 
+Está no equilíbrio de Hardy-Weinberg? Sim, provavelmente está.
 
 #### Exemplo 2
 
@@ -82,13 +82,23 @@ F\(MN\) = 2pq = 0.1
 **Calcula-se o qui-quadrado**
 
 Grau de liberdade = N - 2  
-Dado que há três genótipos, três classes. Logo N = 3.  
+Dado que há três fenótipos, três classes. Logo N = 3.  
 Gau de liberdade = 3 - 2 = 1  
 Alpha = 0.05.
 
+E PAH
+
+#### Exemplo 3
+
+F\(aa\) = 0,09 = q²  
+q = 0.3  
+p = 0.7
+
+F\(Dominante\) = F\(AA\) + F\(Aa\) = p² + 2pq = 0.7² + 2. 0.3 . 0.7  = 0.91
 
 
 
+---
 
 
 
