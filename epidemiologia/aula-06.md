@@ -1,4 +1,4 @@
-30/05/17 - Aula 7 - **Epidemiologia**
+30/05/17 - Aula 6 - **Epidemiologia**
 
 ---
 
