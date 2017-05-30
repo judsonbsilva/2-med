@@ -17,7 +17,7 @@ PROGRESSÃO DA INSTABILIDADE GENÉTICA:
 
 * Inativação do gene APC
 * Mutação ativadoras de K-Ras
-* Perda do Smad 4 e mutações unativadoras de P53
+* Perda do **Smad4** e mutações inativadoras de P53
 
 Vias: Wnt, Beta catenina.
 
