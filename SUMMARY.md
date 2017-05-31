@@ -30,6 +30,7 @@
   * [Aula 05](anatomia-2/aula-05.md)
   * [Aula 06](anatomia-2/aula-06.md)
   * [Aula 07](anatomia-2/aula-07.md)
+  * [Aula 08](anatomia-2/aula-08.md)
 * [Psicologia Médica](psicologia-medica.md)
   * [Aula 01](psicologia-medica/aula-1.md)
   * [Aula 02](psicologia-medica/aula-2.md)

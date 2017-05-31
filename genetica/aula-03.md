@@ -10,9 +10,9 @@ Ex: Calvície.
 
 n = 4.  P\(2 moliér não calva e 2 homi não calvo\)
 
-2 moliér não calva = 1/2
+moliér não calva = 1/2
 
-2 homi não calvo = 1/4
+homi não calvo = 1/4
 
 P = \( 4! / \(2! 2!\) \) \* \(1/2\) \* \(1/4\)
 
