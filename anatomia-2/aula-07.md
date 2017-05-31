@@ -2,7 +2,7 @@
 
 ---
 
-###  Abdome 1
+### Abdome 1 e 2
 
 Cavidade abdomico-pélvica, Parede abdominal, Cavidade, Cavidade peritonial
 

@@ -2,5 +2,13 @@
 
 ---
 
+### Abdome 3
+
+**Fícado**: hipocôndrio direito, epigástrico. Quadrante superior direito.
+
+Ligamentos, relações.
+
+
+
 
 
