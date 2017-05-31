@@ -6,9 +6,9 @@
 
 **Fícado**: hipocôndrio direito, epigástrico. Quadrante superior direito.
 
-Ligamentos, relações.
+Ligamentos, relações. Participa de mecanismos de desintoxicação, armazena Fe, Cu, Vitaminase Glicogênio.
 
-
+Produção de linfa.
 
 
 
