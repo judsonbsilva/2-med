@@ -26,13 +26,16 @@ O FRDE é a multiplicação entre as unidade de mapa dos pares de genes
 
 FRDE = 0,064 x 0,132 = 0, 0084 \( 8% de 1448 =~ 12 \)
 
-
-
 **COEFICIENTE DE COINCIDÊNCIA = FRDO/ FRDE**
 
 O número observado de duplos recombinantes dividido pelo número esperado de duplo recombinantes \(calculado a partir da multiplicação entre as unidades de mapas adjacentes aos genes\)
 
+Coeficiente de coincidência = C = 8/12 = 0.667 = 66,7%
 
+INTERFERÊNCIA É IGUAL A 1 - C.
+
+I = 1 - C  
+I = 1 - 0.667 = 0.33 = 33%
 
 ---
 
