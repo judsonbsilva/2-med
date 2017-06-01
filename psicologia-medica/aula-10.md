@@ -81,5 +81,17 @@ Alterações de memória
   * Interpretação factual
 * Testagem executiva
 
+---
 
+#### Assuntos da 1ª Prova
+
+Consciência, atenção, afetividade, pensamento, memória, psicomotricidade
+
+#### Assuntos da 2ª Prova
+
+Orientação, afeto, vontade
+
+#### Prática
+
+Consciência, pensamento, sensopercepção, linguagem, atenção
 
