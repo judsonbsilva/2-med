@@ -10,7 +10,7 @@
 
 **Sistema fragmentado **na comunicação, sem comunicação entre as diversas partes do sistema de saúde sem organização e planejamento com atendimento por demanda. A **restrição de acesso **se dá principalmente devido à distância geográfica, dado que a parte de maior complexidade do sistema é centralizado nas captais e grandes centros. **Sem participação da sociedade nas políticas públicas**, hierarquizado e autônomo aos usuários do sistema.
 
+**Durante o regime militar**
 
-
-
+Reforma sanitária, organização da sociedade na área da saúde em busca de um modelo com mais justiça social. Em 1986, VIII Conferência Nacional da Saúde. Constituição Federal 1988: SUS.
 
