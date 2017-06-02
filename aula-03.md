@@ -12,5 +12,7 @@
 
 **Durante o regime militar**
 
-Reforma sanitária, organização da sociedade na área da saúde em busca de um modelo com mais justiça social. Em 1986, VIII Conferência Nacional da Saúde. Constituição Federal 1988: SUS.
+Reforma sanitária, organização da sociedade na área da saúde em busca de um modelo com mais justiça social. Em 1986, VIII Conferência Nacional da Saúde. Constituição Federal 1988: SUS. Leis Federais 8080/90 e 8142/90 **lançamento do SUS.** Decreto 7508 de 28/06/11: Regulamentação da Lei 8080/90.
+
+
 
