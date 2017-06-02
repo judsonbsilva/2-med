@@ -31,15 +31,33 @@ Reforma sanitária, organização da sociedade na área da saúde em busca de um
   * Participativa e ascendente
 * Programação
   * Recursos para fins específicos nos municípios
+
   * PPI = Programação pactuada e integrada
     * Documento assino por todos os municípios do estado
-    * Repasse fundo a fundo
+    * Repasses fundo a fundo
     * Fundos nacional, estadual e municipal
-  * a
+    * Muda de nome PGAS = programação geral de ações e serviços da saúde
 * Regulação
+  * Organização dos serviços
+  * Capacidade de regular as demandas com soluções eficazes
 * Participação e Controle Social
+  * Conselho municipal
+    * 50% povo
+    * 25% gestores da saúde
+    * 25% prestador de serviço
+      * Finalidade
+        * Opinar
+        * Deliberar
 * Gestão do Trabalho
+  * 
 * Educação em Saúde
+  * Educação permanente dos profissionais da saúde
+    * Esquematizar formas de ensino sobre novas técnicas
+    * Reuniões periódicas com revisão das ações
+    * Dentro da lógica do espaço de trabalho
+  * Educação continuada
+    * Repasse de informações
+  * Educação popular
 
 
 
