@@ -2,7 +2,7 @@
 
 ---
 
-### Atenção Básica
+### Noções básicas na atenção básica
 
 **Referenciamente** é o encaminhamento adequado do paciente para outra guarnição dentro do sistema de saúde, a **regulação** é como isso se dá.
 
@@ -30,13 +30,16 @@ Reforma sanitária, organização da sociedade na área da saúde em busca de um
   * Reunião mensal dos secretários de saúde dos municípios para aprovação dos projetos dos gestores
   * Participativa e ascendente
 * Programação
+
   * Recursos para fins específicos nos municípios
 
   * PPI = Programação pactuada e integrada
+
     * Documento assino por todos os municípios do estado
     * Repasses fundo a fundo
     * Fundos nacional, estadual e municipal
     * Muda de nome PGAS = programação geral de ações e serviços da saúde
+
 * Regulação
   * Organização dos serviços
   * Capacidade de regular as demandas com soluções eficazes
@@ -49,7 +52,6 @@ Reforma sanitária, organização da sociedade na área da saúde em busca de um
         * Opinar
         * Deliberar
 * Gestão do Trabalho
-  * 
 * Educação em Saúde
   * Educação permanente dos profissionais da saúde
     * Esquematizar formas de ensino sobre novas técnicas
