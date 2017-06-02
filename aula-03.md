@@ -2,7 +2,7 @@
 
 ---
 
-### Noções básicas na atenção básica
+### Noções básicas na atenção primária
 
 **Referenciamente** é o encaminhamento adequado do paciente para outra guarnição dentro do sistema de saúde, a **regulação** é como isso se dá.
 
@@ -41,8 +41,10 @@ Reforma sanitária, organização da sociedade na área da saúde em busca de um
     * Muda de nome PGAS = programação geral de ações e serviços da saúde
 
 * Regulação
+
   * Organização dos serviços
   * Capacidade de regular as demandas com soluções eficazes
+
 * Participação e Controle Social
   * Conselho municipal
     * 50% povo
