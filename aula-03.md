@@ -8,7 +8,9 @@
 
 **Voltando no tempo**
 
-Sistema fragmentado, restrição de acesso, sem participação da sociedade nas políticas públicas.
+**Sistema fragmentado **na comunicação, sem comunicação entre as diversas partes do sistema de saúde sem organização e planejamento com atendimento por demanda. A **restrição de acesso **se dá principalmente devido à distância geográfica, dado que a parte de maior complexidade do sistema é centralizado nas captais e grandes centros. **Sem participação da sociedade nas políticas públicas**, hierarquizado e autônomo aos usuários do sistema.
+
+
 
 
 
