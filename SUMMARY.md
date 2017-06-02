@@ -58,4 +58,5 @@
 * Vivências I - Atenção Básica
   * [Aula 01](aula-01.md)
   * [Aula 02](aula-02.md)
+  * [Aula 03](aula-03.md)
 
