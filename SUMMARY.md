@@ -22,6 +22,7 @@
   * [Aula 08](genetica/aula-08.md)
   * [Aula 10](genetica/aula-09.md)
   * [Aula 11](genetica/aula-11.md)
+  * [Aula 12](genetica/aula-12.md)
 * [Anatomia 2](anatomia-2.md)
   * [Aula 01](anatomia-2/aula-01.md)
   * [Aula 02](anatomia-2/aula-02.md)
