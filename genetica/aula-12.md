@@ -36,6 +36,7 @@ p² + 2pq &gt; p
   * Ex: meteoro
 
 * Mutação
+
 * Seleção natural
 * Reprodução não aleatória
 
@@ -43,7 +44,7 @@ p² + 2pq &gt; p
 
 THOMPSOOOON
 
-**Polimorfismo balanceado.**
+**Polimorfismo balanceado. **O objetivo da seleção natural é repassar os alelos adaptativo e se livrar dos bixados.
 
 
 
