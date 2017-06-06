@@ -38,6 +38,7 @@ p² + 2pq &gt; p
 * Mutação
 
 * Seleção natural
+
 * Reprodução não aleatória
 
 #### Vantagem heterozigoto
@@ -45,6 +46,8 @@ p² + 2pq &gt; p
 THOMPSOOOON
 
 **Polimorfismo balanceado. **O objetivo da seleção natural é repassar os alelos adaptativo e se livrar dos bixados.
+
+Coeficiente de parentesco.
 
 
 
