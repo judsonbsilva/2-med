@@ -7,7 +7,7 @@
 Prevenção, tratamento.  
 Terapias tradicionais. Resistência aos agentes citotóxicos -&gt; inativação da via _**p53.**_
 
-Inibição da enzima PRAP, inativação da via de reparo 1. 
+Inibição da enzima PRAP, inativação da via de reparo 1.
 
 ---
 
@@ -15,13 +15,9 @@ Inibição da enzima PRAP, inativação da via de reparo 1.
 
 #### Equilíbrio de genes ligados
 
-
-
 | Machos | X\(A\) Y | X\(a\) Y |
 | :--- | :--- | :--- |
 | Frequência | p | q |
-
- 
 
 | Fêmeas | X\(A\) X\(A\) | X\(A\) X\(a\) | X\(a\) X\(a\) |
 | :--- | :--- | :--- | :--- |
@@ -29,6 +25,21 @@ Inibição da enzima PRAP, inativação da via de reparo 1.
 
 q &gt; q²  
 p² + 2pq &gt; p
+
+#### Fatores que alteram a frequências alélicas e genotípicas
+
+* Migração
+* Deriva genética
+  * Seleção natural **ao acaso** sem fator adaptativo
+
+  * Ex: meteoro
+* Mutação
+* Seleção natural
+* Reprodução não aleatória
+
+#### Vantagem heterozigoto
+
+THOMPSOOOON
 
 
 
