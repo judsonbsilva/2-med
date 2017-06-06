@@ -47,7 +47,5 @@ THOMPSOOOON
 
 **Polimorfismo balanceado. **O objetivo da seleção natural é repassar os alelos adaptativo e se livrar dos bixados.
 
-Coeficiente de parentesco.
-
-
+!Coeficiente de parentesco.
 
