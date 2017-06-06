@@ -30,9 +30,11 @@ p² + 2pq &gt; p
 
 * Migração
 * Deriva genética
+
   * Seleção natural **ao acaso** sem fator adaptativo
 
   * Ex: meteoro
+
 * Mutação
 * Seleção natural
 * Reprodução não aleatória
@@ -40,6 +42,8 @@ p² + 2pq &gt; p
 #### Vantagem heterozigoto
 
 THOMPSOOOON
+
+**Polimorfismo balanceado.**
 
 
 
