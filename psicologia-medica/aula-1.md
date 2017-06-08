@@ -30,7 +30,7 @@ Funções psíquicas: atitude e aparência. Aparência seria como o indivíduo s
 
 ### Consciência
 
-Consciência seria todas as funções psíquicas ocorrendo simultaneamente. Conforme o nível da atividade dessas funções pode-se dividir a consciência em níveis: lucidez, obnubilação, torpor, pré-coma, coma. O estado de alerta e bom funcionamento dessas funções psíquicas seria a lucidez. Uma leve deturpação desta seria a obnubilação \(enevoamento\). No torpor o indivíduo já não responde por si mesmo. Pré-coma seria uma intersecção entre torpor e coma. Coma seria um estado de baixíssimo funcionamento das funções psíquicas.
+Consciência seria todas as funções psíquicas ocorrendo simultaneamente. Conforme o nível da atividade dessas funções pode-se dividir a consciência em níveis: lucidez, obnubilação, torpor, pré-coma, coma. O estado de alerta e bom funcionamento dessas funções psíquicas seria a lucidez. Uma leve perturpação desta seria a obnubilação \(enevoamento\). No torpor o indivíduo já não responde por si mesmo. Pré-coma seria uma intersecção entre torpor e coma. Coma seria um estado de não funcionamento das funções psíquicas.
 
 #### Níveis de consciência
 

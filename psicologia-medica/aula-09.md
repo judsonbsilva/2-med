@@ -17,7 +17,7 @@ Quanto ao curso do pensamento, as alterações podem ser quantitativas:
 * Interrompido
   * Uma alteração na consciência da atividade do eu poderia ocasionar em pausas no curso do pensamento devido a impressão de um controle externo do pensamento
 
-Qualitativas
+**Qualitativas**
 
 * Forma
   * **Fuga de ideias**
@@ -36,7 +36,7 @@ Qualitativas
         * Perca do objetivo dos juízos
   * **Minuciosidade**
     * Detalhamento exacerbado da linha de associação feita no juízo
-* Conteúdo
+* **Conteúdo**
 
   * **Concretismo**
     * Perca da capacidade de percepção de metáfora
@@ -84,11 +84,7 @@ Quanto aos Delírios, existem alguns tipos notáveis:
 * Ideia Deliroide ou Secundário
   * Secundário a outra alteração na vontade, no humor
 
-
-
 **Sistematizado:** Há uma explicação logica para todos os detalhes do delírio.
 
 **Erotomaníaco**: indivíduo tem certeza que alguém de ascendencia social maior está apaixonado por ele.
-
-
 
